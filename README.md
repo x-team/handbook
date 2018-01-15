@@ -1,4 +1,4 @@
-# ![](/assets/33900818295_0592fb2da1_o.jpg)
+# ![](/assets/handbook.jpg)
 
 # Introduction
 
