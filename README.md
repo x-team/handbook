@@ -1,3 +1,5 @@
+# ![](/assets/33900818295_0592fb2da1_o.jpg)
+
 # Introduction
 
 Welcome to X-Team. Many developers before you have started on this same page and gone on to do the best work of their careers.
