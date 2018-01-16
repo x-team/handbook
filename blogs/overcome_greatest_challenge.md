@@ -1,4 +1,5 @@
 # Capitalize: How I Overcame Remote Working's Greatest Challenge
+
 by Ryan Chartrand
 
 ---

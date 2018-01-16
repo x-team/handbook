@@ -1,18 +1,20 @@
 # Summary
 
 * [Introduction](README.md)
-* [Core Values](core-values.md)
-  * [Active Communication](core-values.md#active-communication)
-  * [Ownership](core-values.md#ownership)
-  * [Compassion](core-values.md#compassion)
-  * [Proactiveness](core-values.md#proactiveness)
-* [Technicalities](technicalities.md)
-  * [Journaling](technicalities.md#journaling)
-  * [Invoicing & Time Off](technicalities.md#invoicing)
-  * [Unleash Budget](technicalities.md#unleash-budget)
-* [Remote Lifestyle](remote-lifestyle.md)
-  * [Outposts](remote-lifestyle.md#outposts)
-  * [Upcoming Outposts](remote-lifestyle.md#outposts-upcoming)
+* Onboarding Guide
+  * [Technicalities](technicalities.md)
+    * [Journaling](technicalities.md#journaling)
+    * [Invoicing & Time Off](technicalities.md#invoicing)
+    * [Unleash Budget](technicalities.md#unleash-budget)
+  * [Core Values](core-values.md)
+    * [Active Communication](core-values.md#active-communication)
+    * [Ownership](core-values.md#ownership)
+    * [Compassion](core-values.md#compassion)
+    * [Open to Learning](core-values.md#open-to-learning)
+    * [Proactiveness](core-values.md#proactiveness)
+  * [Remote Lifestyle](remote-lifestyle.md)
+    * [Outposts](remote-lifestyle.md#outposts)
+    * [Upcoming Outposts](remote-lifestyle.md#outposts-upcoming)
   * [Past Experiences](remote-lifestyle.md#outposts-past)
 * Good Reads
   * Remote Work
