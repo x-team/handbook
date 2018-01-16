@@ -14,7 +14,7 @@ This means that, not only will we not sanction you for speaking your mind \(keep
 
 ### Feedback
 
-Feedback is something that feeds into this Active Communication value as well. Our community places a huge value on both letting people know they're appreciated and on giving constructive criticism when necessary. Everyone loves giving and getting high-fives, but if there is something that can be improved, that should be communicated as well. You will **_never_** get in trouble for giving constructive criticism. However, if you'd still prefer to remain anonymous, talk to @ben and he'll pass your concerns on without mentioning who they're from.
+Feedback is something that feeds into this Active Communication value as well. Our community places a huge value on both letting people know they're appreciated and on giving constructive criticism when necessary. Everyone loves giving and getting high-fives, but if there is something that can be improved, that should be communicated as well. You will **_never_** get in trouble for giving constructive criticism. However, if you'd still prefer to remain anonymous, talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and he'll pass your concerns on without mentioning who they're from.
 
 ### Building Trust
 

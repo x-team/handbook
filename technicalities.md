@@ -125,7 +125,7 @@ The Submit Invoice button is the more important one at this point. When you clic
    A list of projects you can invoice the company for and the agreed hourly rate. Enter the number of hours you worked in that period.
 
 4. **Reimbursements**  
-  Here you can put in for any reimbursements you may wish to claim. Some examples would be Unleash Budget reimbursements, GameClub reimbursements, FitQuest reimbursements, referral bounties etc. This would also include reimbursements for education, conferences + related expenses, certain project specific software that’s required etc. If unsure, whether something fits, ping @ben.
+  Here you can put in for any reimbursements you may wish to claim. Some examples would be Unleash Budget reimbursements, GameClub reimbursements, FitQuest reimbursements, referral bounties etc. This would also include reimbursements for education, conferences + related expenses, certain project specific software that’s required etc. If unsure, whether something fits, ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6).
 
 5. **Survey**  
    Here you’ll find a few questions on how things are going for you in X-Team. There are no right or wrong answers here, just be honest, so we can help make things better if something is suboptimal or feel content that we’re doing a good job if everything’s fine.
@@ -147,5 +147,5 @@ You didn't think we'd forget about this, did you? This jewel is the equivalent o
 * \#conferences — ticket, travel, and/or lodging for any paid conference \(including \#unleashconf\)
 * Health & Wellbeing — anything that helps you relax and recharge your batteries
 
-Unsure of whether something you want to get fits in to one of these categories? Chances are it does, just shoot a quick ping to @ben to find out.
+Unsure of whether something you want to get fits in to one of these categories? Chances are it does, just shoot a quick ping to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) to find out.
 
