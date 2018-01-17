@@ -8,7 +8,7 @@ Despite the general aversion to systematization without reason, there are some p
 
 You'll see us reference "the core team" here at X-Team several times throughout this guide. This is referring to the team that keeps X-Team running. That's us above hanging out in Thailand, envisioning the future of X-Team.
 
-We named this team after open source projects, which also have core teams. Why? Because we see ourselves as a team of people dedicated to supporting X-Team developers, helping to set them up for success and to keep moving forward. 
+We named this team after open source projects, which also have core teams. Why? Because we see ourselves as a team of people dedicated to supporting X-Team developers, helping to set them up for success and to keep moving forward.
 
 We're the ones who help create opportunities throughout the community for you to learn, grow, explore the world, stay healthy and unleash your potential.
 
@@ -18,7 +18,7 @@ We're here to support you, 24/7.
 
 Let's jump into what we find is the most valuable piece of advice for ANY remote worker.
 
-The word "journal" probably brings to mind things like: “Dear Diary...” But what we're talking about is much closer to \`Captain's log, stardate 2017-09-10\`. 
+The word "journal" probably brings to mind things like: “Dear Diary...” But what we're talking about is much closer to \`Captain's log, stardate 2017-09-10\`.
 
 X-Teamers maintain daily journals as a way to build trust with the teams they work on.
 
@@ -30,7 +30,7 @@ And, before you ask, no, we're not calling you a slacker.
 
 See, there are two distinct objectives when writing these X-Journals.
 
-* The **first one is for the team you work with** to be able to see at any time, what you’re working on, how you’re progressing, etc. There might be daily or weekly standups, but nothing communicates competence like a journal of achievements you can always point to or which they can always check, when in doubt. 
+* The **first one is for the team you work with** to be able to see at any time, what you’re working on, how you’re progressing, etc. There might be daily or weekly standups, but nothing communicates competence like a journal of achievements you can always point to or which they can always check, when in doubt.
 
   This is the journal you may or may not already be writing. It is pretty much a summary of your daily work, and it should be primarily accessible by the **team that works with you on the project**. It should include things like what tickets you worked on, what problems you ran into and how you solved them, what you learned that day...
 
@@ -44,8 +44,6 @@ See, there are two distinct objectives when writing these X-Journals.
 
   **Basically, this second journal is here so we know what is going on and can step in and help solve problems before they evolve to their final form.**
 
-
-
 And if you are worried about how “complaining” is going to come across — no one in X-Team gets in trouble for expressing objective criticism. Obviously, it has to be professionally done — like putting it in this journal and/or messaging us and/or your account manager directly, but you will definitely not be penalized for it. If anything, “comparing notes” from several X-Teamers on a project could be helpful in potentially improving the work environment for everyone.
 
 ### Step I/III {#journaling-i}
@@ -57,9 +55,10 @@ So, now that you’ve read all this, if you’re not keeping an X-Team journal y
 3. Invite your account manager \(the person responsible for your team\) 
 4. Create the first, Hello World! post, which should include a simple introduction of yourself, with things like:
 
-* What are your usual working hours \(and timezone\)?
-* What is your preferred work environment? Beaches, mountain cabins, cafes, your own comfy bed...
-* What does a normal day for you involve \(no need to share anything personal you feel uncomfortable sharing\)
+5. What are your usual working hours \(and timezone\)?
+
+6. What is your preferred work environment? Beaches, mountain cabins, cafes, your own comfy bed...
+7. What does a normal day for you involve \(no need to share anything personal you feel uncomfortable sharing\)
 
 _PROTIP : If you need an example journal, take a look at \#samuel-pepys-journal on our Slack._
 
@@ -81,8 +80,6 @@ TIL \(Today I Learned\) posts can be really short. They show one thing you learn
 
 Sometimes, it's something very specific to the project, like a significant requirement that you found while digging through some docs. Another time, it's more general info that you discovered or remembered along the way, like a debugging technique or a handy bash trick.
 
-
-
 ##### How to write a TIL
 
 Start looking for those little "learning moments" in your day and quickly jot down some notes in your journal. Remember, keep it quick & raw. If others read it and have questions, they can ask for more info.
@@ -91,8 +88,6 @@ Try to keep it down to a couple of sentences and maybe a code snippet or screens
 
 **Exercise: **Try making a couple of TIL posts during your working day.
 
-
-
 ##### Why do we often avoid this?
 
 It's easy to fall into the trap of thinking"I won't share that TIL, because everybody probably knows it already, and I will seem dumb!”Or“What if I'm wrong and there's actually a better way to do it??"
@@ -100,8 +95,6 @@ It's easy to fall into the trap of thinking"I won't share that TIL, because ever
 As a wise commander once pointed out, _"It's a trap!"_
 
 Just do it, and everyone will thank you later.
-
-
 
 ##### Why should we do this?
 
@@ -122,8 +115,6 @@ Again, don't let this stop you. If somebody else knows a better way, this may be
 The other day I was reviewing pull requests on a github project, I and remembered a handy way to review them locally. I wrote it as a quick "TIL" entry, and since there's no sensitive businesss info there I also posted it to twitter:[https://twitter.com/joshwnj/status/855215578042073088](https://twitter.com/joshwnj/status/855215578042073088)
 
 In a couple of days it had 13 retweets and 9 likes. That's nothing groundbreaking, but if there's a handful of people that found it useful, it's totally worth the 2 minutes it took him to do it.
-
-
 
 ### Step III/III {#journaling-iii}
 
@@ -155,14 +146,18 @@ It's helpful to write reflections on your own code as well.
 
 ## Invoicing & Time Off {#invoicing}
 
-First, our invoicing period is **two weeks**, which means that, every two weeks, you will have the opportunity to submit your invoice with the total number of hours worked, reimbursement requests and other things, explained below. You will receive a notification about the beginning of the invoicing period per email and also on your google calendar for your X-Team account. If you do not receive any such notification by the 3rd Friday of your joining a project, contact Mike \(@mikerhoads\) and he’ll help you out.
+**Every two weeks**, you will have the opportunity to submit your invoice with the total number of hours worked, reimbursement requests, etc. 
 
-Once you receive the invoice period notification, go to [https://xteamdevs.appspot.com/](https://xteamdevs.appspot.com/). There, you will find your payment profile, which you’ll have to fill out the first time you’re there. On top, you have the options to _**Request Time Off **\_and _**Submit Invoice**_. The former is self-explanatory, so let me just add that you should always, if at all possible, _**request time off at least 1 month in advance**\_, preferably more.
+There's a reminder sitting on your Google Calendar for your X-Team account of when to submit. 
 
-The Submit Invoice button is the more important one at this point. When you click it, you’ll go through a 6-stage process.
+Once you receive the invoice period notification, go to our [Invoice App](https://xteamdevs.appspot.com/). There, you will find your payment profile, which you’ll have to fill out the first time you’re there. On top, you have the options to **Request Time Off**_** **_and_ _**Submit Invoice**_._
+
+**Request Time Off: **You should always **request time off at least 1 month in advance**, preferably more.
+
+**Submit Invoice: **When you click it, you’ll go through a 6-stage process.
 
 1. **Announcements**  
-   Here you will find some company announcements like the begin of XOutpost registrations, the Lit Beacons — when we are looking for specific profiles you could get a referral bonus for, etc.
+   Here you will find some company announcements like the beginning of X-Outpost registrations, the Beacons of Gondor \(referral bonuses\), all sorts of good stuff to read here.
 
 2. **Basics**  
    Invoice date, option to upload a PDF invoice \(you will still have to fill out everything\), and notes.
@@ -171,19 +166,21 @@ The Submit Invoice button is the more important one at this point. When you clic
    A list of projects you can invoice the company for and the agreed hourly rate. Enter the number of hours you worked in that period.
 
 4. **Reimbursements**  
-   Here you can put in for any reimbursements you may wish to claim. Some examples would be Unleash Budget reimbursements, GameClub reimbursements, FitQuest reimbursements, referral bounties etc. This would also include reimbursements for education, conferences + related expenses, certain project specific software that’s required etc. If unsure, whether something fits, ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6).
+   Here you can put in any reimbursements you may wish to claim. Some examples would be Unleash Budget reimbursements \(Clubs, Quests, Health/Wellbeing, Courses, Conferences, etc.\), referral bounties etc. If unsure, whether something fits, ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6).
 
 5. **Survey**  
-   Here you’ll find a few questions on how things are going for you in X-Team. There are no right or wrong answers here, just be honest, so we can help make things better if something is suboptimal or feel content that we’re doing a good job if everything’s fine.
+   Here you’ll find a few questions on how things are going for you in X-Team. There are no right or wrong answers here, just be honest, so we can help make things better if something is suboptimal.
 
 6. **Banking info**  
-   Here you get a last chance to fix any mistakes in the recipient details for your salary. Double-check everything, hit Finish, and wait for the money to show up in your account. As a general guide on the transaction speed - barring public holidays, the money usually arrives in my EU bank account by Friday after the invoicing period.
+   Here you get a last chance to fix any mistakes in the recipient details for your salary. Double-check everything, hit Finish, and wait for that sweet cash to show up in your account. As a general guide on the transaction speed - barring public holidays, the money usually arrives in a EU bank account by Friday after the invoicing period.
 
-And this is really all there is to it. If you’re experiencing any kind of problems with your payments, just talk to Mike \(@mikerhoads\) and he’ll help you out.
+And that's it. If you’re experiencing any kind of problems with your payments, just talk to our Head of Apps, Mike Rhoads \(@mikerhoads\) and he’ll help you out.
+
+
 
 ## Unleash Budget {#unleash-budget}
 
-You didn't think we'd forget about this, did you? This jewel is the equivalent of 2500 USD per calendar year, which are there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for:
+You didn't think we'd forget about this, did you? This jewel is the equivalent of $2,500 USD per calendar year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for:
 
 * \#photography-club — up to $50/month toward photography equipment
 * \#productivity-quest — up to $20/month on any productivity app
@@ -191,7 +188,7 @@ You didn't think we'd forget about this, did you? This jewel is the equivalent o
 * \#fit-quest — gym membership
 * \#courses — any paid course
 * \#conferences — ticket, travel, and/or lodging for any paid conference \(including \#unleashconf\)
-* Health & Wellbeing — anything that helps you relax and recharge your batteries
+* Health & Wellbeing — anything that helps you relax and recharge your batteries \(massage, therapy, yoga, etc.\)
 
 Unsure of whether something you want to get fits in to one of these categories? Chances are it does, just shoot a quick ping to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) to find out.
 
