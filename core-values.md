@@ -42,30 +42,16 @@ There are four things that can help you maintain and strengthen that trust every
 
 ## Ownership {#ownership}
 
-> Ordinary is not an option.
-
-Within the community, you will always have the freedom of speaking your mind and proposing your own brilliant ideas. And thanks to good relationships with our partners, they will be happy to hear you out as well, as long as the ideas are professional and constructive.
-
-Once these ideas have been presented to the public, the projects owners, and your team, _**it is important that you own the ideas.**_
-
-That means expressing them clearly, taking responsibility for their flaws and always keeping them sharp.
-
 Being a true X-Teamer in terms of ownership means that you are:
 
-* **Taking responsibility for what you create**  
-  Ideas, new solutions, ground breaking changes, those are milestones of any successful project. There might be situations where you will need to defend your ideas and take responsibility for them so always have that in mind.
-
-* **Creative in your work**  
-  “Good artists copy, great artists steal.” This is a popular quote, but you will make the largest impact with your own ideas. Try to go outside of your comfort zone and bring something fresh to the table.
-
-* **Leading the team**  
-  An X-Teamer is a leader who does not hide in the shadows of other team members. Sometimes, brave steps might be necessary to join the front row.
+* **Taking responsibility**  
+  When you take something on, whether it be a new projects, ideas, solutions, etc., you should treat it like your own and take pride in it, seeing it through from conception to completion. It's your baby, so deliver it and care for it like you would a real child.
 
 * **Committed**  
-  Stick to what you believe in, even in situations where others might feel different.
+  Your motivation might change over the course of a project, but it doesn't mean you should start putting in less effort. When you committed to doing it, you made a pact with yourself that said "I will see this through, I will keep moving forward, I will unleash my potential, because I believe in making an impact in this team." 
 
-* **Communicative**  
-  You need to be able to defend your ideas in a professional manner. If you feel your solution is the right way to go, maybe you need to present it better and clearer. Do it in a way so that everyone understands their benefit.
+* **Uphold quality**  
+  We've learned a lot from the world of open source. X-Teamers are developers who code like the world is watching, like you're submitting a PR to a project with 10,000 stars on Github even if it's just a team of three. This is your project and it deserves nothing less than 100% of what you can provide it. Don't get lazy, stay committed to yourself and what you believe in.
 
 ## Compassion {#compassion}
 
