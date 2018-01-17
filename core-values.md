@@ -65,9 +65,13 @@ This is why we strongly believe in and act on the two types of Compassion.
 
 External Compassion targets other people’s external circumstances. X-Teamers and X-Team both try and help as many people as possible, directly, through organization and participation of various charitable events, like coding schools for the underprivileged, talks at schools, general charity work, and also monetary donations to charitable causes. Even improving one life is worth it, and every little bit of difference we make gives us more conviction that what we are doing is the right thing to do.
 
+Every year, you can participate in the [12 Days of X-Mas](https://x-team.com/blog/x-teamers-donate-3-500-to-great-causes/) and help us donate to great causes you believe in.
+
 ### Internal Compassion
 
 Internal compassion, empathy, this is the ability to put oneself into another’s shoes. X-Team is a group of people from all over the world with various religious, economic, political, social, and other beliefs — believe us, we know, we have \#economy-and-politics — but despite debates taking place among people who hold the exact opposite beliefs, we always keep in mind that this person is our friend and teammate. They may hold beliefs that differ from ours, but that does not make them a worse person. Their life experience has brought them to different conclusions, and we respect that and try to understand the issue from their point-of-view.
+
+The way people communicate throughout the X-Team community will inspire you to truly embrace empathy on a daily basis.
 
 ### Open to learning {#open-to-learning}
 
