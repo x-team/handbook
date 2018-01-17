@@ -24,6 +24,7 @@
     * [Capitalize: How I Overcame Remote Working's Greatest Challenge](blogs/overcome_greatest_challenge.md)
     * [How to Present Yourself in a Remote Developer Interview](blogs/how_to_present_yourself.md)
     * [Remote Working: A Way of Cultural Enrichment](blogs/cultural_enrichment.md)
+    * [UnleashConf — The Perfect Way to Integrate Remote Teams](blogs/unleashconf.md)
   * Remote Lifestyle
     * [How to Create an Affordable and Dynamic Ergonomic Office](blogs/ergonomic_office.md)
     * [Setting Up For Your First Long Haul Adventure](blogs/setting_up_for_adventure.md)
