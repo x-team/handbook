@@ -16,6 +16,7 @@
     * [Outposts](remote-lifestyle.md#outposts)
     * [Upcoming Outposts](remote-lifestyle.md#outposts-upcoming)
     * [Past Experiences](remote-lifestyle.md#outposts-past)
+  * [FAQ](faq.md)
 * Good Reads
   * Remote Work
     * [Capitalize: How I Overcame Remote Working's Greatest Challenge](blogs/overcome_greatest_challenge.md)
