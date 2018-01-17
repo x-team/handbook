@@ -15,7 +15,7 @@
   * [Remote Lifestyle](remote-lifestyle.md)
     * [Outposts](remote-lifestyle.md#outposts)
     * [Upcoming Outposts](remote-lifestyle.md#outposts-upcoming)
-  * [Past Experiences](remote-lifestyle.md#outposts-past)
+    * [Past Experiences](remote-lifestyle.md#outposts-past)
 * Good Reads
   * Remote Work
     * [Capitalize: How I Overcame Remote Working's Greatest Challenge](blogs/overcome_greatest_challenge.md)
@@ -34,3 +34,4 @@
     * [How to Win Back Your Productivity After a Vacation](blogs/win_back_productivity.md)
     * [How to Hack Your Motivation](blogs/hack_motivation.md)
     * [How to Unleash Yourself in Just 2 Simple Steps](blogs/how_to_unleash_self.md)
+

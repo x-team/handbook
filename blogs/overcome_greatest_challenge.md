@@ -4,6 +4,9 @@ by Ryan Chartrand
 
 ---
 
+Watch the epic video: https://www.youtube.com/watch?v=Vq_KaqeqXoo
+
+
 Something strange happens when you can work from anywhere. It gives you the ultimate gift -- true freedom, freedom to plan out your day, to live anywhere in the world, to go anywhere at any time, to go to the gym finally, to achieve the goals you've put off for so long.
 
 We ascend to the dream way of living and working, and yet...why is it so hard to capitalize on it? 
