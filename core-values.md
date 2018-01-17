@@ -48,14 +48,16 @@ Being a true X-Teamer in terms of ownership means that you are:
   When you take something on, whether it be a new projects, ideas, solutions, etc., you should treat it like your own and take pride in it, seeing it through from conception to completion. It's your baby, so deliver it and care for it like you would a real child.
 
 * **Committed**  
-  Your motivation might change over the course of a project, but it doesn't mean you should start putting in less effort. When you committed to doing it, you made a pact with yourself that said "I will see this through, I will keep moving forward, I will unleash my potential, because I believe in making an impact in this team." 
+  Your motivation might change over the course of a project, but it doesn't mean you should start putting in less effort. When you committed to doing it, you made a pact with yourself that said "I will see this through, I will keep moving forward, I will unleash my potential, because I believe in making an impact in this team."
 
 * **Uphold quality**  
   We've learned a lot from the world of open source. X-Teamers are developers who code like the world is watching, like you're submitting a PR to a project with 10,000 stars on Github even if it's just a team of three. This is your project and it deserves nothing less than 100% of what you can provide it. Don't get lazy, stay committed to yourself and what you believe in.
 
 ## Compassion {#compassion}
 
-Helping others makes everyone feel good. It is one of the most basic human instincts, developed out of the raw need for survival. In this day and age, the survival of people who join X-Team is not in danger and we are thankful for this privilege. We were lucky enough to be born in places and situations that enabled us to become what we are today and to be able to give back to our communities and the world at large.
+Helping others makes everyone feel good. It is one of the most basic human instincts, developed out of the raw need for survival. We were lucky enough to be born in places and situations that enabled us to become what we are today and to be able to give back to our communities and the world at large.
+
+You were meant to make an impact in this world, and we want to help you do just that every day.
 
 This is why we strongly believe in and act on the two types of Compassion.
 
