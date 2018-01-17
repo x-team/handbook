@@ -1,10 +1,24 @@
 # Remote Lifestyle {#remote}
 
+## UnleashConf {#unleashconf}
+
+> [<center>![](assets/unleashconf.jpg)Trailer for the 1st ever UnleashConf: Krakow 2017</center>](https://vimeo.com/235819592/27cebbcab9)
+
+The UnleashConf is X-Teams very own conference organized by X-Teamers for X-Teamers. Its first iteration happened in Krakow, Poland, in 2017 and was described by many an attendee as _"The single best X-team event ever!"_
+
+The conference is free to attend, however every X-Teamer is expected to share some of his knowledge or experiences with the others by giving a short (or not so short) talk. And once that official part is done, several more or less adrenaline-filled activities await!
+
+The UnleashConf is a uniquely great opportunity to meet in person some of the "names from slack", especially for those who cannot just pack up and fly to an X-Outpost for a month or so.
+
+And speaking of X-Outposts...
+
 ## X-Outposts {#outposts}
 
 Who doesn't like working from home or, indeed, anywhere on the planet? Silly question, right? That's why we here at X-Team  created the X-Outpost.
 
 ### What is the X-Outpost?
+
+> [<center>![](https://res.cloudinary.com/dukp6c7f7/image/upload/f_auto,fl_lossy,q_auto/s3-ghost/2017/08/IMG_3220-1503578933281.JPEG) X-Outpost 2018 Teaser</center>](https://www.youtube.com/watch?v=T2rQn0ejdFE)
 
 The [**X-Outpost**](http://x-team.com/x-outpost) is a roaming hacker house where nomad developers live, work and explore together. Each month, the X-Outpost moves to a different city in the world. They are hosted by Guardians, someone who serves as the host and guide for all activities.
 
@@ -82,7 +96,7 @@ Look for Slack channels named \#x-outpost-\[countryName\] as well as announcemen
   **SOUTH AFRICA  
   TBD
 
-* **SEP '19      
+* **SEP '19
   **POLAND  
   TBD
 

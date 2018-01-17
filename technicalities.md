@@ -145,19 +145,21 @@ It's helpful to write reflections on your own code as well.
 
 * Finally, did you observe the golden rule of coding? I.e., _“Always write code assuming the next person that’ll work with it is a violent psychopath that knows where you live.”_
 
-##  {#invoicing}
-
 ## Invoicing & Time Off {#invoicing}
 
 **Every two weeks**, you will have the opportunity to submit your invoice with the total number of hours worked, reimbursement requests, etc.
 
 There's a reminder sitting on your Google Calendar for your X-Team account of when to submit.
 
-Once you receive the invoice period notification, go to our [Invoice App](https://xteamdevs.appspot.com/). There, you will find your payment profile, which you’ll have to fill out the first time you’re there. On top, you have the options to **Request Time Off**_** **\_and_ _**Submit Invoice**_.\_
+Once you receive the invoice period notification, go to our [Invoice App](https://xteamdevs.appspot.com/). There, you will find your payment profile, which you’ll have to fill out the first time you’re there. On top, you have the options to **Request Time Off** and **Submit Invoice**.
 
-**Request Time Off: **You should always **request time off at least 1 month in advance**, preferably more.
+> **IMPORTANT** — Fill out the banking info _**before**_ you start a new invoice.
 
-**Submit Invoice: **When you click it, you’ll go through a 6-stage process.
+**Request Time Off**  
+  You should always **request time off at least 1 month in advance**, preferably more.
+
+**Submit Invoice**  
+  When you click it, you’ll go through a 6-stage process.
 
 1. **Announcements**  
    Here you will find some company announcements like the beginning of X-Outpost registrations, the Beacons of Gondor \(referral bonuses\), all sorts of good stuff to read here.

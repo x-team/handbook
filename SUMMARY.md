@@ -14,9 +14,10 @@
     * [Open to Learning](core-values.md#open-to-learning)
     * [Proactiveness](core-values.md#proactiveness)
   * [Remote Lifestyle](remote-lifestyle.md)
+    * [UnleashConf](remote-lifestyle.md#unleashconf)
     * [Outposts](remote-lifestyle.md#outposts)
-    * [Upcoming Outposts](remote-lifestyle.md#outposts-upcoming)
-    * [Past Experiences](remote-lifestyle.md#outposts-past)
+      * [Upcoming Outposts](remote-lifestyle.md#outposts-upcoming)
+      * [Past Experiences](remote-lifestyle.md#outposts-past)
   * [FAQ](faq.md)
 * Good Reads
   * Remote Work
