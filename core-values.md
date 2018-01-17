@@ -77,10 +77,6 @@ The way people communicate throughout the X-Team community will inspire you to t
 
 We love seeing X-Teamers learn and share their knowledge. That's why we have dedicated a yearly Unleash Budget for you. You have $2,500 to spend every year for the purposes of self development. Whether you need an online course, a book, to experiment with a new tool that has some paid subscription - we’ve got you covered.
 
-**The only rule is:** Everyone in our community benefits by others sharing \(including you\), so using your budget has to result in sharing something with the community. For example, if it’s a course/book, then publish a short review or a recommendation in the _**\#courses**_ channel; if it's a club/quest expense, post about it in the corresponding channel; if it’s a conference you attended, you could write a blog post about your takeaways. You get the idea.
-
-_In case you would like to see some real life examples, head over to \#courses and see reviews that are already in there. Check out _[_this post_](https://x-team.slack.com/files/U1XDNKJ0J/F899X5KFW/Courses_Budget)_ first to get all the details._
-
 A true X-Teamer is open to learning in the following sense:
 
 * **Is willing to learn new technologies**  
@@ -90,34 +86,35 @@ A true X-Teamer is open to learning in the following sense:
   Learning doesn’t mean that you have to only look into the future. It’s very valuable to look behind and retrospect on your actions. This is where the journal you created during your onboarding comes in handy — use it to post retrospectives on projects or even just your week. Always be searching for lessons you can learn in the work you’re doing.
 
 * **Is curious to learn**  
-    This is where your creativity comes into play. During your time with X-Team, and may it be long, we would love for you to learn and grow as a professional. Use you Unleash budget wisely and share your knowledge with other X-Teamers. Gain experience by always trying something new.
+  This is where your creativity comes into play. During your time with X-Team, we would love for you to learn and grow as a professional. Use your Unleash budget wisely and share your knowledge with other X-Teamers. Gain experience by always trying something new.
 
-An example of the **Openness to Learning** is the participation of 24 X-Teamers in the **UnleashConf**, where they all shared their knowledge and learned from the community — they also had a great time in general, as the even was dubbed "The Greatest Event in X-Team History" by some, so don't miss the next iteration ;\)
+An example of the **Openness to Learning** is the participation of 24 X-Teamers in the [**UnleashConf**](https://x-team.com/blog/integrate-remote-teams-conference/), where they all shared their knowledge and learned from the community.
 
 ## Proactiveness {#proactiveness}
 
-The British Dictionary defines _"proactive"_ as _“tending to initiate change rather than reacting to events”_. That is exactly how X-Teamers behave in their natural environment — remote work. We don’t wait for things to happen, we take control of our work, project and situation and _act_.
+The British Dictionary defines _"proactive"_ as _**“tending to initiate change rather than reacting to events”**_**.** That is exactly how X-Teamers behave in their natural environment — remote work. We don’t wait for things to happen, we take control of our work, project and situation and _act_.
 
 Being a true X-Teamer in terms of proactiveness means that you are:
 
-* **Keeping Things Moving Forward**  
-    You don’t wait for that next ticket to get assigned to you; when you see a potential for improvement in the project you’re working on or a new feature comes to your mind, you’re the first to reach out, propose it, fix it, and do it. You are in control.
+* **Keeping Things Moving Forward**   
+  You don’t wait for that next ticket to get assigned to you; when you see a potential for improvement in the project you’re working on or a new feature comes to your mind, you’re the first to reach out, propose it, fix it, and do it. You are in control.
 
 * **Unblockable**  
-    Remote work can be tough. All of us have had situations where we had to wait 12+ hours for someone to answer our question, clear out our doubts or just finish that task we’re dependent on.  
+  Remote work can be tough. All of us have had situations where we had to wait 12+ hours for someone to answer our question, clear out our doubts or just finish that task we’re dependent on.  
+  
   The key here is to do as much as possible in any given situation. Don’t just ask a question and leave it - propose a solution in the meantime, code something alternative that could solve the issue, show that you are proactive beyond the obstacles of being remote.
 
 * **Adaptable**  
-    We all love technology but that doesn’t mean any of us have to be that “I only do PHP/JS/Java” developer. We appreciate being open and adaptable to solve any given task, no matter the technologies and obstacles that we’re given. Every opportunity we’re given is an opportunity to learn and unleash our potential in new ways.
+  We all love technology but that doesn’t mean any of us have to be that “I only do PHP/JS/Java” developer. We appreciate being open and adaptable to solve any given task, no matter the technologies and obstacles that we’re given. Every opportunity we’re given is an opportunity to learn and unleash our potential in new ways.
 
 * **Not Needing Your Hand Held**  
-    There is a certain period in every project’s life when you’re the new recruit. Put yourself in the shoes of our partners — they need someone who can come in, take the initiative and hit the ground running in every project. They don’t need someone who needs to have their hand held through everything. It’s good to ask questions to remain ‘unblockable’, but always keep pushing forward as much as you can and never wait to be told what to do.
+  There is a certain period in every project’s life when you’re the new recruit. Put yourself in the shoes of our partners — they need someone who can come in, take the initiative and hit the ground running in every project. They don’t need someone who needs to have their hand held through everything. It’s good to ask questions to remain ‘unblockable’, but always keep pushing forward as much as you can and never wait to be told what to do.
 
 * **Iterative/Reflective**  
-    Everyone makes mistakes. The best ones reflect on them and progress in the next iteration. Take the time to reflect, learn and stay humble — no one’s perfect, we are always evolving and becoming better than we were yesterday.
+  Everyone makes mistakes. The best ones reflect on them and progress in the next iteration. Take the time to reflect, learn and stay humble — no one’s perfect, we are always evolving and becoming better than we were yesterday.
 
 * **Constantly Improving**  
-    Be hungry for more knowledge and expertise. Improve your skills and craft with courses, lectures, going to meetups and conferences. Keep the saw sharp. This industry is constantly changing, and only those who change alongside it will have the most rewarding careers.
+  Be hungry for more knowledge and expertise. Improve your skills and craft with courses, lectures, going to meetups and conferences. Keep the saw sharp. This industry is constantly changing, and only those who change alongside it will have the most rewarding careers.
 
 
 
