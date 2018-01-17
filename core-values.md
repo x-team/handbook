@@ -1,6 +1,8 @@
 # X-Team's Core Values
 
-X-Teamers are incredibly diverse in so many ways, from skillsets to beliefs and beyond, but our core values are a baseline of attributes that we all share. They are the most important characteristics we look for before welcoming anyone into our community, and they are critical to making X-Team successful for many years to come. Thus, we decided to put these characteristics, these personal values on paper, so there's never any doubt what we're about.
+X-Teamers are incredibly diverse in so many ways, from skillsets to beliefs and beyond, but our core values are a baseline of attributes that we all share. They are the most important characteristics we look for before welcoming anyone into our community, and they are critical to making X-Team successful for many years to come. Thus, we decided to write down these characteristics and personal values, so there's never any doubt what we're all about.
+
+
 
 ## Active Communication {#active-communication}
 
@@ -10,34 +12,34 @@ Do you know the feeling of working in a “traditional” company, where express
 
 Yes, we hate that too, so we made Active Communication one of our core values.
 
-This means that, not only will we not sanction you for speaking your mind \(keep it professional, of course\), but we actively encourage it. We want to know what is going on with you, both professionally and, provided you are willing to share, personally. We are nurturing a community that truly is a group of friends working together, traveling together, gaming together, talking together… You may not be into everything we do, but chances are there are a few X-Teamers who share your passions and would love to have you join their little group.
+This means that, not only will we not sanction you for speaking your mind \(keep it professional, of course\), but we actively encourage it. We want to know what is going on with you, both professionally and, provided you are willing to share, personally. We are nurturing a community that truly is a group of friends working together, traveling together, gaming together, talking together… You may not be into everything we do, but chances are there are a few X-Teamers who share your passions and would love to have you join their group.
 
 ### Feedback
 
-Feedback is something that feeds into this Active Communication value as well. Our community places a huge value on both letting people know they're appreciated and on giving constructive criticism when necessary. Everyone loves giving and getting high-fives, but if there is something that can be improved, that should be communicated as well. You will **_never_** get in trouble for giving constructive criticism. However, if you'd still prefer to remain anonymous, talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and he'll pass your concerns on without mentioning who they're from.
+Feedback is something that feeds into this Active Communication value as well. Our community places a huge value on both letting people know they're appreciated and on giving constructive criticism when necessary. Everyone loves giving and getting high-fives, but if there is something that can be improved, that should be communicated as well. You will _**never**_ get in trouble for giving constructive criticism. However, if you'd still prefer to remain anonymous, talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and he'll pass your concerns on without mentioning who they're from.
 
 ### Building Trust
 
 There is more to Active Communication than just building an awesome community, however. _**Keeping your comm lines open builds trust.**_
 
-Since X-Team is 100% remote, we cannot — _and do not want to _— constantly watch what you are doing. We abhor the practice of requiring people to install privacy-intruding software that spies on what they are doing at all times. We do not count minutes you have spent working every day.
+Since X-Team is 100% remote, we cannot — _and do not want to _— constantly watch what you are doing. We abhor the practice of requiring people to install privacy-intruding software that spies on what they are doing at all times. We do not count minutes you have spent working every day, nor should you.
 
-Instead, _**we decided to trust our teammates to be the best they can be.**_
+Instead, _**we believe in trusting people. Period.**_
 
-Revolutionary, isn't it?
+We hired you after all, why shouldn't we trust you?
 
-There are four things that come with such a high level of trust, however.
+There are four things that can help you maintain and strengthen that trust every day.
 
-* **A journal of activity**
-  A slack channel kept by every X-Teamer, where they record their daily achievements.
+* **A journal of activity**  
+  A Slack channel kept by every X-Teamer, where they record their daily progress.
 
-* **Availability on our Slack and whatever platform the project uses for communication**  
-  We do not expect anyone to be available 9-5, but apart from scheduled meetings \(of which there are as few as possible\), your team should know when and where they can reach you, if the need arises.
+* **Make yourself visible and available.**  
+  Say "hello" to your team when you start working as it sets them at ease knowing you're connected and contributing. We don't expect you to work 9-5, but if you set expectations with your team to be available at a certain time, stay true to your word or reset expectations as soon as you can. Never leave your team hanging as they'd never do that to you.
 
-* **Sincerity and openness towards the core-team**
+* **Sincerity and openness towards the core-team**  
   Their job is to make things go smoothly, so if there is _**\*anything\***_ you feel they should know, tell them. Nobody has ever gotten in trouble for professionally bringing up issues so they could be solved, be it regarding the project, their X-Team experience, or something else entirely.
 
-* **Being active on slack**
+* **Being active on slack**  
   Through the vetting process, the core-team has come to trust you. Through your participation in your team, they will hopefully grow to trust you as well. But at the end of the day, we're a rather large community, and it never hurts to have more friends you can count on, so be active on slack, respond, react, and have fun with everyone!
 
 ## Ownership {#ownership}
@@ -55,16 +57,16 @@ Being a true X-Teamer in terms of ownership means that you are:
 * **Taking responsibility for what you create**  
   Ideas, new solutions, ground breaking changes, those are milestones of any successful project. There might be situations where you will need to defend your ideas and take responsibility for them so always have that in mind.
 
-* **Creative in your work**
+* **Creative in your work**  
   “Good artists copy, great artists steal.” This is a popular quote, but you will make the largest impact with your own ideas. Try to go outside of your comfort zone and bring something fresh to the table.
 
-* **Leading the team**
+* **Leading the team**  
   An X-Teamer is a leader who does not hide in the shadows of other team members. Sometimes, brave steps might be necessary to join the front row.
 
 * **Committed**  
   Stick to what you believe in, even in situations where others might feel different.
 
-* **Communicative**
+* **Communicative**  
   You need to be able to defend your ideas in a professional manner. If you feel your solution is the right way to go, maybe you need to present it better and clearer. Do it in a way so that everyone understands their benefit.
 
 ## Compassion {#compassion}
@@ -98,7 +100,7 @@ A true X-Teamer is open to learning in the following sense:
   Learning doesn’t mean that you have to only look into the future. It’s very valuable to look behind and retrospect on your actions. This is where the journal you created during your onboarding comes in handy — use it to post retrospectives on projects or even just your week. Always be searching for lessons you can learn in the work you’re doing.
 
 * **Is curious to learn**  
-	This is where your creativity comes into play. During your time with X-Team, and may it be long, we would love for you to learn and grow as a professional. Use you Unleash budget wisely and share your knowledge with other X-Teamers. Gain experience by always trying something new.
+    This is where your creativity comes into play. During your time with X-Team, and may it be long, we would love for you to learn and grow as a professional. Use you Unleash budget wisely and share your knowledge with other X-Teamers. Gain experience by always trying something new.
 
 An example of the **Openness to Learning** is the participation of 24 X-Teamers in the **UnleashConf**, where they all shared their knowledge and learned from the community — they also had a great time in general, as the even was dubbed "The Greatest Event in X-Team History" by some, so don't miss the next iteration ;\)
 
@@ -109,23 +111,23 @@ The British Dictionary defines _"proactive"_ as _“tending to initiate change r
 Being a true X-Teamer in terms of proactiveness means that you are:
 
 * **Keeping Things Moving Forward**  
-	You don’t wait for that next ticket to get assigned to you; when you see a potential for improvement in the project you’re working on or a new feature comes to your mind, you’re the first to reach out, propose it, fix it, and do it. You are in control.
+    You don’t wait for that next ticket to get assigned to you; when you see a potential for improvement in the project you’re working on or a new feature comes to your mind, you’re the first to reach out, propose it, fix it, and do it. You are in control.
 
 * **Unblockable**  
-	Remote work can be tough. All of us have had situations where we had to wait 12+ hours for someone to answer our question, clear out our doubts or just finish that task we’re dependent on.  
+    Remote work can be tough. All of us have had situations where we had to wait 12+ hours for someone to answer our question, clear out our doubts or just finish that task we’re dependent on.  
   The key here is to do as much as possible in any given situation. Don’t just ask a question and leave it - propose a solution in the meantime, code something alternative that could solve the issue, show that you are proactive beyond the obstacles of being remote.
 
 * **Adaptable**  
-	We all love technology but that doesn’t mean any of us have to be that “I only do PHP/JS/Java” developer. We appreciate being open and adaptable to solve any given task, no matter the technologies and obstacles that we’re given. Every opportunity we’re given is an opportunity to learn and unleash our potential in new ways.
+    We all love technology but that doesn’t mean any of us have to be that “I only do PHP/JS/Java” developer. We appreciate being open and adaptable to solve any given task, no matter the technologies and obstacles that we’re given. Every opportunity we’re given is an opportunity to learn and unleash our potential in new ways.
 
 * **Not Needing Your Hand Held**  
-	There is a certain period in every project’s life when you’re the new recruit. Put yourself in the shoes of our partners — they need someone who can come in, take the initiative and hit the ground running in every project. They don’t need someone who needs to have their hand held through everything. It’s good to ask questions to remain ‘unblockable’, but always keep pushing forward as much as you can and never wait to be told what to do.
+    There is a certain period in every project’s life when you’re the new recruit. Put yourself in the shoes of our partners — they need someone who can come in, take the initiative and hit the ground running in every project. They don’t need someone who needs to have their hand held through everything. It’s good to ask questions to remain ‘unblockable’, but always keep pushing forward as much as you can and never wait to be told what to do.
 
 * **Iterative/Reflective**  
-	Everyone makes mistakes. The best ones reflect on them and progress in the next iteration. Take the time to reflect, learn and stay humble — no one’s perfect, we are always evolving and becoming better than we were yesterday.
+    Everyone makes mistakes. The best ones reflect on them and progress in the next iteration. Take the time to reflect, learn and stay humble — no one’s perfect, we are always evolving and becoming better than we were yesterday.
 
 * **Constantly Improving**  
-	Be hungry for more knowledge and expertise. Improve your skills and craft with courses, lectures, going to meetups and conferences. Keep the saw sharp. This industry is constantly changing, and only those who change alongside it will have the most rewarding careers.
+    Be hungry for more knowledge and expertise. Improve your skills and craft with courses, lectures, going to meetups and conferences. Keep the saw sharp. This industry is constantly changing, and only those who change alongside it will have the most rewarding careers.
 
 
 
