@@ -12,7 +12,11 @@ We named this team after open source projects, which also have core teams. Why? 
 
 We're the ones who help create opportunities throughout the community for you to learn, grow, explore the world, stay healthy and unleash your potential.
 
-We're here to support you, 24/7.
+**We're here to support you, 24/7.**
+
+We have teams for marketing, vetting, business development, community and finance.
+
+Unsure of who to talk to on the core team for help? Start with your account manager \(the person who hired you\) and they will direct you to the right person.
 
 ## Journaling {#journaling}
 
