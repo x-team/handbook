@@ -28,7 +28,7 @@ X-Teamers maintain daily journals as a way to build trust with the teams they wo
 
 And I promise, it’s not about us wanting to put more work on your shoulders. It’s actually about, well, this:
 
-[https://www.youtube.com/watch?v=dnzE9ip5U04](https://www.youtube.com/watch?v=dnzE9ip5U04)
+[https://www.youtube.com/watch?v=dnzE9ip5U04](https://www.youtube.com/watch?v=dnzE9ip5U04)[![](/assets/vid.jpg)](https://www.youtube.com/watch?v=dnzE9ip5U04)
 
 And, before you ask, no, we're not calling you a slacker.
 
