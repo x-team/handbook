@@ -14,13 +14,13 @@
 * **Wow... Do I actually _have to_ participate in all that?**  
   Don't worry, you are not expected to take part in everything that's going on. That would be almost impossible. We do like seeing our developers take part in our community initiatives, but they aren't supposed to be a burden. We do often reward participation with coins which you can exchange for swag, donations etc. though, so think about it.
 
-* **How do I know how many coins I have?**
+* **How do I know how many coins I have?**  
   Type `/listvault` in slack.
 
-* **I have coins! Can I get the swag menu, please?**
+* **I have coins! Can I get the swag menu, please?**  
   Absolutely. Check [The Vault](https://x-team.com/vault/) and place your order.
 
-* **So, I have this friend who's a great coder, experienced and currently looking...**
+* **So, I have this friend who's a great coder, experienced and currently looking...**  
   Excellent! Introduce him to Caleb and he'll take it from there. If your friends gets in, you'll even get a referral bonus!
 
 * **I see X-Team has a blog. Can I get my blogs published there?**  
