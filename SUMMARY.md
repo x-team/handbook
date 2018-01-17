@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * Onboarding Guide
   * [Technicalities](technicalities.md)
+    * [The Core Team](technicalities.md#coreteam)
     * [Journaling](technicalities.md#journaling)
     * [Invoicing & Time Off](technicalities.md#invoicing)
     * [Unleash Budget](technicalities.md#unleash-budget)

@@ -2,7 +2,7 @@
 
 Despite the general aversion to systematization without reason, there are some processes that we've found help set up X-Team developers for success. The following are the few things that we recommend you know and follow for a great X-Team experience.
 
-## The Core Team {#journaling}
+## The Core Team {#coreteam}
 
 ![](/assets/coreteam.jpg)
 
@@ -91,7 +91,7 @@ Start looking for those little "learning moments" in your day and quickly jot do
 
 Try to keep it down to a couple of sentences and maybe a code snippet or screenshot.
 
-**Exercise: **Try making a couple of TIL posts during your working day.
+**Exercise:** Try making a couple of TIL posts during your working day.
 
 ##### Why do we often avoid this?
 
@@ -113,11 +113,9 @@ _"What if I'm wrong and there's actually a better way to do it?"_
 
 Again, don't let this stop you. If somebody else knows a better way, this may be your golden opportunity to learn it! They might have been avoiding sharing this knowledge for the very same reason described above! This is your chance to break the cycle.
 
-##### 
-
 ##### Example:
 
-The other day I was reviewing pull requests on a github project, I and remembered a handy way to review them locally. I wrote it as a quick "TIL" entry, and since there's no sensitive businesss info there I also posted it to twitter:[https://twitter.com/joshwnj/status/855215578042073088](https://twitter.com/joshwnj/status/855215578042073088)
+The other day I was reviewing pull requests on a github project, I and remembered a handy way to review them locally. I wrote it as a quick "TIL" entry, and since there's no sensitive businesss info there I also posted it to twitter: [https://twitter.com/joshwnj/status/855215578042073088](https://twitter.com/joshwnj/status/855215578042073088)
 
 In a couple of days it had 13 retweets and 9 likes. That's nothing groundbreaking, but if there's a handful of people that found it useful, it's totally worth the 2 minutes it took him to do it.
 
