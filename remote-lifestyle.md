@@ -8,6 +8,8 @@ The UnleashConf is X-Teams very own conference organized by X-Teamers for X-Team
 
 The conference is free to attend, however every X-Teamer is expected to share some of his knowledge or experiences with the others by giving a short (or not so short) talk. And once that official part is done, several more or less adrenaline-filled activities await!
 
+You can read an X-Teamer's thoughts on UnleashConf '17 [here](blogs/unleashconf.md).
+
 The UnleashConf is a uniquely great opportunity to meet in person some of the "names from slack", especially for those who cannot just pack up and fly to an X-Outpost for a month or so.
 
 And speaking of X-Outposts...
