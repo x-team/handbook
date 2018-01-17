@@ -181,7 +181,11 @@ Once you receive the invoice period notification, go to our [Invoice App](https:
 
 And that's it. If you’re experiencing any kind of problems with your payments, just talk to our Head of Apps, Mike Rhoads \(@mikerhoads\) and he’ll help you out.
 
+
+
 ## Unleash Budget {#unleash-budget}
+
+![](/assets/unleash.jpg)
 
 You didn't think we'd forget about this, did you? This jewel is the equivalent of $2,500 USD per calendar year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for:
 
