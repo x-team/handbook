@@ -58,6 +58,7 @@ So, now that you’ve read all this, if you’re not keeping an X-Team journal y
 5. What are your usual working hours \(and timezone\)?
 
 6. What is your preferred work environment? Beaches, mountain cabins, cafes, your own comfy bed...
+
 7. What does a normal day for you involve \(no need to share anything personal you feel uncomfortable sharing\)
 
 _PROTIP : If you need an example journal, take a look at \#samuel-pepys-journal on our Slack._
@@ -146,11 +147,11 @@ It's helpful to write reflections on your own code as well.
 
 ## Invoicing & Time Off {#invoicing}
 
-**Every two weeks**, you will have the opportunity to submit your invoice with the total number of hours worked, reimbursement requests, etc. 
+**Every two weeks**, you will have the opportunity to submit your invoice with the total number of hours worked, reimbursement requests, etc.
 
-There's a reminder sitting on your Google Calendar for your X-Team account of when to submit. 
+There's a reminder sitting on your Google Calendar for your X-Team account of when to submit.
 
-Once you receive the invoice period notification, go to our [Invoice App](https://xteamdevs.appspot.com/). There, you will find your payment profile, which you’ll have to fill out the first time you’re there. On top, you have the options to **Request Time Off**_** **_and_ _**Submit Invoice**_._
+Once you receive the invoice period notification, go to our [Invoice App](https://xteamdevs.appspot.com/). There, you will find your payment profile, which you’ll have to fill out the first time you’re there. On top, you have the options to **Request Time Off**_** **\_and_ _**Submit Invoice**_.\_
 
 **Request Time Off: **You should always **request time off at least 1 month in advance**, preferably more.
 
@@ -176,8 +177,6 @@ Once you receive the invoice period notification, go to our [Invoice App](https:
 
 And that's it. If you’re experiencing any kind of problems with your payments, just talk to our Head of Apps, Mike Rhoads \(@mikerhoads\) and he’ll help you out.
 
-
-
 ## Unleash Budget {#unleash-budget}
 
 You didn't think we'd forget about this, did you? This jewel is the equivalent of $2,500 USD per calendar year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for:
@@ -191,4 +190,8 @@ You didn't think we'd forget about this, did you? This jewel is the equivalent o
 * Health & Wellbeing — anything that helps you relax and recharge your batteries \(massage, therapy, yoga, etc.\)
 
 Unsure of whether something you want to get fits in to one of these categories? Chances are it does, just shoot a quick ping to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) to find out.
+
+**The only rule is:** Everyone in our community benefits by others sharing \(including you\), so using your budget has to result in sharing something with the community. For example, if it’s a course/book, then publish a short review or a recommendation in the _**\#courses**_ channel; if it's a club/quest expense, post about it in the corresponding channel; if it’s a conference you attended, you could write a blog post about your takeaways. You get the idea.
+
+_In case you would like to see some real life examples, head over to \#courses and see reviews that are already in there. Check out _[_this post_](https://x-team.slack.com/files/U1XDNKJ0J/F899X5KFW/Courses_Budget)_ first to get all the details._
 
