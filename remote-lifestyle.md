@@ -8,83 +8,85 @@ Who doesn't like working from home or, indeed, anywhere on the planet? Silly que
 
 The [**X-Outpost**](http://x-team.com/x-outpost) is a roaming hacker house where nomad developers live, work and explore together. Each month, the X-Outpost moves to a different city in the world. They are hosted by Guardians, someone who serves as the host and guide for all activities.
 
-![](https://x-team.com/images/pics/x-outpost.jpg "What is the X-Outpost?")
+![](/assets/xo.jpg)
 
 ### How does it work?
 
-Every outpost lasts about a month and can be visited at any point. Weekdays are dedicated to remote working and light exploration, while weekends are for activities \(including one EPIC activity\).
+Every Outpost lasts about a month and can be visited at any point. Weekdays are dedicated to remote working and light exploration, while weekends are for activities \(including one EPIC activity\).
 
-![](https://x-team.com/images/pics/x-outpost-2.jpg "How does it work?")
+![](/assets/xo2.jpg "How does it work?")
 
 ### Upcoming X-Outposts {#outposts-upcoming}
 
-Look for channels named \#x-outpost-\[countryName\]
+Look for Slack channels named \#x-outpost-\[countryName\]
 
-* FEB '18  
-  COLOMBIA  
+* **FEB '18  
+  **COLOMBIA  
   We will base ourselves in the city of Leticia, then do amazing adventures \(the river and jungle are very close\). When done, we will fly from Leticia to Bogota and then to Sao Paulo, Brazil.
 
-* MAR '18  
-  BRAZIL  
+* **MAR '18  
+  **BRAZIL  
   TBD
 
-* APR-MAY '18  
-  TURKEY + CRIMEA  
+* **APR-MAY '18  
+  **TURKEY + CRIMEA  
   TBD
 
-* SEP '18  
-  ITALY  
+* **SEP '18  
+  **ITALY  
   TBD
 
-* OCT '18  
-  GREECE  
+* **OCT '18  
+  **GREECE  
   TBD
 
-* NOV '18  
-  BALKANS  
+* **NOV '18  
+  **BALKANS  
   TBD
 
-* DEC '18  
-  THAILAND  
+* **DEC '18  
+  **THAILAND  
   TBD
 
-* JAN '19  
-  SOUTH KOREA  
+* **JAN '19  
+  **SOUTH KOREA  
   TBD
 
-* FEB '19  
-  PHILIPPINES  
+* **FEB '19  
+  **PHILIPPINES  
   TBD
 
-* MAR '19  
-  MEXICO  
+* **MAR '19  
+  **MEXICO  
   TBD
 
-* APR '19  
-  CHILE + PERU  
+* **APR '19  
+  **CHILE + PERU  
   TBD
 
-* MAY '19  
-  ARGENTINA  
+* **MAY '19  
+  **ARGENTINA  
   TBD
 
-* JUN '19  
-  COSTA RICA  
+* **JUN '19  
+  **COSTA RICA  
   TBD
 
-* JUL '19  
-  PORTUGAL  
+* **JUL '19  
+  **PORTUGAL  
   TBD
 
-* AUG '19  
-  SOUTH AFRICA  
+* **AUG '19  
+  **SOUTH AFRICA  
   TBD
 
-* SEP '19  
-  POLAND  
+* **SEP '19  
+  **POLAND  
   TBD
 
 ### Past Experiences {#outposts-past}
+
+We've already had years worth of X-Outposts, and you can check out some of the diaries of past Xplorers:
 
 [![](https://x-team.com/images/poland.jpg "X-Outpost: Poland Diary")](https://x-team.com/blog/x-outpost-poland-diary/)
 
