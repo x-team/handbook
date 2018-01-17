@@ -2,8 +2,6 @@
 
 X-Teamers are incredibly diverse in so many ways, from skillsets to beliefs and beyond, but our core values are a baseline of attributes that we all share. They are the most important characteristics we look for before welcoming anyone into our community, and they are critical to making X-Team successful for many years to come. Thus, we decided to write down these characteristics and personal values, so there's never any doubt what we're all about.
 
-
-
 ## Active Communication {#active-communication}
 
 ### Quiet as a Church Mouse
@@ -37,10 +35,10 @@ There are four things that can help you maintain and strengthen that trust every
   Say "hello" to your team when you start working as it sets them at ease knowing you're connected and contributing. We don't expect you to work 9-5, but if you set expectations with your team to be available at a certain time, stay true to your word or reset expectations as soon as you can. Never leave your team hanging as they'd never do that to you.
 
 * **Sincerity and openness towards the core-team**  
-  Their job is to make things go smoothly, so if there is _**\*anything\***_ you feel they should know, tell them. Nobody has ever gotten in trouble for professionally bringing up issues so they could be solved, be it regarding the project, their X-Team experience, or something else entirely.
+  Their job is to make things go smoothly, so if there is _**\*anything\***_ you feel they should know, tell them. Nobody has ever been in trouble for professionally bringing up issues so they could be solved, be it regarding the project, their X-Team experience, or something else entirely.
 
-* **Being active on slack**  
-  Through the vetting process, the core-team has come to trust you. Through your participation in your team, they will hopefully grow to trust you as well. But at the end of the day, we're a rather large community, and it never hurts to have more friends you can count on, so be active on slack, respond, react, and have fun with everyone!
+* **Being active on Slack**  
+  Through the vetting process, the core-team has come to trust you. Through your participation in your team, they will hopefully grow to trust you as well. But at the end of the day, we're a rather large community, and it never hurts to have more friends you can count on, so be active on slack, respond, react, and have fun with everyone :\)
 
 ## Ownership {#ownership}
 
