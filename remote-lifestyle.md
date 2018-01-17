@@ -6,9 +6,11 @@
 
 The UnleashConf is X-Teams very own conference organized by X-Teamers for X-Teamers. Its first iteration happened in Krakow, Poland, in 2017 and was described by many an attendee as _"The single best X-team event ever!"_
 
-The conference is free to attend, however every X-Teamer is expected to share some of his knowledge or experiences with the others by giving a short (or not so short) talk. And once that official part is done, several more or less adrenaline-filled activities await!
+The conference is free to attend, however every X-Teamer is expected to share some of their knowledge or experiences with the others by giving a short (or not so short) talk. And once that official part is done, several more or less adrenaline-filled activities await!
 
 You can read an X-Teamer's thoughts on UnleashConf '17 [here](blogs/unleashconf.md).
+
+You can check out the UnleashConf '17 photoalbum [here](https://www.flickr.com/photos/buterux/sets/72157661098740127/with/24856466828/).
 
 The UnleashConf is a uniquely great opportunity to meet in person some of the "names from slack", especially for those who cannot just pack up and fly to an X-Outpost for a month or so.
 
