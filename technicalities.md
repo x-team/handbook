@@ -179,9 +179,7 @@ Once you receive the invoice period notification, go to our [Invoice App](https:
 6. **Banking info**  
    Here you get a last chance to fix any mistakes in the recipient details for your salary. Double-check everything, hit Finish, and wait for that sweet cash to show up in your account. As a general guide on the transaction speed - barring public holidays, the money usually arrives in a EU bank account by Friday after the invoicing period.
 
-And that's it. If you’re experiencing any kind of problems with your payments, just talk to our Head of Apps, Mike Rhoads \(@mikerhoads\) and he’ll help you out.
-
-
+And that's it. If you’re experiencing any kind of problems with your payments, just talk to our Head of Apps, Mike Rhoads (@mikerhoads) and he’ll help you out.
 
 ## Unleash Budget {#unleash-budget}
 
@@ -189,12 +187,12 @@ And that's it. If you’re experiencing any kind of problems with your payments,
 
 You didn't think we'd forget about this, did you? This jewel is the equivalent of $2,500 USD per calendar year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for:
 
-* #photography-club — up to $50/month toward photography equipment
-* #productivity-quest — up to $20/month on any productivity app
-* #game-club — up to $20 on any game/month
-* #fit-quest — gym membership, new running shoes...
-* #courses — any paid course
-* #conferences — ticket, travel, and/or lodging for any paid conference (including #unleashconf)
+* \#photography-club — up to $50/month toward photography equipment
+* \#productivity-quest — up to $20/month on any productivity app
+* \#game-club — up to $20 on any game/month
+* \#fit-quest — gym membership, new running shoes...
+* \#courses — any paid course
+* \#conferences — ticket, travel, and/or lodging for any paid conference (including \#unleashconf)
 * Health & Wellbeing — anything that helps you relax and recharge your batteries (massage, therapy, yoga, etc.)
 
 If you are unsure whether something you'd like to get fits into one of these categories or if it isn't included in the list at all, shoot a quick ping to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and he'll help you figure it out.

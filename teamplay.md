@@ -1,4 +1,4 @@
-# Teamplay
+# Good Teamplay
 
 There are innumerable theories on what makes for good teamplay. Our years of experience in running a completely remote team, however, has equipped us with a certain introspection into this question. Thus, we have distilled the question into three main categories.
 
