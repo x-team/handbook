@@ -1,6 +1,6 @@
 # Remote Interviews — Tips for Your Upcoming Interview
 
-by Paul McCrodden
+by Ryan Chartrand
 
 ---
 

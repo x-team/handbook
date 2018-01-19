@@ -189,15 +189,15 @@ And that's it. If you’re experiencing any kind of problems with your payments,
 
 You didn't think we'd forget about this, did you? This jewel is the equivalent of $2,500 USD per calendar year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for:
 
-* \#photography-club — up to $50/month toward photography equipment
-* \#productivity-quest — up to $20/month on any productivity app
-* \#game-club — up to $20 on any game/month
-* \#fit-quest — gym membership
-* \#courses — any paid course
-* \#conferences — ticket, travel, and/or lodging for any paid conference \(including \#unleashconf\)
-* Health & Wellbeing — anything that helps you relax and recharge your batteries \(massage, therapy, yoga, etc.\)
+* #photography-club — up to $50/month toward photography equipment
+* #productivity-quest — up to $20/month on any productivity app
+* #game-club — up to $20 on any game/month
+* #fit-quest — gym membership, new running shoes...
+* #courses — any paid course
+* #conferences — ticket, travel, and/or lodging for any paid conference (including #unleashconf)
+* Health & Wellbeing — anything that helps you relax and recharge your batteries (massage, therapy, yoga, etc.)
 
-Unsure of whether something you want to get fits in to one of these categories? Chances are it does, just shoot a quick ping to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) to find out.
+If you are unsure whether something you'd like to get fits into one of these categories or if it isn't included in the list at all, shoot a quick ping to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and he'll help you figure it out.
 
 **The only rule is:** Everyone in our community benefits by others sharing \(including you\), so using your budget has to result in sharing something with the community. For example, if it’s a course/book, then publish a short review or a recommendation in the _**\#courses**_ channel; if it's a club/quest expense, post about it in the corresponding channel; if it’s a conference you attended, you could write a blog post about your takeaways. You get the idea.
 
