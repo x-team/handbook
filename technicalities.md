@@ -203,3 +203,8 @@ If you are unsure whether something you'd like to get fits into one of these cat
 
 _In case you would like to see some real life examples, head over to \#courses and see reviews that are already in there. Check out _[_this post_](https://x-team.slack.com/files/U1XDNKJ0J/F899X5KFW/Courses_Budget)_ first to get all the details._
 
+### X-Coins
+
+No, we haven't gone ICO-crazy. But since we're talking about perks, here's another. For participating in the various quests and initiatives on slack and otherwise, you may be awarded x-coins, which you can trade in for swag of various rarity levels.
+
+Check out the [vault](https://x-team.com/vault/) that holds the goodies and get yours.
