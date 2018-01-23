@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [About X-Team — Internal Perspective](about.md)
 * Onboarding Guide
   * [Technicalities](technicalities.md)
     * [The Core Team](technicalities.md#coreteam)
@@ -22,7 +23,9 @@
     * [Outposts](remote-lifestyle.md#outposts)
       * [Upcoming Outposts](remote-lifestyle.md#outposts-upcoming)
       * [Past Experiences](remote-lifestyle.md#outposts-past)
-  * [FAQ](faq.md)
+  * Useful Info
+    * [Social Media](social.md)
+    * [FAQ](faq.md)
 * Good Reads
   * Remote Work
     * [Remote Interviews — Tips for Your Upcoming Interview](blogs/remote_interview_tips.md)
