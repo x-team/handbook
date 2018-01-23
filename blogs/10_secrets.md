@@ -75,7 +75,8 @@ Journaling is by far the cheapest, most effective “tool” that you’ll ever 
 
 Learn more about public journaling here:
 
-[![my how-to video](http://img.youtube.com/vi/dnzE9ip5U04/hqdefault.jpg)](http://www.youtube.com/watch?v=dnzE9ip5U04)
+[![my how-to video](http://img.youtube.com/vi/dnzE9ip5U04/hqdefault.jpg)  
+Slack Tips Tuesday: How to Not Look Like a Slacker on Slack](http://www.youtube.com/watch?v=dnzE9ip5U04)
 
 
 ## Secret 2: Find time for Focus

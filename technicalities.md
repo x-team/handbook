@@ -28,7 +28,8 @@ X-Teamers maintain daily journals as a way to build trust with the teams they wo
 
 And I promise, it’s not about us wanting to put more work on your shoulders. It’s actually about, well, this:
 
-[https://www.youtube.com/watch?v=dnzE9ip5U04](https://www.youtube.com/watch?v=dnzE9ip5U04)[![](/assets/vid.jpg)](https://www.youtube.com/watch?v=dnzE9ip5U04)
+[![Slack Tips Tuesday: How to Not Look Like a Slacker on Slack](http://img.youtube.com/vi/dnzE9ip5U04/hqdefault.jpg)  
+Slack Tips Tuesday: How to Not Look Like a Slacker on Slack](http://www.youtube.com/watch?v=dnzE9ip5U04)
 
 And, before you ask, no, we're not calling you a slacker.
 
@@ -56,7 +57,7 @@ So, now that you’ve read all this, if you’re not keeping an X-Team journal y
 
 1. Create a channel (public or private, your choice) in X-Team's Slack with the name structure \#journal-john
 2. Invite whoever you had your onboarding call with into the channel.
-3. Invite your account manager \(the person responsible for your team, usually Jake, Luke, or Brad\) 
+3. Invite your account manager \(the person responsible for your team, usually Jake, Luke, or Brad\)
 4. Create the first, Hello World! post, which should include a simple introduction of yourself, with things like:
 
 5. What are your usual working hours \(and timezone\)?

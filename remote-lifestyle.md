@@ -22,7 +22,8 @@ Who doesn't like working from home or, indeed, anywhere on the planet? Silly que
 
 ### What is the X-Outpost?
 
-> [![](https://res.cloudinary.com/dukp6c7f7/image/upload/f_auto,fl_lossy,q_auto/s3-ghost/2017/08/IMG_3220-1503578933281.JPEG) X-Outpost 2018 Teaser](https://www.youtube.com/watch?v=T2rQn0ejdFE)
+> [![X-Outpost: Extended Edition](http://img.youtube.com/vi/T2rQn0ejdFE/hqdefault.jpg)  
+X-Outpost: Extended Edition](http://www.youtube.com/watch?v=T2rQn0ejdFE)
 
 The [**X-Outpost**](http://x-team.com/x-outpost) is a roaming hacker house where nomad developers live, work and explore together. Each month, the X-Outpost moves to a different city in the world. They are hosted by Guardians, someone who serves as the host and guide for all activities.
 

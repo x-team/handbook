@@ -4,7 +4,10 @@ by Ryan Chartrand
 
 ---
 
-Watch the epic video: https://www.youtube.com/watch?v=Vq_KaqeqXoo
+Watch the epic video:
+
+[![Capitalize: Motivation for Remote Workers](http://img.youtube.com/vi/Vq_KaqeqXoo/hqdefault.jpg)  
+Capitalize: Motivation for Remote Workers](http://www.youtube.com/watch?v=Vq_KaqeqXoo)
 
 
 Something strange happens when you can work from anywhere. It gives you the ultimate gift -- true freedom, freedom to plan out your day, to live anywhere in the world, to go anywhere at any time, to go to the gym finally, to achieve the goals you've put off for so long.
