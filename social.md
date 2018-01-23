@@ -12,6 +12,5 @@ We like to think that we have a good presence in the e-world, so consider yourse
 
 [![YouTube](/assets/yt.png)](https://www.youtube.com/channel/UCAo_R1CP6IsA88l41ZpPpoQ)
 
-[![X-Team's Blog](/assets/xt.png)  
-Our Blog](https://x-team.com/blog/)
+[![X-Team's Blog](/assets/xt.png)](https://x-team.com/blog/)
 
