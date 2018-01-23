@@ -55,7 +55,7 @@ And if you are worried about how “complaining” is going to come across — n
 
 So, now that you’ve read all this, if you’re not keeping an X-Team journal yet, why not give it a shot?
 
-1. Create a channel (public or private, your choice) in X-Team's Slack with the name structure \#journal-john
+1. Create a channel \(public or private, your choice\) in X-Team's Slack with the name structure \#journal-john
 2. Invite whoever you had your onboarding call with into the channel.
 3. Invite your account manager \(the person responsible for your team, usually Jake, Luke, or Brad\)
 4. Create the first, Hello World! post, which should include a simple introduction of yourself, with things like:
@@ -180,7 +180,7 @@ Once you receive the invoice period notification, go to our [Invoice App](https:
 6. **Banking info**  
    Here you get a last chance to fix any mistakes in the recipient details for your salary. Double-check everything, hit Finish, and wait for that sweet cash to show up in your account. As a general guide on the transaction speed - barring public holidays, the money usually arrives in a EU bank account by Friday after the invoicing period.
 
-And that's it. If you’re experiencing any kind of problems with your payments, just talk to our Head of Apps, Mike Rhoads (@mikerhoads) and he’ll help you out.
+And that's it. If you’re experiencing any kind of problems with your payments, just talk to our Head of Apps, Mike Rhoads \(@mikerhoads\) and he’ll help you out.
 
 ## Unleash Budget {#unleash-budget}
 
@@ -193,8 +193,8 @@ You didn't think we'd forget about this, did you? This jewel is the equivalent o
 * \#game-club — up to $20 on any game/month
 * \#fit-quest — gym membership, new running shoes...
 * \#courses — any paid course
-* \#conferences — ticket, travel, and/or lodging for any paid conference (including \#unleashconf)
-* Health & Wellbeing — anything that helps you relax and recharge your batteries (massage, therapy, yoga, etc.)
+* \#conferences — ticket, travel, and/or lodging for any paid conference \(including \#unleashconf\)
+* Health & Wellbeing — anything that helps you relax and recharge your batteries \(massage, therapy, yoga, etc.\)
 
 If you are unsure whether something you'd like to get fits into one of these categories or if it isn't included in the list at all, shoot a quick ping to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and he'll help you figure it out.
 
@@ -202,8 +202,11 @@ If you are unsure whether something you'd like to get fits into one of these cat
 
 _In case you would like to see some real life examples, head over to \#courses and see reviews that are already in there. Check out _[_this post_](https://x-team.slack.com/files/U1XDNKJ0J/F899X5KFW/Courses_Budget)_ first to get all the details._
 
-### X-Coins
+### X-Coins & The Vault
 
-No, we haven't gone ICO-crazy. But since we're talking about perks, here's another. For participating in the various quests and initiatives on slack and otherwise, you may be awarded x-coins, which you can trade in for swag of various rarity levels.
+![](/assets/Screen Shot 2018-01-23 at 3.03.23 AM.png)
 
-Check out the [vault](https://x-team.com/vault/) that holds the goodies and get yours.
+No, we haven't gone ICO-crazy. But since we're talking about perks, here's another. For participating in the various quests and initiatives on slack and otherwise, you may be awarded x-coins ![](/assets/coin.png), which you can trade in for swag of various rarity levels.
+
+Check out [The Vault](http://x-team.com/vault) that holds the exclusive X-Team collectibles and get yours.
+

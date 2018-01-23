@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [About X-Team — Internal Perspective](about.md)
-* Onboarding Guide
+* [Onboarding Guide](onboarding-guide.md)
   * [Technicalities](technicalities.md)
     * [The Core Team](technicalities.md#coreteam)
     * [Journaling](technicalities.md#journaling)
@@ -23,7 +23,7 @@
     * [Outposts](remote-lifestyle.md#outposts)
       * [Upcoming Outposts](remote-lifestyle.md#outposts-upcoming)
       * [Past Experiences](remote-lifestyle.md#outposts-past)
-  * Useful Info
+  * [Useful Info](useful-info.md)
     * [Social Media](social.md)
     * [FAQ](faq.md)
 * Good Reads
