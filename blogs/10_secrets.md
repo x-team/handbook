@@ -73,7 +73,9 @@ For us, we communicate and train primarily through text so that information is a
 
 Journaling is by far the cheapest, most effective “tool” that you’ll ever need to make your remote team incredibly well-connected, rooted in trust and able to move forward together quickly.
 
-Learn more about public journaling in my [how-to video](https://www.youtube.com/embed/dnzE9ip5U04).
+Learn more about public journaling here:
+
+[![my how-to video](http://img.youtube.com/vi/dnzE9ip5U04/hqdefault.jpg)](http://www.youtube.com/watch?v=dnzE9ip5U04)
 
 
 ## Secret 2: Find time for Focus
