@@ -202,7 +202,7 @@ If you are unsure whether something you'd like to get fits into one of these cat
 
 _In case you would like to see some real life examples, head over to \#courses and see reviews that are already in there. Check out _[_this post_](https://x-team.slack.com/files/U1XDNKJ0J/F899X5KFW/Courses_Budget)_ first to get all the details._
 
-### X-Coins & The Vault
+### X-Coins & The Vault {#XTC}
 
 ![](/assets/Screen Shot 2018-01-23 at 3.03.23 AM.png)
 

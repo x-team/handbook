@@ -14,7 +14,7 @@ My friend, you have finally made it into X-Team. Maybe your background lies in c
 
 You see, X-Team isn't _just another company_. We do not believe in corporate hierarchies. You won't find a sturdy door in the basement with the sign saying "Human Resources" or "Accounting". You won't have to take the elevator to the 89th floor, the penthouse, and wait for hours for our CEO to take a minute to see you.
 
-What we are is a community. Sure, there's the Core Team that makes sure things run smoothly, but it's not like you have to make an appointment to talk with Ryan. You don't need to bug Brad's secretary, and the rest of the doors are always open as well.
+What we are is a community. Sure, there's the Core Team that makes sure things run smoothly, but it's not like you have to make an appointment to talk with Ryan. You don't need to bug Brad's secretary, and the rest of the doors are always open as well. You can talk to any one of the core-teamers by simply pinging them in Slack, or, of you need the attention of the entire Core-Team, you can always tag @core-team. 
 
 Therefore, especially if these are your first days with X-Team, breath in, breathe out, and relax. If you don't know yet what's expected of you, that likely means that you haven't had your internal and partner onboarding meets yet. No worries, ping  [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and he'll help you clear everything up.
 

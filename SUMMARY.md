@@ -24,6 +24,7 @@
       * [Upcoming Outposts](remote-lifestyle.md#outposts-upcoming)
       * [Past Experiences](remote-lifestyle.md#outposts-past)
   * [Useful Info](useful-info.md)
+    * [Community](community.md)
     * [Social Media](social.md)
     * [FAQ](faq.md)
 * Good Reads
