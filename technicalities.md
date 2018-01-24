@@ -14,7 +14,7 @@ We're the ones who help create opportunities throughout the community for you to
 
 **We're here to support you, 24/7.**
 
-We have teams for marketing, vetting, business development, community and finance.
+We have teams for marketing, vetting, business development, community, and finance.
 
 Unsure of who to talk to on the core team for help? Start with your account manager \(the person who hired you\) and they will direct you to the right person.
 
@@ -104,9 +104,9 @@ Just do it, and everyone will thank you later.
 
 ##### Why should we do this?
 
-Let's address those 2 fears:
+Let's address those two fears:
 
-_"Everybody probably knows it already"_
+_"Everybody probably knows it already."_
 
 Who cares :\) Maybe they do, but maybe they don't. Only someone very arrogant will think badly of you at this point. That's their problem, not yours.
 
@@ -116,9 +116,9 @@ Again, don't let this stop you. If somebody else knows a better way, this may be
 
 ##### Example:
 
-The other day I was reviewing pull requests on a github project, I and remembered a handy way to review them locally. I wrote it as a quick "TIL" entry, and since there's no sensitive businesss info there I also posted it to twitter: [https://twitter.com/joshwnj/status/855215578042073088](https://twitter.com/joshwnj/status/855215578042073088)
+The other day I was reviewing pull requests on a GitHub project, I and remembered a handy way to review them locally. I wrote it as a quick "TIL" entry, and since there's no sensitive business info there I also posted it to Twitter: [https://twitter.com/joshwnj/status/855215578042073088](https://twitter.com/joshwnj/status/855215578042073088)
 
-In a couple of days it had 13 retweets and 9 likes. That's nothing groundbreaking, but if there's a handful of people that found it useful, it's totally worth the 2 minutes it took him to do it.
+In a couple of days, it had 13 retweets and 9 likes. That's nothing groundbreaking, but if there's a handful of people that found it useful, it's totally worth the 2 minutes it took him to do it.
 
 ### Step III/III {#journaling-iii}
 
@@ -130,7 +130,7 @@ Having done hundreds of code reviews, we've found reflections to be a very helpf
 
 The next step is to try and articulate why. Is it just written in a style that goes with or against our personal preference? Or is there some deeper reason?
 
-We encourage you to use code reviews as an opportunity to write new journal entries. Writing "reflection" entries is similar to TIL, but rather than learning something new, the focus is on describing something you observed and why you liked / disliked it.
+We encourage you to use code reviews as an opportunity to write new journal entries. Writing "reflection" entries is similar to TIL, but rather than learning something new, the focus is on describing something you observed and why you liked/disliked it.
 
 #### Reflect on your own code
 
@@ -157,7 +157,7 @@ Once you receive the invoice period notification, go to our [Invoice App](https:
 > **IMPORTANT** — Fill out the banking info _**before**_ you start a new invoice.
 
 **Request Time Off**  
-  You should always **request time off at least 1 month in advance**, preferably more.
+  You should always **request time off at least a month in advance**, preferably more.
 
 **Submit Invoice**  
   When you click it, you’ll go through a 6-stage process.
@@ -169,24 +169,24 @@ Once you receive the invoice period notification, go to our [Invoice App](https:
    Invoice date, option to upload a PDF invoice \(you will still have to fill out everything\), and notes.
 
 3. **Hours worked**  
-   A list of projects you can invoice the company for and the agreed hourly rate. Enter the number of hours you worked in that period.
+   A list of projects you can invoice the company for and the agreed hourly rate. Enter the number of hours you worked during that period.
 
 4. **Reimbursements**  
-   Here you can put in any reimbursements you may wish to claim. Some examples would be Unleash Budget reimbursements \(Clubs, Quests, Health/Wellbeing, Courses, Conferences, etc.\), referral bounties etc. If unsure, whether something fits, ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6).
+   Here you can put in any reimbursements you may wish to claim. Some examples would be Unleash Budget reimbursements \(Clubs, Quests, Health/Wellbeing, Courses, Conferences, etc.\), referral bounties, etc. If unsure, whether something fits, ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6).
 
 5. **Survey**  
    Here you’ll find a few questions on how things are going for you in X-Team. There are no right or wrong answers here, just be honest, so we can help make things better if something is suboptimal.
 
 6. **Banking info**  
-   Here you get a last chance to fix any mistakes in the recipient details for your salary. Double-check everything, hit Finish, and wait for that sweet cash to show up in your account. As a general guide on the transaction speed - barring public holidays, the money usually arrives in a EU bank account by Friday after the invoicing period.
+   Here you get the last chance to fix any mistakes in the recipient details for your salary. Double-check everything, hit Finish, and wait for that sweet cash to show up in your account. As a general guide on the transaction speed — barring public holidays, the money usually arrives in an EU bank account by Friday after the invoicing period.
 
-And that's it. If you’re experiencing any kind of problems with your payments, just talk to our Head of Apps, Mike Rhoads \(@mikerhoads\) and he’ll help you out.
+And that's it. If you’re experiencing any kind of problems with your payments, just talk to our Head of Apps, Mike Rhoads \(@mikerhoads\), and he’ll help you out.
 
 ## Unleash Budget {#unleash-budget}
 
 ![](/assets/unleash.jpg)
 
-You didn't think we'd forget about this, did you? This jewel is the equivalent of $2,500 USD per calendar year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for:
+You didn't think we'd forget about this, did you? This jewel is the equivalent of USD 2,500 per calendar year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for:
 
 * \#photography-club — up to $50/month toward photography equipment
 * \#productivity-quest — up to $20/month on any productivity app
@@ -196,11 +196,11 @@ You didn't think we'd forget about this, did you? This jewel is the equivalent o
 * \#conferences — ticket, travel, and/or lodging for any paid conference \(including \#unleashconf\)
 * Health & Wellbeing — anything that helps you relax and recharge your batteries \(massage, therapy, yoga, etc.\)
 
-If you are unsure whether something you'd like to get fits into one of these categories or if it isn't included in the list at all, shoot a quick ping to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and he'll help you figure it out.
+If you are unsure whether something you'd like to get fits into one of these categories or if it isn't included in the list at all, shoot a quick ping to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6), and he'll help you figure it out.
 
 **The only rule is:** Everyone in our community benefits by others sharing \(including you\), so using your budget has to result in sharing something with the community. For example, if it’s a course/book, then publish a short review or a recommendation in the _**\#courses**_ channel; if it's a club/quest expense, post about it in the corresponding channel; if it’s a conference you attended, you could write a blog post about your takeaways. You get the idea.
 
-_In case you would like to see some real life examples, head over to \#courses and see reviews that are already in there. Check out _[_this post_](https://x-team.slack.com/files/U1XDNKJ0J/F899X5KFW/Courses_Budget)_ first to get all the details._
+_In case you would like to see some real-life examples, head over to \#courses and see reviews that are already in there. Check out _[_this post_](https://x-team.slack.com/files/U1XDNKJ0J/F899X5KFW/Courses_Budget)_ first to get all the details._
 
 ### X-Coins & The Vault {#XTC}
 

@@ -13,7 +13,7 @@ We want to close this year with a mighty swing towards our next goal. We are org
 
 The X-Team culture was always based on sharing. So while we are preparing ourselves for this particular adventure, we would also like to help all the rookie nomads out there. We will share the most valuable lessons we learned so far about traveling to this particular region.
 
-!["Amsterdam" - the highest bar on Koh Phangan Island.](https://res.cloudinary.com/dukp6c7f7/image/upload/f_auto,fl_lossy,q_auto/s3-ghost/2016/08/10914180_277112589079026_2035236048_n.jpg)“Amsterdam” – the highest bar on Koh Phangan Island.
+!["Amsterdam" — the highest bar on Koh Phangan Island.](https://res.cloudinary.com/dukp6c7f7/image/upload/f_auto,fl_lossy,q_auto/s3-ghost/2016/08/10914180_277112589079026_2035236048_n.jpg)“Amsterdam” – the highest bar on Koh Phangan Island.
 
 
 ## Getting there

@@ -6,11 +6,11 @@
 
 The UnleashConf is X-Teams very own conference organized by X-Teamers for X-Teamers. Its first iteration happened in Krakow, Poland, in 2017 and was described by many an attendee as _"The single best X-team event ever!"_
 
-The conference is free to attend, however every X-Teamer is expected to share some of their knowledge or experiences with the others by giving a short (or not so short) talk. And once that official part is done, several more or less adrenaline-filled activities await!
+The conference is free to attend. However, every X-Teamer is expected to share some of their knowledge or experiences with the others by giving a short (or not so short) talk. And once that official part is done, several more or less adrenaline-filled activities await!
 
 You can read an X-Teamer's thoughts on UnleashConf '17 [here](blogs/unleashconf.md).
 
-You can check out the UnleashConf '17 photoalbum [here](https://www.flickr.com/photos/buterux/sets/72157661098740127/with/24856466828/).
+You can check out the UnleashConf '17 photo album [here](https://www.flickr.com/photos/buterux/sets/72157661098740127/with/24856466828/).
 
 The UnleashConf is a uniquely great opportunity to meet in person some of the "names from slack", especially for those who cannot just pack up and fly to an X-Outpost for a month or so.
 
@@ -33,7 +33,7 @@ The [**X-Outpost**](http://x-team.com/x-outpost) is a roaming hacker house where
 
 Every Outpost lasts about a month and can be visited at any point. Weekdays are dedicated to remote working and light exploration, while weekends are for activities \(including one EPIC activity\).
 
-X-Team sponsors the cost of the accommodation, you just have to get yourself there.
+X-Team sponsors the cost of the accommodation; you just have to get yourself there.
 
 ![](/assets/xo2.jpg "How does it work?")
 
@@ -125,5 +125,5 @@ We traveled and worked, and compromised neither of the two. This is what X-Outpo
 
 [2016 X-OUTPOST RECAP](https://x-team.com/blog/x-outpost-2016-recap/)
 
-In 2016, the X-Outpost was hosted in 4 countries and 5 cities, including: Gran Canaria, Naples, Boston, Chicago, and Koh Phangan.
+In 2016, the X-Outpost was hosted in four countries and five cities, including Gran Canaria, Naples, Boston, Chicago, and Koh Phangan.
 

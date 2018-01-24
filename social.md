@@ -4,7 +4,7 @@ We share a lot of great content, all of which is created by the community to hel
 
 Consider yourself heartily invited to follow, subscribe, join and even contribute content. If you'd like to help increase our reach a little, LSC — Like, Share, Comment — is a good approach ;\)
 
-Interested in writing a blog post or making a video? We have an audience of more than 30,000 developers around the world waiting to be inspired by you. Just reach out to **[@ben](https://x-team.slack.com/messages/D23Q0MCQ6)** on Slack and he'll get you started.
+Interested in writing a blog post or making a video? We have an audience of more than 30,000 developers around the world waiting to be inspired by you. Just reach out to **[@ben](https://x-team.slack.com/messages/D23Q0MCQ6)** on Slack, and he'll get you started.
 
 ## Discover X-Team content on:
 
