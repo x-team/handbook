@@ -12,6 +12,8 @@ You can read an X-Teamer's thoughts on UnleashConf '17 [here](blogs/unleashconf.
 
 You can check out the UnleashConf '17 photo album [here](https://www.flickr.com/photos/buterux/sets/72157661098740127/with/24856466828/).
 
+If you have any questions about UnleashConf, be sure to ping its mastermind, @kuba.
+
 The UnleashConf is a uniquely great opportunity to meet in person some of the "names from slack", especially for those who cannot just pack up and fly to an X-Outpost for a month or so.
 
 And speaking of X-Outposts...

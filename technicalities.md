@@ -157,7 +157,7 @@ Once you receive the invoice period notification, go to our [Invoice App](https:
 > **IMPORTANT** — Fill out the banking info _**before**_ you start a new invoice.
 
 **Request Time Off**  
-  You should always **request time off at least a month in advance**, preferably more.
+  You should always **request time off at least a month in advance**, preferably more. However, we understand that unexpected things happen, and if at all within our power, we'll have your back in emergencies.  
 
 **Submit Invoice**  
   When you click it, you’ll go through a 6-stage process.
