@@ -6,7 +6,7 @@ Despite the general aversion to systematization without reason, there are some p
 
 ![](/assets/coreteam.jpg)
 
-You'll see us reference "the core team" here at X-Team several times throughout this guide. This is referring to the team that keeps X-Team running. That's us above hanging out in Thailand, envisioning the future of X-Team.
+You'll see us reference "the core team" here at X-Team several times throughout this guide. This is referring to the team that keeps X-Team running. That's some of us above, hanging out in Thailand, envisioning the future of X-Team.
 
 We named this team after open source projects, which also have core teams. Why? Because we see ourselves as a team of people dedicated to supporting X-Team developers, helping to set them up for success and to keep moving forward.
 
