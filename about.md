@@ -24,7 +24,7 @@ You have to know where you're coming from to know where you're going, however, s
 
 ## X-Team's History — The Short Version
 
-X-Team's decade-long history begins in 2008 when the company's leaders discovered that bringing people together from around the world to create great products together was the way of the future.
+X-Team's decade-long history begins in 2006 when the company's leaders discovered that bringing people together from around the world to create great products together was the way of the future.
 
 Biz Stone, Twitter's co-founder, confirmed that when he said about X-Team: "These guys are from the future." Twitter was one of X-Team's earliest partners, looking for front-end developers to bring its vision to life. 
 
