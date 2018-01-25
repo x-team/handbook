@@ -41,69 +41,37 @@ X-Team sponsors the cost of the accommodation; you just have to get yourself the
 
 Look for Slack channels named \#x-outpost-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots fill up within the first week of an announcement.
 
-* **FEB '18      
-  **COLOMBIA  
-  We will base ourselves in the city of Leticia and then do amazing adventures \(the river and jungle are very close\). When done, we will fly from Leticia to Bogota and then to Sao Paulo, Brazil.
+* **FEB '18 — COLOMBIA**
 
-* **MAR '18      
-  **BRAZIL  
-  TBD
+* **MAR '18 — BRAZIL**
 
-* **APR-MAY '18      
-  **TURKEY + CRIMEA  
-  TBD
+* **APR-MAY '18 — TURKEY + CRIMEA**
 
-* **SEP '18      
-  **ITALY  
-  TBD
+* **SEP '18 — ITALY**
 
-* **OCT '18      
-  **GREECE  
-  TBD
+* **OCT '18 — GREECE**
 
-* **NOV '18      
-  **BALKANS  
-  TBD
+* **NOV '18 — BALKANS**
 
-* **DEC '18      
-  **THAILAND  
-  TBD
+* **DEC '18 — THAILAND**
 
-* **JAN '19      
-  **SOUTH KOREA  
-  TBD
+* **JAN '19 — SOUTH KOREA**
 
-* **FEB '19      
-  **PHILIPPINES  
-  TBD
+* **FEB '19 — PHILIPPINES**
 
-* **MAR '19      
-  **MEXICO  
-  TBD
+* **MAR '19 — MEXICO**
 
-* **APR '19      
-  **CHILE + PERU  
-  TBD
+* **APR '19 — CHILE + PERU**
 
-* **MAY '19      
-  **ARGENTINA  
-  TBD
+* **MAY '19 — ARGENTINA**
 
-* **JUN '19      
-  **COSTA RICA  
-  TBD
+* **JUN '19 — COSTA RICA**
 
-* **JUL '19      
-  **PORTUGAL  
-  TBD
+* **JUL '19 — PORTUGAL**
 
-* **AUG '19      
-  **SOUTH AFRICA  
-  TBD
+* **AUG '19 — SOUTH AFRICA**
 
-* **SEP '19
-  **POLAND  
-  TBD
+* **SEP '19 — POLAND**
 
 ### Past Experiences {#outposts-past}
 
