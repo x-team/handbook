@@ -1,3 +1,5 @@
+![](/assets/community.jpg)
+
 # Community
 
 We keep stressing that X-Team is a community of like-minded people who want to see the world proper and make it a better place. But it being a community — how does that actually show?
