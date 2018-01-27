@@ -39,7 +39,7 @@ If you're interested in becoming an X-Outpost Guardian \(think: local guide/host
 
 [Check them out here, starting with "Timeline".](https://drive.google.com/drive/folders/0Bxk0c3Dj9ZSsUDVNSXVzOTc4c0E)
 
-## 
+---
 
 ## Top 10 Tips
 
@@ -66,11 +66,15 @@ It's really up to you and your group how you want to do it, but here are some ex
 * **Game Club** has a monthly tournament in an old school game \(like UT2k4\) to remind gamers to take a break and play games more.
 * **Unleash Quests** uses a weekly lesson approach to learn something new and create to remind devs how much they love learning and creating.
 
+---
+
 #### 2. Limit activities/challenges to 2/week
 
 We've found that people only have time for so much in their busy lives, and if they're participating in multiple groups at one time, at best you'll be able to get them to participate in 2 challenges/activities/events/etc. per week.
 
 But feel free to experiment and see what works best for you group. Perhaps 3 times/week is better, or perhaps once a week, or perhaps open ended at any time in the month.
+
+---
 
 #### 3. Use Pinned posts for newcomers
 
@@ -78,6 +82,8 @@ When someone new joins your group, they will feel very lost without some helpful
 
 We like using pinned posts \(and making a mention of them in the channel description\) that explain how everything in your group works.  
 ![](/assets/Screen Shot 2018-01-26 at 8.12.20 PM.png)
+
+---
 
 #### 3. Challenges
 
@@ -87,12 +93,12 @@ A great challenge has these characteristics:
 
 1. **Simple to accomplish in a couple of hours at most. **The less the time commitment, the more effective it will be.
 
-2. **Produces an end result that can be shared. **When everyone can share what they achieved/created via photo, video, code, etc., it serves as incredible motivation to others to get involved since they have a vision of what completing the challenge looks and feels like.
+2. **Produces an end result that can be shared. **When everyone can share what they achieved/created via photo, video, code, etc., it serves as incredible motivation to others to get involved since they have a vision of what completing the challenge looks and feels like.  
    ![](/assets/Screen Shot 2018-01-26 at 8.30.04 PM.png)
 
-3. **Taps into joy. **Think about the difference between a challenge to read a programming textbook vs. jump in and build something based on a quick lesson. You want to tap into what really motivates your group to be passionate about something, and it's there that you find what really triggers their joy. 
+3. **Taps into joy. **Think about the difference between a challenge to read a programming textbook vs. jump in and build something based on a quick lesson. You want to tap into what really motivates your group to be passionate about something, and it's there that you find what really triggers their joy.
 
-
+---
 
 #### 4. Group challenges
 
@@ -101,6 +107,8 @@ Individual challenges are great because they allow everyone in the group to go a
 But you should also consider group challenges where they depend on each other in order to succeed. Sometimes, these types of challenges allow X-Teamers to unleash their compassion and team spirit in ways like never before.
 
 Group challenge examples include trying to bike a collective group total of kilometers in a month, or trying to get everyone to submit a PR to an open source project in order to achieve the goal \(and prize if applicable\).
+
+---
 
 #### 5. Consider streak rewards
 
