@@ -157,7 +157,7 @@ Once you receive the invoice period notification, go to our [Invoice App](https:
 > **IMPORTANT** — Fill out the banking info _**before**_ you start a new invoice.
 
 **Request Time Off**  
-  You should always **request time off at least a month in advance**, preferably more. However, we understand that unexpected things happen, and if at all within our power, we'll have your back in emergencies.  
+  You should always **request time off at least a month in advance**, preferably more. However, we understand that unexpected things happen, and if at all within our power, we'll have your back in emergencies.
 
 **Submit Invoice**  
   When you click it, you’ll go through a 6-stage process.
@@ -202,9 +202,9 @@ If you are unsure whether something you'd like to get fits into one of these cat
 
 _In case you would like to see some real-life examples, head over to \#courses and see reviews that are already in there. Check out _[_this post_](https://x-team.slack.com/files/U1XDNKJ0J/F899X5KFW/Courses_Budget)_ first to get all the details._
 
-### X-Coins & The Vault {#XTC}
+# X-Coins & The Vault
 
-![](/assets/Screen Shot 2018-01-23 at 3.03.23 AM.png)
+# ![](/assets/Screen Shot 2018-01-23 at 3.03.23 AM.png)
 
 No, we haven't gone ICO-crazy. But since we're talking about perks, here's another. For participating in the various quests and initiatives on slack and otherwise, you may be awarded x-coins ![](/assets/coin.png), which you can trade in for swag of various rarity levels.
 

@@ -8,6 +8,7 @@
     * [Journaling](technicalities.md#journaling)
     * [Invoicing & Time Off](technicalities.md#invoicing)
     * [Unleash Budget](technicalities.md#unleash-budget)
+    * [X-Coins & The Vault](/technicalities.md#x-coins--the-vault)
   * [Core Values](core-values.md)
     * [Active Communication](core-values.md#active-communication)
     * [Ownership](core-values.md#ownership)
@@ -25,6 +26,7 @@
       * [Past Experiences](remote-lifestyle.md#outposts-past)
   * [Useful Info](useful-info.md)
     * [Community](community.md)
+    * [Community Guardian Guide](community-guardian-guide.md)
     * [Social Media](social.md)
     * [FAQ](faq.md)
 * Good Reads
