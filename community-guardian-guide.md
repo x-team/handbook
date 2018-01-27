@@ -33,6 +33,8 @@ But also know that the [Core Team](/technicalities.md#coreteam) is here to suppo
 
 Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) on Slack to get help implementing any of those ideas and get your channel created and running.
 
+---
+
 #### X-Outpost Guardians
 
 If you're interested in becoming an X-Outpost Guardian \(think: local guide/host for a group of 8-10 X-Teamers\), we have separate docs and tips for getting started.
