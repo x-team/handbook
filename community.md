@@ -10,6 +10,8 @@ You know Slack. Everyone knows Slack. We spend ungodly hours on it — because w
 
 Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and tell him that the impossible happened. Explain what your hobby/interest is and that you'd love to share it with the community. He'll get you sorted with instructions on how to do it, get you feedback on potential previous experience with it from the Core Team, and once everything is ready, he'll help you get this new little piece of heaven announced to the community via our announcements channel.
 
+You can also get an idea [in this guide](/community-guardian-guide.md) of what it's like leading a Slack group by becoming a Community Guardian.
+
 And if you are wondering if something you might be interested in is already going on in a form that is a bit more active than _just_ a channel, take a look at our glorious [Community Page](http://community.x-team.com/).
 
 ## Community Initiatives
