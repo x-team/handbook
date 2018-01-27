@@ -70,15 +70,9 @@ It's really up to you and your group how you want to do it, but here are some ex
 
 ---
 
-#### 2. Limit activities/challenges to 2/week
+#### 
 
-We've found that people only have time for so much in their busy lives, and if they're participating in multiple groups at one time, at best you'll be able to get them to participate in 2 challenges/activities/events/etc. per week.
-
-But feel free to experiment and see what works best for you group. Perhaps 3 times/week is better, or perhaps once a week, or perhaps open ended at any time in the month.
-
----
-
-#### 3. Use Pinned posts for newcomers
+#### 2. Use Pinned posts for newcomers
 
 When someone new joins your group, they will feel very lost without some helpful information on how to get started.
 
@@ -87,7 +81,7 @@ We like using pinned posts \(and making a mention of them in the channel descrip
 
 ---
 
-#### 4. Challenges
+#### 3. Challenges
 
 One of the most effective ways to remind a group of passionate people to do something they love is through Challenges.
 
@@ -104,7 +98,7 @@ Other types of challenges include Tournaments, which we found [Challonge.com](ht
 
 ---
 
-#### 5. Group challenges
+#### 4. Group challenges
 
 Individual challenges are great because they allow everyone in the group to go at their own pace.
 
@@ -113,6 +107,16 @@ But you should also consider group challenges where they depend on each other in
 Group challenge examples include trying to bike a collective group total of kilometers in a month, or trying to get everyone to submit a PR to an open source project in order to achieve the goal \(and prize if applicable\).
 
 ---
+
+#### 5. Limit challenges/activities to 2 per week
+
+We've found that people only have time for so much in their busy lives, and if they're participating in multiple groups at one time, at best you'll be able to get them to participate in 2 challenges/activities/events/etc. per week.
+
+But feel free to experiment and see what works best for you group. Perhaps 3 times/week is better, or perhaps once a week, or perhaps open ended at any time in the month.
+
+---
+
+#### 
 
 #### 6. Consider streak rewards
 
