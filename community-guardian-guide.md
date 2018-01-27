@@ -43,7 +43,7 @@ If you're interested in becoming an X-Outpost Guardian \(think: local guide/host
 
 ---
 
-## Top 10 Tips
+## Top Tips for Slack Groups
 
 While there is no "right" way of being a successful Guardian, we have learned a lot from those who came before you and will share some tips below on how to set up your group for success.
 
