@@ -87,7 +87,7 @@ We like using pinned posts \(and making a mention of them in the channel descrip
 
 ---
 
-#### 3. Challenges
+#### 4. Challenges
 
 One of the most effective ways to remind a group of passionate people to do something they love is through Challenges.
 
@@ -100,9 +100,11 @@ A great challenge has these characteristics:
 
 3. **Taps into joy. **Think about the difference between a challenge to read a programming textbook vs. jump in and build something based on a quick lesson. You want to tap into what really motivates your group to be passionate about something, and it's there that you find what really triggers their joy.
 
+Other types of challenges include Tournaments, which we found [Challonge.com](http://challonge.com) great for registering challengers and creating tournament brackets.
+
 ---
 
-#### 4. Group challenges
+#### 5. Group challenges
 
 Individual challenges are great because they allow everyone in the group to go at their own pace.
 
@@ -112,7 +114,7 @@ Group challenge examples include trying to bike a collective group total of kilo
 
 ---
 
-#### 5. Consider streak rewards
+#### 6. Consider streak rewards
 
 One great way to get people coming back to your channel and engaging consistently is by offering some sort of Streak bonus for engaging consecutively.
 
