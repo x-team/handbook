@@ -96,6 +96,10 @@ A great challenge has these characteristics:
 
 Other types of challenges include Tournaments, which we found [Challonge.com](http://challonge.com) great for registering challengers and creating tournament brackets.
 
+Challenges are even more effective when there's a reward involved. Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) on Slack to get support for x-coins ![](/assets/coin.png) rewards or a charitable donation reward.
+
+ 
+
 ---
 
 #### 4. Group challenges
