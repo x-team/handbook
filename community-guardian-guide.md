@@ -98,8 +98,6 @@ Other types of challenges include Tournaments, which we found [Challonge.com](ht
 
 Challenges are even more effective when there's a reward involved. Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) on Slack to get support for x-coins ![](/assets/coin.png) rewards or a charitable donation reward.
 
- 
-
 ---
 
 #### 4. Group challenges
@@ -119,8 +117,6 @@ We've found that people only have time for so much in their busy lives, and if t
 But feel free to experiment and see what works best for you group. Perhaps 3 times/week is better, or perhaps once a week, or perhaps open ended at any time in the month.
 
 ---
-
-#### 
 
 #### 6. Consider streak rewards
 
