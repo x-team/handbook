@@ -81,7 +81,25 @@ We like using pinned posts \(and making a mention of them in the channel descrip
 
 ---
 
-#### 3. Challenges
+#### 3. Async vs. realtime
+
+There are two ways your group can engage with one another: **asynchronously** or in **realtime**. Or even both.
+
+**The most effective method we've found is asynchronous communication**. Why? People join remote teams because of the flexibility and they often avoid any sort of realtime interaction unless it's convenient to them \(which it rarely is with 10 timezones\).
+
+Realtime communication is also effective, but it's **more difficult to coordinate. **
+
+The best way to find out what your group prefers is to simply ask them via a poll \(/poll in Slack\). See how they want to engage and collaborate and then design your activities around their preference.
+
+Examples:
+
+* **Game Club** combines async and realtime with async game reviews, but also async + realtime tournaments where 2 players face off in realtime while others await and schedule other matches asynchronously. This allows for a great balance of the two, and only requires 2 people at a time to be available for realtime interaction.
+
+* **Productivity Quest, Yoga Club, Fit-Quest**, etc. are all entirely asynchronous to allow everyone to try out methods and exercises on their own time.
+
+---
+
+#### 4. Challenges
 
 One of the most effective ways to remind a group of passionate people to do something they love is through Challenges.
 
@@ -92,7 +110,7 @@ A great challenge has these characteristics:
 2. **Produces an end result that can be shared. **When everyone can share what they achieved/created via photo, video, code, etc., it serves as incredible motivation to others to get involved since they have a vision of what completing the challenge looks and feels like.  
    ![](/assets/Screen Shot 2018-01-26 at 8.30.04 PM.png)
 
-3. **Taps into joy. **Think about the difference between a challenge to read a programming textbook vs. jump in and build something based on a quick lesson. You want to tap into what really motivates your group to be passionate about something, and it's there that you find what really triggers their joy.
+3. **Taps into joy. **Think about the difference between a challenge to read or watch a lot of guides vs. jump in and build something based on a quick lesson. You want to tap as quickly as possible into what really motivates your group to be passionate about something -- with programmers, creating is where the joy and fun lies, so find ways to quickly get to creating.
 
 Other types of challenges include Tournaments, which we found [Challonge.com](http://challonge.com) great for registering challengers and creating tournament brackets.
 
@@ -100,7 +118,7 @@ Challenges are even more effective when there's a reward involved. Ping [@ben](h
 
 ---
 
-#### 4. Group challenges
+#### 5. Group challenges
 
 Individual challenges are great because they allow everyone in the group to go at their own pace.
 
@@ -110,7 +128,7 @@ Group challenge examples include trying to bike a collective group total of kilo
 
 ---
 
-#### 5. Limit challenges/activities to 2 per week
+#### 6. Limit challenges/activities to 2 per week
 
 We've found that people only have time for so much in their busy lives, and if they're participating in multiple groups at one time, at best you'll be able to get them to participate in 2 challenges/activities/events/etc. per week.
 
@@ -118,7 +136,7 @@ But feel free to experiment and see what works best for you group. Perhaps 3 tim
 
 ---
 
-#### 6. Consider streak rewards
+#### 7. Consider streak rewards
 
 One great way to get people coming back to your channel and engaging consistently is by offering some sort of Streak bonus for engaging consecutively.
 
