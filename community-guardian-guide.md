@@ -77,7 +77,7 @@ It's really up to you and your group how you want to do it, but here are some ex
 When someone new joins your group, they will feel very lost without some helpful information on how to get started.
 
 We like using pinned posts \(and making a mention of them in the channel description\) that explain how everything in your group works.  
-![](/assets/Screen Shot 2018-01-26 at 8.12.20 PM.png)
+![](/assets/Screen&#32;Shot&#32;2018-01-26&#32;at&#32;8.12.20&#32;PM.png)
 
 ---
 
@@ -108,7 +108,7 @@ A great challenge has these characteristics:
 1. **Simple to accomplish in a couple of hours at most.** The less the time commitment, the more effective it will be.
 
 2. **Produces an end result that can be shared.** When everyone can share what they achieved/created via photo, video, code, etc., it serves as incredible motivation to others to get involved since they have a vision of what completing the challenge looks and feels like.  
-   ![](/assets/Screen Shot 2018-01-26 at 8.30.04 PM.png)
+   ![](/assets/Screen&#32;Shot&#32;2018-01-26&#32;at&#32;8.30.04&#32;PM.png)
 
 3. **Taps into joy.** Think about the difference between a challenge to read or watch a lot of guides vs. jump in and build something based on a quick lesson. You want to tap as quickly as possible into what really motivates your group to be passionate about something -- with programmers, creating is where the joy and fun lies, so find ways to quickly get to creating.
 
