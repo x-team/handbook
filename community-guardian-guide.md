@@ -23,13 +23,13 @@ Regardless of whether you want to create a study group or perhaps a Hearthstone 
 But also know that the [Core Team](/technicalities.md#coreteam) is here to support you in a few different ways:
 
 * **Want your group to make a charitable impact?** We can help motivate your group via a Group Goal that results in a donation to a charity or open source project.
-* **Want your group to earn X-Coins? **We will help you reward your group with X-Coins for completing activities or challenges you create.
+* **Want your group to earn X-Coins?** We will help you reward your group with X-Coins for completing activities or challenges you create.
 
 * **Want to promote your group or any of its activities? **We have access to the almighty [\#x-announcements](https://x-team.slack.com/messages/C0257R0RV/) channel, as well as the [Community](http://community.x-team.com) site and Invoice App where we can help promote your group's activities to the community at large.
 
-* **Want help keeping your group engaged? **If your group is turning into a ghost town, we can use our years of expertise to help you find ways to spark the fire again for your group.
+* **Want help keeping your group engaged?** If your group is turning into a ghost town, we can use our years of expertise to help you find ways to spark the fire again for your group.
 
-* **Want your group to utilize the Unleash Budget in a new way? **We're always open to new ways for X-Teamers to use the Unleash Budget to reimburse to help them grow around their goals and passions.
+* **Want your group to utilize the Unleash Budget in a new way?** We're always open to new ways for X-Teamers to use the Unleash Budget to reimburse to help them grow around their goals and passions.
 
 Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) on Slack to get help implementing any of those ideas and get your channel created and running.
 
@@ -87,7 +87,7 @@ There are two ways your group can engage with one another: **asynchronously** or
 
 **The most effective method we've found is asynchronous communication**. Why? People join remote teams because of the flexibility and they often avoid any sort of realtime interaction unless it's convenient to them \(which it rarely is with 10 timezones\).
 
-Realtime communication is also effective, but it's **more difficult to coordinate. **
+Realtime communication is also effective, but it's **more difficult to coordinate.**
 
 The best way to find out what your group prefers is to simply ask them via a poll \(/poll in Slack\). See how they want to engage and collaborate and then design your activities around their preference.
 
@@ -105,12 +105,12 @@ One of the most effective ways to remind a group of passionate people to do some
 
 A great challenge has these characteristics:
 
-1. **Simple to accomplish in a couple of hours at most. **The less the time commitment, the more effective it will be.
+1. **Simple to accomplish in a couple of hours at most.** The less the time commitment, the more effective it will be.
 
-2. **Produces an end result that can be shared. **When everyone can share what they achieved/created via photo, video, code, etc., it serves as incredible motivation to others to get involved since they have a vision of what completing the challenge looks and feels like.  
+2. **Produces an end result that can be shared.** When everyone can share what they achieved/created via photo, video, code, etc., it serves as incredible motivation to others to get involved since they have a vision of what completing the challenge looks and feels like.  
    ![](/assets/Screen&#32;Shot&#32;2018-01-26&#32;at&#32;8.30.04&#32;PM.png)
 
-3. **Taps into joy. **Think about the difference between a challenge to read or watch a lot of guides vs. jump in and build something based on a quick lesson. You want to tap as quickly as possible into what really motivates your group to be passionate about something -- with programmers, creating is where the joy and fun lies, so find ways to quickly get to creating.
+3. **Taps into joy.** Think about the difference between a challenge to read or watch a lot of guides vs. jump in and build something based on a quick lesson. You want to tap as quickly as possible into what really motivates your group to be passionate about something -- with programmers, creating is where the joy and fun lies, so find ways to quickly get to creating.
 
 Other types of challenges include Tournaments, which we found [Challonge.com](http://challonge.com) great for registering challengers and creating tournament brackets.
 
@@ -142,5 +142,5 @@ One great way to get people coming back to your channel and engaging consistentl
 
 For example, in **Fit-Quest**, a 4-week Streak is rewarded by 3 x-coins ![](/assets/coin.png).
 
-In** Productivity Quest**, Streaks exponentially increase the total number of trees \(via [Retree](http://retree.com)\) we will plant around the world by the end of the season.
+In **Productivity Quest**, Streaks exponentially increase the total number of trees \(via [Retree](http://retree.com)\) we will plant around the world by the end of the season.
 
