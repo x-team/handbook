@@ -204,7 +204,7 @@ _In case you would like to see some real-life examples, head over to \#courses a
 
 # X-Coins & The Vault
 
-# ![](/assets/Screen Shot 2018-01-23 at 3.03.23 AM.png)
+![](/assets/Screen&#32;Shot&#32;2018-01-23&#32;at&#32;3.03.23&#32;AM.png)
 
 No, we haven't gone ICO-crazy. But since we're talking about perks, here's another. For participating in the various quests and initiatives on slack and otherwise, you may be awarded x-coins ![](/assets/coin.png), which you can trade in for swag of various rarity levels.
 
