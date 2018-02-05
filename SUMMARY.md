@@ -29,6 +29,8 @@
     * [Community Overview](community.md)
     * [Community Guardian Guide](community-guardian-guide.md)
     * [Social Media](social.md)
+    * [Quality Communication Guidelines](comms.md)
+    * [Slack Top X Channel Index](slack_channels.md)
     * [FAQ](faq.md)
 * Good Reads
   * Remote Work

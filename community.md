@@ -8,7 +8,7 @@ Well, there are several elements to it...
 
 ## Slack
 
-You know Slack. Everyone knows Slack. We spend ungodly hours on it — because we want to and it's fun, not because we have to — and there's always something fun to do. If you're interested in just about anything, chances are, we have a channel for it with people who share that interest. You can look up the \[list of existing channels\]\([@ben](https://x-team.slack.com/messages/D23Q0MCQ6)\), but what do you do if your favorite pastime isn't on it?
+You know Slack. Everyone knows Slack. We spend ungodly hours on it — because we want to and it's fun, not because we have to — and there's always something fun to do. If you're interested in just about anything, chances are, we have a channel for it with people who share that interest. You can look up the list of existing channels in slack or [here](/slack_channels.md), if you're only interested in the most popular ones, but what do you do if your favorite pastime isn't on it?
 
 Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and tell him that the impossible happened. Explain what your hobby/interest is and that you'd love to share it with the community. He'll get you sorted with instructions on how to do it, get you feedback on potential previous experience with it from the Core Team, and once everything is ready, he'll help you get this new little piece of heaven announced to the community via our announcements channel.
 

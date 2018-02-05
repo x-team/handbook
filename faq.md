@@ -26,5 +26,13 @@
 * **I see X-Team has a blog. Can I get my blogs published there?**  
   Yes, you can. Talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6), and he'll get you sorted with all the necessary proofreading, editing, and finally publishing support.
 
+  And just so you know why it's really worth doing it:
+  * We'll feature the blog in the weekly newsletter with more than 25,000 subscribers.
+  * We'll promote the blog across the web.
+  * You'll have a personal editor available to help you polish your piece into something you'll be proud to show off not only content- but also language-wise.
+
+  Quite a deal, isn't it ;)
+
+
 * **I heard that there's plenty of internal app development going on. How can I get in on the action?**
   Ask @josh or @ryanchartrand to give you access to the relevant part of [X-Team's Github](https://github.com/x-team/). If you haven't heard anything specific, @josh, @jacek.lawniczak, and/or @karolsojko can give you a nice overview of all the stuff that's being developed where you could lend a hand.
