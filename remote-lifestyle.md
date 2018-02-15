@@ -43,8 +43,6 @@ X-Team sponsors the cost of the accommodation; you just have to get yourself the
 
 Look for Slack channels named \#x-outpost-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots fill up within the first week of an announcement.
 
-* **FEB '18 — COLOMBIA**
-
 * **MAR '18 — BRAZIL**
 
 * **APR-MAY '18 — TURKEY + CRIMEA**
