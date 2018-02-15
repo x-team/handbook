@@ -49,6 +49,8 @@ Look for Slack channels named \#x-outpost-\[countryName\] as well as announcemen
 
 * **APR-MAY '18 — TURKEY + CRIMEA**
 
+* **JUL-AUG '18 — SCOTLAND**
+
 * **SEP '18 — ITALY**
 
 * **OCT '18 — GREECE**
