@@ -191,7 +191,7 @@ You didn't think we'd forget about this, did you? This jewel is the equivalent o
 * \#photography-club — up to $50/month toward photography equipment
 * \#productivity-quest — up to $20/month on any productivity app
 * \#game-club — up to $20 on any game/month
-* \#fit-quest — gym membership, new running shoes...
+* \#fit-quest — gym membership
 * \#courses — any paid course
 * \#conferences — ticket, travel, and/or lodging for any paid conference \(including \#unleashconf\)
 * Health & Wellbeing — anything that helps you relax and recharge your batteries \(massage, therapy, yoga, etc.\)
