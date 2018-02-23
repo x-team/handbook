@@ -53,7 +53,7 @@ And if you are worried about how “complaining” is going to come across — n
 
 ### Step I/III {#journaling-i}
 
-So, now that you’ve read all this, if you’re not keeping an X-Team journal yet, why not give it a shot?
+So, now that you’ve read all this, if you’re not keeping an X-Team journal yet, why not give it a shot? It's entirely optional, of course, but if you're interested in the idea, here are some basic steps to start:
 
 1. Create a channel \(public or private, your choice\) in X-Team's Slack with the name structure \#journal-john
 2. Invite whoever you had your onboarding call with into the channel.
