@@ -1,6 +1,6 @@
 # Technicalities {#technicalities}
 
-Despite the general aversion to systematization without reason, there are some processes that we've found help set up X-Team developers for success. The following are the few things that we recommend you know and follow for a great X-Team experience.
+Despite the general aversion to systematization without reason, there are some processes that we've found help set up X-Team developers for success. The following are the few things that we think you'll find helpful in being a successful remote developer.
 
 ## The Core Team {#coreteam}
 
@@ -26,12 +26,12 @@ The word "journal" probably brings to mind things like: “Dear Diary...” But 
 
 X-Teamers maintain daily journals as a way to build trust with the teams they work on.
 
-And I promise, it’s not about us wanting to put more work on your shoulders. It’s actually about, well, this:
+Here's a taste of what they look like:
 
 [![Slack Tips Tuesday: How to Not Look Like a Slacker on Slack](http://img.youtube.com/vi/dnzE9ip5U04/hqdefault.jpg)  
 Slack Tips Tuesday: How to Not Look Like a Slacker on Slack](http://www.youtube.com/watch?v=dnzE9ip5U04)
 
-And, before you ask, no, we're not calling you a slacker.
+It's not really about looking like a slacker, it's more about how valuable we've found active communication to be.
 
 See, there are two distinct objectives when writing these X-Journals.
 
