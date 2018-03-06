@@ -33,6 +33,10 @@
 
   Quite a deal, isn't it ;)
 
-
-* **I heard that there's plenty of internal app development going on. How can I get in on the action?**
+* **I heard that there's plenty of internal app development going on. How can I get in on the action?**  
   Ask @josh or @ryanchartrand to give you access to the relevant part of [X-Team's Github](https://github.com/x-team/). If you haven't heard anything specific, @josh, @jacek.lawniczak, and/or @karolsojko can give you a nice overview of all the stuff that's being developed where you could lend a hand.
+
+* **I'm applying for a visa and need my employer details. What do I put down?** <a name="visas"></a>  
+  When applying for visas, to prevent potential problems with immigration officials, keep in mind that you shouldn't use the terminology "employee" and "employer" when referring to X-Team since, legally, contracting is different from employment, and the immigration officials could misunderstand your claim as a lie and reject your visa application and/or deny you entry.
+
+  We're happy to provide documentation that confirms our past, ongoing, and projected business relationship, if this would help you with acquiring the visa, however. If you need such documentation, talk to @brad, and he'll get you sorted.

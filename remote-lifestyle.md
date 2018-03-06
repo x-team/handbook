@@ -39,13 +39,35 @@ X-Team sponsors the cost of the accommodation; you just have to get yourself the
 
 ![](/assets/xo2.jpg "How does it work?")
 
-### Upcoming X-Outposts {#outposts-upcoming}
+### You mentioned Guardians. Who are they and what is their role?
 
-Look for Slack channels named \#x-outpost-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots fill up within the first week of an announcement.
+Guardians are X-Teamers that volunteered as tribute… Err, I mean, as local guides who commit themselves to choosing a location for an Outpost, finding accommodation and serving participants with their knowledge about the local reality. They will give you insight on how to move around, where and where not to go, what to see, etc.
+
+Keep in mind, though, that while they will do their best to help you feel comfortable in an area, they are not there to organize an entertainment schedule on a daily basis. Please, appreciate their effort put into setting the Outpost up for you, and try your best to equally contribute organizational effort for the benefit of the whole group should they feel like today is the day for socializing.
+
+### What do you mean “today is the day for socializing”? Isn’t the very idea behind the Outpost to socialize with other X-Teamers every day?
+
+Well, sort of. You should always feel free to propose an activity that could be done together, but also be understanding and compassionate if your idea meets with reluctance or indecision. Some people might just need a day or two away from socializing, to recharge their batteries.
+
+### So, when should I “expect” to do things together?
+
+Mostly on the weekends and during Epics. This is when the Guardian or the whole group usually plans to fill days with social activities.
+
+### What if I need a visa to attend an outpost?
+
+Talk to the Guardian. They will help you with visa arrangements.
+
+See the question about applying for [visas](faq.md#visas) in the FAQ for some technicalities.
+
+### I'm in! Where can I go next? {#outposts-upcoming}
+
+Look for Slack channels named \#x-outpost-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots usually fill up within the first week of an announcement.
 
 * **MAR '18 — BRAZIL**
 
 * **APR-MAY '18 — TURKEY + CRIMEA**
+
+* **JUN '18 — SERBIA + POLAND**
 
 * **JUL-AUG '18 — SCOTLAND**
 
