@@ -26,6 +26,7 @@
     * [Outposts](remote-lifestyle.md#outposts)
       * [Upcoming Outposts](remote-lifestyle.md#outposts-upcoming)
       * [Past Experiences](remote-lifestyle.md#outposts-past)
+    * [Overload](overload.md)
   * [Community](community.md)
     * [Community Overview](community.md)
     * [Community Guardian Guide](community-guardian-guide.md)
