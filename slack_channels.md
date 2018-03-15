@@ -6,6 +6,38 @@ Everyone in X-Team is incredibly supportive and respectful, so never fear contri
 
 And there really are plenty of channels. We have no doubt that you will find something interesting for yourself.
 
+## Mentored Channels
+
+All of these channels provide feedback on your work in their domain, resources for it, and most importantly, mentors (see pinned post or look for someone with \[mod-something\]), who you can schedule a 1:1 with where they help you improve directly.
+
+**#gophers**  
+
+**#react**  
+
+**#docker**  
+
+**#node**  
+
+**#haskell-learning-club**  
+
+**#vue**  
+
+**#blockchain**  
+
+**#aws**  
+
+**#serverless-chat**  
+
+**#mobile**  
+
+**#speakers**  
+
+**#projectmanagement**  
+
+**#ux**  
+
+**#writing-club**  
+
 ## General
 
 **#courses**  
@@ -52,6 +84,12 @@ A treasure trove of great documentaries. Got a good one? Share!
 
 **#audiophile**  
 When you want to listen to your music at a heavenly level of clarity and detail, this is the place for you.
+
+**#x-parents**
+If you have kids, this is the place where you can chat with other X-Teamers with children, and come up with ideas together, how we can make your lives easier and include you more in our initiatives.
+
+**#fireside**
+The channel of our bi-weekly live chat, the Fireside Happy Hour. It's an informal and unscripted 40 minute group chat. Always fun!
 
 ## Quests & Clubs
 

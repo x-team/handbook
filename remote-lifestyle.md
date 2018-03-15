@@ -61,11 +61,11 @@ See the question about applying for [visas](faq.md#visas) in the FAQ for some te
 
 ### I'm in! Where can I go next? {#outposts-upcoming}
 
-Look for Slack channels named \#x-outpost-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots usually fill up within the first week of an announcement.
+Look for Slack channels named \#x-outpost-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots usually fill up within the first week of an announcement. Here is a general overview of the upcoming outposts which _may or may not be inaccurate_, based on current developments. Ask @peterkaleta for exact information.
 
 * **MAR '18 — BRAZIL**
 
-* **APR-MAY '18 — TURKEY + CRIMEA**
+* **APR-MAY '18 — BALKANS ROAD TRIP**
 
 * **JUN '18 — SERBIA + POLAND**
 
