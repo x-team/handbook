@@ -8,7 +8,7 @@ And there really are plenty of channels. We have no doubt that you will find som
 
 ## Mentored Channels
 
-All of these channels provide feedback on your work in their domain, resources for it, and most importantly, mentors (see pinned post or look for someone with \[mod-something\]), who you can schedule a 1:1 with where they help you improve directly.
+All of these channels provide feedback on your work in their domain, resources for it, and most importantly, mentors (see pinned post or look for someone with \[mod-something\]), who you can schedule a 1:1 with where they help you improve directly. You can also ping a mentor squad by tagging `@[tech]-mentors` in chat. One of them is sure to respond.
 
 **#gophers**  
 
