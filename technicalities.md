@@ -57,7 +57,7 @@ So, now that you’ve read all this, if you’re not keeping an X-Team journal y
 
 1. Create a channel \(public or private, your choice\) in X-Team's Slack with the name structure \#journal-john
 2. Invite whoever you had your onboarding call with into the channel.
-3. Invite your account manager \(the person responsible for your team — if unsure, ask @luke\)
+3. Invite your account manager \(the person responsible for your team — if unsure who that is, ask @luke\)
 4. Create the first, Hello World! post, which should include a simple introduction of yourself, with things like:
 
 5. What are your usual working hours \(and timezone\)?
@@ -66,7 +66,7 @@ So, now that you’ve read all this, if you’re not keeping an X-Team journal y
 
 7. What does a normal day for you involve \(no need to share anything personal you feel uncomfortable sharing\)
 
-_PROTIP : If you need an example journal, take a look at \#samuel-pepys-journal on our Slack._
+_PROTIP : If you need an example journal, take a look at \#journal-samuel-pepys on our Slack._
 
 Once you get the hang of the idea and are posting consistently to it, create a journal in the client's Slack as well. **Just make sure not to post your concerns about the client in that journal, but rather in your X-Team journal channel so we can help you.**
 

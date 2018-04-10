@@ -36,7 +36,7 @@ All of these channels provide feedback on your work in their domain, resources f
 
 **#ux**  
 
-**#writing-club**  
+**#club-writing**  
 
 ## General
 
@@ -55,11 +55,11 @@ Every now and then, we get one of our X-Teamers to let everyone else Ask Me Anyt
 **#funny**  
 Need a quick laugh? Search no further.
 
-**#lexchange**  
-Do you want to find someone to help you learn a language? A practice conversation partner? Someone to compete with in Duolingo?
-
-**#writing**  
+**#club-writing**  
 Tips on how to "rite more goodly" to be found here.
+
+**#club-moto**  
+The channel dedicated to motorcycles, cars, space-shuttles, airplanes, trains APCs, tanks, and anything in between.
 
 **#comics**  
 Marvel or DC? Think carefully before answering...
@@ -91,7 +91,7 @@ If you have kids, this is the place where you can chat with other X-Teamers with
 **#fireside**
 The channel of our bi-weekly live chat, the Fireside Happy Hour. It's an informal and unscripted 40 minute group chat. Always fun!
 
-## Quests & Clubs
+## Story/Challenge-driven Channels
 
 **#game-club**  
 BOOM HEADSHOT! Join one of our "LAN"-Parties or just get a little indie game and share your impressions with the community.
@@ -105,7 +105,7 @@ A story-prequel of #origins-rpg and played out not by rolling virtual dice but r
 **#photography-club**  
 If you need a second opinion on that piece of equipment you're buying or just want to chat about your favorite focal length, look no further.
 
-**#cooking-club**  
+**#club-cooking**  
 A weekly culinary challenge! One recipe, one week to prepare it. Learn to make dishes from all over the world as instructed by our very diverse group of X-Cooks&Bakers!
 
 **#productivity-quest**  
@@ -124,9 +124,6 @@ Good recommendations and discussions for anyone bitten by the book-worm.
 
 **#engineering**  
 General discussion about all things technology.
-
-**#ad-hoc-tech-question**  
-Got a quick question you need a quick answer for? This would be the place.
 
 **#opensource**  
 Got an open-source project you want to share? Found a cool one you want to point out? Want to discuss anything OS-related? This ist he perfect place for it.
@@ -153,9 +150,6 @@ Running Linux? Want to talk about Linux? #linux won't leave you hanging.
 
 **#yoga**  
 A channel where our very own Yoga Master Paul shares videos of exercises that make anyone feel better and healthier. Check it out!
-
-**#motorcycles**  
-The channel dedicated to crotch-rockets, cruisers, and everything in between. Also the staging ground for the 2018 X-Team Motorcycle Trip.
 
 **#cycling**  
 The channel for lovers of motor-less 2-wheeled travel. There are plenty of avid cyclists in X-Team, and this is the place to meet them.
