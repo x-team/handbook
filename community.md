@@ -24,7 +24,7 @@ We have a ton of community initiatives going on. Actually, by the end of 2017, w
 
 Over the course of the year, there will be 3 **Unleash Quests** running more or less continuously. Each of these quests has its own Slack channel, where there are \(usually weekly\) challenges posted, which participants have to pass. At the end, participants who do well are rewarded with [X-Coins](technicalities.md#XTC).
 
-As an example, the Unleash Quests running in January are:
+As an example, the Unleash Quests running in January 2018 were:
 
 * [UQ: Writing for Programmers 101](http://community.x-team.com/uq-writing/) — [\#unleash-quest-writing](https://x-team.slack.com/messages/C8PSERD0A)
 

@@ -69,6 +69,8 @@ Look for Slack channels named \#x-outpost-\[countryName\] as well as announcemen
 
 * **JUN '18 — SERBIA + POLAND**
 
+* **JUN-JUL '18 — CAMP SWEDEN** 
+
 * **JUL-AUG '18 — SCOTLAND**
 
 * **SEP '18 — ITALY**

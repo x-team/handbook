@@ -4,7 +4,7 @@ Our Slack community presents countless opportunities to learn, be inspired, get 
 
 Everyone in X-Team is incredibly supportive and respectful, so never fear contributing your thoughts to any channel.
 
-And there really are plenty of channels. We have no doubt that you will find something interesting for yourself.
+And there really are plenty of channels. We have no doubt that you will find something interesting for yourself. And at the bottom of the list, you can find our custom slash-commands and some of the default slash-commands we like.
 
 ## Mentored Channels
 
@@ -169,3 +169,18 @@ In November 2017, the first X-Team conference will take place in Krakow, Poland.
 The channel for those wanting to participate in the Colombian, Brazilian, and South African outposts in early 2018.
 
 And the list goes on. Browse channels in Slack to discover even more.
+
+## Slash Commands
+
+* `/remind [@someone or #channel] [what] [when]`
+* `/shrug [text]`
+* `/slap [@someone]`
+* `/giphy [text]`
+* `/hangout`
+* `tz [query/help]`
+* `/list-by-tag [tag]`
+* `/tag [@someone] [tag]`
+* `/untag [@someone] [tag]`
+* `/list-by-user [@someone]`
+* `/listvault`
+* `/vandelay [text]`
