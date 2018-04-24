@@ -59,17 +59,21 @@ Talk to the Guardian. They will help you with visa arrangements.
 
 See the question about applying for [visas](faq.md#visas) in the FAQ for some technicalities.
 
+### What if my significant other won't let me go alone?
+
+Bring them along! The vast majority of outposts is perfectly significant-other-friendly. Just make sure you let the guardian know when you apply.
+
+### ... and children?
+
+For families, a new type of outposts — the X-Family Outpost is currently being planned, so everyone can participate in the epicosity of the X-Outposts.
+
 ### I'm in! Where can I go next? {#outposts-upcoming}
 
 Look for Slack channels named \#x-outpost-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots usually fill up within the first week of an announcement. Here is a general overview of the upcoming outposts which _may or may not be inaccurate_, based on current developments. Ask @peterkaleta for exact information.
 
-* **MAR '18 — BRAZIL**
+* **MAY-JUN '18 — CAMP SWEDEN**
 
-* **APR-MAY '18 — BALKANS ROAD TRIP**
-
-* **JUN '18 — SERBIA + POLAND**
-
-* **JUN-JUL '18 — CAMP SWEDEN**
+* **JUN-JUL '18 — SERBIA + POLAND**
 
 * **JUL-AUG '18 — SCOTLAND**
 
