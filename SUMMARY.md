@@ -10,6 +10,7 @@
     * [Unleash Budget](technicalities.md#unleash-budget)
     * [X-Coins & The Vault](/technicalities.md#x-coins--the-vault)
     * [Discussing Hourly Rates](raise.md)
+    * [Internal Projects](internal-projects.md)
   * [Core Values](core-values.md)
     * [Active Communication](core-values.md#active-communication)
     * [Ownership](core-values.md#ownership)
