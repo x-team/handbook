@@ -38,6 +38,13 @@ All of these channels provide feedback on your work in their domain, resources f
 
 **#club-writing**  
 
+**#elm**
+
+**#projectmanagement**
+
+**#speakers**
+
+
 ## General
 
 **#courses**  
@@ -61,17 +68,20 @@ Tips on how to "rite more goodly" to be found here.
 **#club-moto**  
 The channel dedicated to motorcycles, cars, space-shuttles, airplanes, trains APCs, tanks, and anything in between.
 
+**#wine-club**
+Share the great wines you come across with others.
+
+**#beer-club**  
+Who doesn't like a cold one? No better place to find tips about great beers you just have to try.
+
+**#book-club**  
+Good recommendations and discussions for anyone bitten by the book-worm.
+
 **#comics**  
 Marvel or DC? Think carefully before answering...
 
 **#music**  
 All things music. Plenty of great new discoveries.
-
-**#projectmanagement**  
-"If you hire someone to be the official "scrum master", you're already lost." - Agree? Disagree? Prefer the Waterfall? Discuss here.
-
-**#speakers**  
-Do you have an important talk coming up and need some tips on how to really drive it home? This would be the place to find assistance.
 
 **#movies**  
 Star Trek? Star Wars? Star Gate? Dancing with the Stars?
@@ -93,6 +103,9 @@ The channel of our bi-weekly live chat, the Fireside Happy Hour. It's an informa
 
 ## Story/Challenge-driven Channels
 
+**#commit-quest**
+The main thing you definitely want to join!
+
 **#game-club**  
 BOOM HEADSHOT! Join one of our "LAN"-Parties or just get a little indie game and share your impressions with the community.
 
@@ -108,19 +121,23 @@ If you need a second opinion on that piece of equipment you're buying or just wa
 **#club-cooking**  
 A weekly culinary challenge! One recipe, one week to prepare it. Learn to make dishes from all over the world as instructed by our very diverse group of X-Cooks&Bakers!
 
+**#programming-club**
+Where our programming contests happen.
+
 **#productivity-quest**  
 A story-prequel of #origins-rpg and played out not by rolling virtual dice but rather by learning about productivity and implementing new productivity techniques. Your participation supports a charity as well.
 
 **#spy-quest**  
 Spy Quest is a Slack-based survival game (like #fit-quest) that will help motivate you to work in new environments more often. Gain x-coins and support a charity!
 
-**#beer-club**  
-Who doesn't like a cold one? No better place to find tips about great beers you just have to try.
+**#cycling-club**  
+The channel for lovers of motor-less 2-wheeled travel. There are plenty of avid cyclists in X-Team, and this is the place to meet them.
 
-**#book-club**  
-Good recommendations and discussions for anyone bitten by the book-worm.
 
-## Technology
+## Technology (non-mentored)
+
+**#ai**
+Greetings, fellow humans!
 
 **#engineering**  
 General discussion about all things technology.
@@ -128,31 +145,17 @@ General discussion about all things technology.
 **#opensource**  
 Got an open-source project you want to share? Found a cool one you want to point out? Want to discuss anything OS-related? This ist he perfect place for it.
 
-**#react**  
-Chat about all things React.
-
-**#ux**  
-Not sure where to place that button? Mixed-reality user flows? This would be the place to discuss these issues.
-
-**#serverless-chat**  
-The best place for serverless knowledge exchange.
-
 **#qa**  
 How to assure quality? Do you know? Let us know. Do you want to know? Join here and make it happen.
 
-**#gophers**  
-The meeting place for lovers of Go - the language, not the game.
-
 **#linux**  
 Running Linux? Want to talk about Linux? #linux won't leave you hanging.
+
 
 ## Lifestyle
 
 **#yoga**  
 A channel where our very own Yoga Master Paul shares videos of exercises that make anyone feel better and healthier. Check it out!
-
-**#cycling**  
-The channel for lovers of motor-less 2-wheeled travel. There are plenty of avid cyclists in X-Team, and this is the place to meet them.
 
 **#do-you-even-lift**  
 Well, do you?
@@ -162,11 +165,20 @@ We love traveling, and we have quite a few almost-perpetual travelers. Everythin
 
 ## Outposts & Conferences
 
+**#conferences**
+Let's talk conferences!
+
 **#unleashconf**  
 In November 2017, the first X-Team conference will take place in Krakow, Poland. Join the channel for related info and discussion.
 
-**#x-outpost-brasil** && **#x-outpost-colombia** && **#x-outpost-southafrica**  
-The channel for those wanting to participate in the Colombian, Brazilian, and South African outposts in early 2018.
+**#react-europe**
+Channel dedicated to one of our favorite conferences.
+
+**#x-outpost-families**
+Channel for our family-friendly outposts.
+
+**#x-outpost-[location]**
+The various outpost channels.
 
 And the list goes on. Browse channels in Slack to discover even more.
 
