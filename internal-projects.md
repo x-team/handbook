@@ -17,9 +17,9 @@ This guide will help explain the expectations we have around our internal projec
 
 2. You will work full-time on internal projects unless you have an explicit arrangement with our Cavalry Manager before joining the project.
 
-3. You are expected to maintain the same high coding standards that you would adhere to with a partner team.  
+3. You are expected to maintain the same high coding standards that you would adhere to with a partner team.
 
-4. We expect you to communicate actively, join planning sessions, and keep your team up to date on a daily basis like any great developer would.  
+4. We expect you to communicate actively, join planning sessions, and keep your team up to date on a daily basis like any great developer would via the team's channel or via your own journal channel.
 
 5. If you ever need to take time off, please inform the project's team lead or project manager.
 
