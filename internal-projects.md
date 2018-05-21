@@ -23,7 +23,9 @@ This guide will help explain the expectations we have around our internal projec
 
 5. You are expected to follow the dev flow that exists on any project and ensure the actions you take conform to our existing standards and methodologies.
 
-6. If you ever need to take time off, please inform the project's team lead or project manager.
+6. If we receive feedback that you are not performing up to X-Team's standards and expectations \(see above\) after multiple Sprints of performance, you will be removed from the project and likely not considered for future opportunities with X-Team partners.
+
+7. If you ever need to take time off, please inform the project's team lead or project manager.
 
 
 
