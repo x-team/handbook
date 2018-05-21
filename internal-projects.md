@@ -19,9 +19,11 @@ This guide will help explain the expectations we have around our internal projec
 
 3. You are expected to maintain the same high coding standards that you would adhere to with a partner team.
 
-4. We expect you to communicate actively, join planning sessions, and keep your team up to date on a daily basis like any great developer would via the team's channel or via your own journal channel.
+4. We expect you to communicate actively, join planning sessions, and keep your team up to date on a daily basis via a personal journal like any great developer would.
 
-5. If you ever need to take time off, please inform the project's team lead or project manager.
+5. You are expected to follow the dev flow that exists on any project and ensure the actions you take conform to our existing standards and methodologies.
+
+6. If you ever need to take time off, please inform the project's team lead or project manager.
 
 
 
