@@ -13,19 +13,19 @@ This guide will help explain the expectations we have around our internal projec
 
 ## Expectations
 
-1. Internal projects should be treated the same as any project you work on. Treating it with less respect purely because it's "internal" is only building poor habits and discipline for yourself. Remember that these projects are the lifeblood of X-Team and what ensure that we remain a sustainable company and community.
+1. As these internal projects are the lifeblood of X-Team, they should be treated the same as any project you work on. Ensure you maintain your good habits and strong discipline and remind yourself that your performance will ensure that we remain a sustainable company and community.
 
-2. You will work full-time on internal projects unless you have an explicit arrangement with our Cavalry Manager before joining the project.
+2. Work on internal projects is full-time \(40hrs/week\) unless you have an explicit arrangement with our Cavalry Manager before joining the project.
 
-3. You are expected to maintain the same high coding standards that you would adhere to with a partner team.
+3. The same high coding standards that you would adhere to with a partner team is expected.
 
-4. We expect you to communicate actively, join planning sessions, and keep your team up to date on a daily basis via a personal journal like any great developer would.
+4. Communicate actively, join planning sessions, and keep your team up to date on a daily basis via a personal journal like any great developer would.
 
-5. You are expected to follow the dev flow that exists on any project and ensure the actions you take conform to our existing standards and methodologies.
+5. Follow the dev flow that exists on any project and ensure the actions you take conform to our existing standards and methodologies.
 
-6. If we receive feedback that you are not performing up to X-Team's standards and expectations \(see above\) after multiple Sprints of performance, you will be removed from the project and likely not considered for future opportunities with X-Team partners.
+6. If you are not performing up to X-Team's standards and expectations \(see above\) after multiple Sprints and have received performance feedback following same without improvement, you will be removed from the project and are less likely to be considered for future opportunities with X-Team.
 
-7. If you ever need to take time off, please inform the project's team lead or project manager.
+7. We know that the vast majority of X-Teamers know most, if not all of the above and work inline with these expectations by nature, but it must be documented and adhered to for everyone and to address any uncertainties. We appreciate all of your work to-date and hope you enjoy the work on our internal projects!
 
 
 
