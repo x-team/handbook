@@ -151,6 +151,9 @@ How to assure quality? Do you know? Let us know. Do you want to know? Join here 
 **#linux**  
 Running Linux? Want to talk about Linux? #linux won't leave you hanging.
 
+**#flutter-club**
+A place for all fans of Google's mobile cross-platform framework.
+
 
 ## Lifestyle
 
@@ -162,6 +165,9 @@ Well, do you?
 
 **#travel**  
 We love traveling, and we have quite a few almost-perpetual travelers. Everything about the digital nomad lifestyle, various destinations, helpful tips, and more, here.
+
+**#wellbeing*
+Anything related to mental health, psychology and general wellbeing.
 
 ## Outposts & Conferences
 
