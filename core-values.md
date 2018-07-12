@@ -73,7 +73,7 @@ Internal compassion, empathy, this is the ability to put oneself in another’s 
 
 The way people communicate throughout the X-Team community will inspire you to truly embrace empathy on a daily basis.
 
-### Open to learning {#open-to-learning}
+## Open to learning {#open-to-learning}
 
 We love seeing X-Teamers learn and share their knowledge. That's why we have dedicated a yearly Unleash Budget for you. You have USD 2,500 to spend every year for the purposes of self-development. Whether you need an online course, a book, to experiment with a new tool that has some paid subscription — we’ve got you covered.
 
