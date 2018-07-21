@@ -71,6 +71,8 @@ Every year, you can participate in the [12 Days of X-Mas](https://x-team.com/blo
 
 Internal compassion, empathy, this is the ability to put oneself in another’s shoes. X-Team is a group of people from all over the world with various religious, economic, political, social, and other beliefs — believe us, we know, we have \#economy-and-politics — but despite debates taking place among people who hold the exact opposite beliefs, we always keep in mind that this person is our friend and teammate. They may hold beliefs that differ from ours, but that does not make them a worse person. Their life experience has brought them to different conclusions, and we respect that and try to understand the issue from their point-of-view.
 
+We are also all here to support one another, and it's one of the main reasons X-Team came to exist. Unleashing is not a 'single player' experience; we help each other grow and unleash every day by sharing knowledge, showing compassion and reaching out to help and cheer others in the community on.
+
 The way people communicate throughout the X-Team community will inspire you to truly embrace empathy on a daily basis.
 
 ## Open to learning {#open-to-learning}
@@ -96,12 +98,12 @@ The British Dictionary defines _"proactive"_ as _**“tending to initiate change
 
 Being a true X-Teamer in terms of proactiveness means that you are:
 
-* **Keeping Things Moving Forward**   
+* **Keeping Things Moving Forward**  
   You don’t wait for that next ticket to get assigned to you; when you see a potential for improvement in the project you’re working on or a new feature comes to your mind, you’re the first to reach out, propose it, fix it, and do it. You are in control.
 
 * **Unblockable**  
-  Remote work can be tough. All of us have had situations where we had to wait 12+ hours for someone to answer our question, clear out our doubts or just finish that task we’re dependent on.  
-  
+  Remote work can be tough. All of us have had situations where we had to wait 12+ hours for someone to answer our question, clear out our doubts or just finish that task we’re dependent on.
+
   The key here is to do as much as possible in any given situation. Don’t just ask a question and leave it — propose a solution in the meantime, code something alternative that could solve the issue, show that you are proactive beyond the obstacles of being remote.
 
 * **Adaptable**  
