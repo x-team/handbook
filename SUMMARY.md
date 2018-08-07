@@ -7,7 +7,7 @@
     * [The Core Team](technicalities.md#coreteam)
     * [Journaling](technicalities.md#journaling)
     * [Invoicing & Time Off](technicalities.md#invoicing)
-    * [Unleash Budget](technicalities.md#unleash-budget)
+    * [Unleash+](technicalities.md#unleash-budget)
     * [X-Coins & The Vault](/technicalities.md#x-coins--the-vault)
     * [Discussing Hourly Rates](raise.md)
     * [Internal Projects](internal-projects.md)
