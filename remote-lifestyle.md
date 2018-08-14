@@ -6,7 +6,7 @@
 
 The UnleashConf is X-Teams very own conference organized by X-Teamers for X-Teamers. Its first iteration happened in Krakow, Poland, in 2017 and was described by many an attendee as _"The single best X-team event ever!"_
 
-The conference is free to attend. However, every X-Teamer is expected to share some of their knowledge or experiences with the others by giving a short (or not so short) talk. And once that official part is done, several more or less adrenaline-filled activities await!
+The conference is free to attend. However, every X-Teamer is expected to share some of their knowledge or experiences with the others by giving a short \(or not so short\) talk. And once that official part is done, several more or less adrenaline-filled activities await!
 
 You can read an X-Teamer's thoughts on UnleashConf '17 [here](blogs/unleashconf.md).
 
@@ -25,9 +25,11 @@ Who doesn't like working from home or, indeed, anywhere on the planet? Silly que
 ### What is the X-Outpost?
 
 > [![X-Outpost: Extended Edition](http://img.youtube.com/vi/T2rQn0ejdFE/hqdefault.jpg)  
-X-Outpost: Extended Edition](http://www.youtube.com/watch?v=T2rQn0ejdFE)
+> X-Outpost: Extended Edition](http://www.youtube.com/watch?v=T2rQn0ejdFE)
 
 The [**X-Outpost**](http://x-team.com/x-outpost) is a roaming hacker house where nomad developers live, work and explore together. Each month, the X-Outpost moves to a different city in the world. They are hosted by Guardians, someone who serves as the host and guide for all activities.
+
+The X-Outpost, like Unleash+, is reserved for X-Teamers who are currently paid on an internal or partner project. 
 
 ![](/assets/xo.jpg)
 
@@ -107,19 +109,13 @@ Look for Slack channels named \#x-outpost-\[countryName\] as well as announcemen
 
 We've already had years worth of X-Outposts, and you can check out some of the diaries of past Xplorers:
 
-
-
 [X-OUTPOST: POLAND DIARY](https://x-team.com/blog/x-outpost-poland-diary/)
 
 Drifting cars, flying drones, surviving a storm, visiting the largest castle in the world, endless steak, and so much more.
 
-
-
 [MEMOIRS FROM ITALY](https://x-team.com/blog/memoirs-x-outpost/)
 
 We traveled and worked, and compromised neither of the two. This is what X-Outpost was, and I’d repeat it all over again in a heartbeat.”
-
-
 
 [2016 X-OUTPOST RECAP](https://x-team.com/blog/x-outpost-2016-recap/)
 
