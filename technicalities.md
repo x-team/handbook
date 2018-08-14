@@ -186,13 +186,7 @@ And that's it. If you’re experiencing any kind of problems with your payments,
 
 ![](/assets/unleash.jpg)
 
-You didn't think we'd forget about this, did you? [This jewel](http://xhq.x-team.com/unleash), reserved for X-Teamers on an internal or partner project, is the equivalent of USD 2,500 per calendar year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for with the general limit being a cap of $100/month/category, unless otherwise specified below:
-
-* \#photography-club — up to $50/month toward photography equipment
-* \#game-club — up to $20 on any game/month
-* \#courses — any paid course
-* \#conferences — ticket, travel, and/or lodging for any paid conference \(including \#unleashconf\). This category is excluded from the $100/month/category limit.
-* Health & Wellbeing — anything wellness-related that helps you relax and recharge your batteries \(massage, therapy, yoga, meditation apps, etc.\)
+You didn't think we'd forget about this, did you? [This jewel](http://xhq.x-team.com/unleash), **reserved for X-Teamers on an internal or partner project**, is the equivalent of USD 2,500 per calendar year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for with the general limit being a cap of $100/month/category, unless [otherwise specified in XHQ](http://xhq.x-team.com/unleash).
 
 If you are unsure whether something you'd like to get fits into one of these categories or if it isn't included in the list at all, shoot a quick ping to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6), and he'll help you figure it out.
 
