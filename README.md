@@ -1,6 +1,8 @@
-# ![](/assets/handbook.jpg)
-
 # Introduction
+
+![](.gitbook/assets/handbook.jpg)
+
+## Introduction
 
 Welcome to X-Team. Many developers before you have started on this same page and gone on to do the best work of their careers.
 
