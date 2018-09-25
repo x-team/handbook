@@ -39,9 +39,9 @@ See, there are two distinct objectives when writing these X-Journals.
 
 * The **first one is for the team you work with** to be able to see at any time, what you’re working on, how you’re progressing, etc. There might be daily or weekly standups, but nothing communicates competence like a journal of achievements you can always point to or which they can always check, when in doubt.
 
-  This is the journal you may or may not already be writing. It is pretty much a summary of your daily work, and it should be primarily accessible by the **team that works with you on the project**. It should include things like what tickets you worked on, what problems you ran into and how you solved them, what you learned that day...
+  This is the journal you may or may not already be writing. It is pretty much a summary of your daily work, and it should be primarily accessible by the **team that works with you on the project, i.e. in their Slack**. It should include things like what tickets you worked on, what problems you ran into and how you solved them, what you learned that day...
 
-* The **second one is for us, the core team,** here at X-Team. This journal is a copy of the first one **with additional reflections** on any and all characteristics of the project you’re working on — to reflect on project health, so to speak.
+* The **second one is for us, the core team,** here at X-Team, in our Slack. This journal is a copy of the first one **with additional reflections** on any and all characteristics of the project you’re working on — to reflect on project health, so to speak.
 
   Are there a ton of issues that aren’t being tackled and your suggestions are being ignored? Put it here.
 
@@ -49,7 +49,7 @@ See, there are two distinct objectives when writing these X-Journals.
 
   Does the client not provide you with what you need to be able to do your job? For Flying Spaghetti Monster’s sake, PUT IT HERE!
 
-  **Basically, this second journal is here so we know what is going on and can step in and help solve problems before they evolve to their final form.**
+  **Basically, this second journal is here so we know what is going on and can step in and help solve problems before they evolve to their final form. Having said that _if you work on an internal project, you should only keep a single journal_. Rule of thumb? One journal per Slack environment.**
 
 And if you are worried about how “complaining” is going to come across — no one in X-Team gets in trouble for expressing objective criticism. Obviously, it has to be professionally done — like putting it in this journal and/or messaging us and/or your account manager directly, but you will definitely not be penalized for it. If anything, “comparing notes” from several X-Teamers on a project could be helpful in potentially improving the work environment for everyone.
 
@@ -142,7 +142,7 @@ It's helpful to write reflections on your own code as well.
 * Any known tradeoffs or pros/cons of the approach you took, especially if it has impact on other parts of the system.
 * Finally, did you observe the golden rule of coding? I.e., _“Always write code assuming the next person that’ll work with it is a violent psychopath that knows where you live.”_
 
-### Invoicing & Time Off {#invoicing}
+### Invoicing, Overtime & Time Off {#invoicing}
 
 **Every two weeks**, you will have the opportunity to submit your invoice with the total number of hours worked, reimbursement requests, etc.
 
@@ -151,6 +151,9 @@ There's a reminder sitting on your Google Calendar for your X-Team account of wh
 Once you receive the invoice period notification, go to our [Invoice App](https://xteamdevs.appspot.com/). There, you will find your payment profile, which you’ll have to fill out the first time you’re there. On top, you have the options to **Request Time Off** and **Submit Invoice**.
 
 > **IMPORTANT** — Fill out the banking info _**before**_ you start a new invoice.
+
+**Overtime**
+Any overtime you're thinking of doing or told to do by the Partner _has to be cleared with your account manager (Jake, Luke, Brad) before you do it_. If you're working on internal projects, clear any potential overtime in advance with Paul.
 
 **Request Time Off**  
 You should always **request time off at least a month in advance**, preferably more. However, we understand that unexpected things happen, and if at all within our power, we'll have your back in emergencies.
@@ -179,7 +182,7 @@ If you are unsure whether something you'd like to get fits into one of these cat
 
 _In case you would like to see some real-life examples, head over to \#courses and see reviews that are already in there. Check out_ [_this post_](https://x-team.slack.com/files/U1XDNKJ0J/F899X5KFW/Courses_Budget) _first to get all the details._
 
-## X-Coins & The Vault
+## X-Coins & The Vault {#vault}
 
 ![](../../.gitbook/assets/vault.png)
 

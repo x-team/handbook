@@ -1,2 +1,0 @@
-# Upcoming Outposts
-

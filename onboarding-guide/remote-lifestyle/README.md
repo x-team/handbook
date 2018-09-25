@@ -69,28 +69,16 @@ Bring them along! The vast majority of outposts is perfectly significant-other-f
 
 For families, a new type of outposts — the X-Family Outpost is currently being planned, so everyone can participate in the epicosity of the X-Outposts.
 
-### I'm in! Where can I go next? {#outposts-upcoming}
+### I'm in! Where can I go next? {#upcoming-outposts}
 
 Look for Slack channels named \#x-outpost-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots usually fill up within the first week of an announcement. Here is a general overview of the upcoming outposts which _may or may not be inaccurate_, based on current developments. Ask @peterkaleta for exact information.
 
-* **MAY-JUN '18 — CAMP SWEDEN**
-* **JUN-JUL '18 — SERBIA + POLAND**
-* **JUL-AUG '18 — SCOTLAND**
-* **SEP '18 — ITALY**
-* **OCT '18 — GREECE**
-* **NOV '18 — BALKANS**
-* **DEC '18 — THAILAND**
-* **JAN '19 — SOUTH KOREA**
-* **FEB '19 — PHILIPPINES**
-* **MAR '19 — MEXICO**
-* **APR '19 — CHILE + PERU**
-* **MAY '19 — ARGENTINA**
-* **JUN '19 — COSTA RICA**
-* **JUL '19 — PORTUGAL**
-* **AUG '19 — SOUTH AFRICA**
-* **SEP '19 — POLAND**
+* **OCT '18 — SPAIN**
+* **NOV '18 — TURKEY**
+* **MAR '19 — SKIING/SNOWBOARDING ITALY**
+* **2019 JAN-JUN — SWEDEN, SLOVENIA, ROAD TRIP**
 
-### Past Experiences {#outposts-past}
+### Past Experiences {#past-experiences}
 
 We've already had years worth of X-Outposts, and you can check out some of the diaries of past Xplorers:
 
