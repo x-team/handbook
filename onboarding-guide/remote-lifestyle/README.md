@@ -71,12 +71,17 @@ For families, a new type of outposts — the X-Family Outpost is currently being
 
 ### I'm in! Where can I go next? {#upcoming-outposts}
 
-Look for Slack channels named \#x-outpost-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots usually fill up within the first week of an announcement. Here is a general overview of the upcoming outposts which _may or may not be inaccurate_, based on current developments. Ask @peterkaleta for exact information.
+Look for Slack channels named \#x-outpost-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots usually fill up within the first week of an announcement. Here is a general overview of the upcoming outposts which _may or may not be inaccurate_, based on current developments. Ask @ben for exact information.
+
+Upcoming outposts as of the 25th of September 2018:
 
 * **OCT '18 — SPAIN**
 * **NOV '18 — TURKEY**
+* **JAN '19 — ARGENTINA**
+* **FEB '19 — PHILIPPINES or THAILAND**
 * **MAR '19 — SKIING/SNOWBOARDING ITALY**
-* **2019 JAN-JUN — SWEDEN, SLOVENIA, ROAD TRIP**
+* **APR '19 — SOUTH AFRICA**
+* **MAY '19 — JAPAN**
 
 ### Past Experiences {#past-experiences}
 
