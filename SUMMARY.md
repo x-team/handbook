@@ -6,7 +6,7 @@
   * [Technicalities](onboarding-guide/technicalities/README.md)
     * [The Core Team](onboarding-guide/technicalities/technicalities.md#coreteam)
     * [Journaling](onboarding-guide/technicalities/technicalities.md#journaling)
-    * [Invoicing & Time Off](onboarding-guide/technicalities/technicalities.md#invoicing)
+    * [Invoicing, Overtime & Time Off](onboarding-guide/technicalities/technicalities.md#invoicing)
     * [Unleash+](onboarding-guide/technicalities/technicalities.md#unleash-budget)
     * [X-Coins & The Vault](onboarding-guide/technicalities/technicalities.md#vault)
     * [Discussing Hourly Rates](onboarding-guide/technicalities/raise.md)

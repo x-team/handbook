@@ -152,7 +152,7 @@ Once you receive the invoice period notification, go to our [Invoice App](https:
 
 > **IMPORTANT** — Fill out the banking info _**before**_ you start a new invoice.
 
-**Overtime**
+**Overtime**  
 Any overtime you're thinking of doing or told to do by the Partner _has to be cleared with your account manager (Jake, Luke, Brad) before you do it_. If you're working on internal projects, clear any potential overtime in advance with Paul.
 
 **Request Time Off**  
