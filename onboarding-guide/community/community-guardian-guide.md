@@ -1,9 +1,5 @@
 # Community Guardian Guide
 
-## ![](../../.gitbook/assets/33900983925_f8ca7ff276_o.jpg)
-
-## Community Guardian Guide
-
 So, you're interested in starting up a group in the X-Team Community? Perhaps we're missing a group that focuses on your passions and motivating you \(and others\) to explore those passions more often.
 
 Then prepare to become an **X-Team Guardian.**
