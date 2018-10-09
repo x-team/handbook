@@ -1,6 +1,6 @@
 # Work + Travel: How to Organize an Affordable Longterm Stay
 
-by Peter Kaleta
+by [Peter Kaleta](/peterkaleta.com)
 
 ## Bootstrapping your stay
 
@@ -82,7 +82,7 @@ Since taxi prices usually skyrocket somewhere between 3rd beer and 2am, the city
 
 Access to a proper internet connection and keeping your personal space intact are probably the two most difficult things to achieve in the lovelier corners of the world. Working from a local cafe is a possibility, albeit not one you might want to use as a base for your operation. The conditions are simply too fragile. On the other hand, in a paid coworking space you will not only have the stability but also a chance to network with other people working there. Some places \[like [hubud](http://www.hubud.org/)\] are even organizing [events](http://www.hubud.org/#whats-fresh) how cool is that?
 
-![Local cafe in Bangkok &#x2014; a perfect workspace for with one of the finest cold brews to be found.](https://res.cloudinary.com/dukp6c7f7/image/upload/f_auto,fl_lossy,q_auto/s3-ghost/2015/04/suk-640x385.png)Local cafe in Bangkok – a perfect workspace for with one of the finest cold brews to be found.
+![Local cafe in Bangkok — a perfect workspace for with one of the finest cold brews to be found.](https://res.cloudinary.com/dukp6c7f7/image/upload/f_auto,fl_lossy,q_auto/s3-ghost/2015/04/suk-640x385.png)Local cafe in Bangkok – a perfect workspace for with one of the finest cold brews to be found.
 
 ### Workouts
 

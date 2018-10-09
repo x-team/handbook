@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Introduction](README.md)
 * [About X-Team — Internal Perspective](about.md)
@@ -44,7 +44,6 @@
     * [UnleashConf — The Perfect Way to Integrate Remote Teams](good-reads/remote-work/unleashconf.md)
   * [Remote Lifestyle](good-reads/remote-lifestyle/README.md)
     * [How to Create an Affordable and Dynamic Ergonomic Office](good-reads/remote-lifestyle/ergonomic_office.md)
-    * [3 Workplace Exercises for a Healthy Body, on All Levels](good-reads/remote-lifestyle/3_workplace_exercises.md)
     * [Setting Up For Your First Long Haul Adventure](good-reads/remote-lifestyle/setting_up_for_adventure.md)
     * [Work + Travel: How to Organize an Affordable Longterm Stay](good-reads/remote-lifestyle/organize_longterm_stay.md)
   * [Productivity & Unleash](good-reads/productivity-and-unleash/README.md)
