@@ -4,7 +4,7 @@ So, you're interested in starting up a group in the X-Team Community? Perhaps we
 
 Then prepare to become an **X-Team Guardian.**
 
-Every channel in X-Team's Slack community \(as well other initiatives like X-Outposts or UnleashConf\) has a Guardian, someone dedicated to **keeping it moving forward.**
+Every channel in X-Team's Slack community \(as well other initiatives like X-Outposts or conferences we sponsor\) has a Guardian, someone dedicated to **keeping it moving forward.**
 
 As a Guardian, you might find yourself doing any of these things:
 
@@ -24,15 +24,13 @@ But also know that the [Core Team]() is here to support you in a few different w
 * **Want your group to earn X-Coins?** We will help you reward your group with X-Coins for completing activities or challenges you create.
 * **Want to promote your group or any of its activities?** We have access to the almighty [\#x-announcements](https://x-team.slack.com/messages/C0257R0RV/) channel, as well as the [Community](http://community.x-team.com) site and Invoice App where we can help promote your group's activities to the community at large.
 * **Want help keeping your group engaged?** If your group is turning into a ghost town, we can use our years of expertise to help you find ways to spark the fire again for your group.
-* **Want your group to utilize the Unleash Budget in a new way?** We're always open to new ways for X-Teamers to use the Unleash Budget to reimburse to help them grow around their goals and passions.
+* **Want your group to utilize the Unleash Budget in a new way?** We're always open to new ways for X-Teamers to use the Unleash+ Budget to reimburse to help them grow around their goals and passions.
 
 Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) on Slack to get help implementing any of those ideas and get your channel created and running.
 
 #### X-Outpost Guardians
 
-If you're interested in becoming an X-Outpost Guardian \(think: local guide/host for a group of 8-10 X-Teamers\), we have separate docs and tips for getting started.
-
-[Check them out here, starting with "Timeline".](https://drive.google.com/drive/folders/0Bxk0c3Dj9ZSsUDVNSXVzOTc4c0E)
+If you're interested in becoming an X-Outpost Guardian \(think: local guide/host for a group of 8-10 X-Teamers\), we have [separate docs and tips](https://docs.google.com/document/d/19mfaMmK7S0Fp-h4D9LJcRcxmf5wZzRhc543HJNYd2HY/edit?usp=sharing) for getting started.
 
 ### Top Tips for Slack Groups
 
@@ -113,7 +111,7 @@ But feel free to experiment and see what works best for you group. Perhaps 3 tim
 
 One great way to get people coming back to your channel and engaging consistently is by offering some sort of Streak bonus for engaging consecutively.
 
-For example, in **Fit-Quest**, a 4-week Streak is rewarded by 3 x-coins ![](../../.gitbook/assets/coin.png).
+For example, in **Fit-Quest**, a 4-week Streak was rewarded by 3 x-coins ![](../../.gitbook/assets/coin.png).
 
-In **Productivity Quest**, Streaks exponentially increase the total number of trees \(via [Retree](http://retree.com)\) we will plant around the world by the end of the season.
+In **Productivity Quest**, Streaks exponentially increased the total number of trees \(via [Retree](http://retree.com)\) we have planted around the world by the end of the season.
 

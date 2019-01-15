@@ -16,27 +16,15 @@ Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and tell him that the i
 
 You can also get an idea [in this guide](community-guardian-guide.md) of what it's like leading a Slack group by becoming a Community Guardian.
 
-And if you are wondering if something you might be interested in is already going on in a form that is a bit more active than _just_ a channel, take a look at our glorious [Community Page](http://community.x-team.com/).
-
 ### Community Initiatives
 
-We have a ton of community initiatives going on. Actually, by the end of 2017, we had so many, that we had to cut back. This is why we decided to reorganize and have kicked 2018 off with a new structure.
+We have a ton of community initiatives going on. Actually, by the end of 2017, we had so many, that we had to cut back. This is why we decided to reorganize and have kicked off in 2018 with a new structure.
 
-#### Quests — Study groups for interesting topics
+#### Bounties
 
-Over the course of the year, there will be 3 **Unleash Quests** running more or less continuously. Each of these quests has its own Slack channel, where there are \(usually weekly\) challenges posted, which participants have to pass. At the end, participants who do well are rewarded with [X-Coins](../technicalities/technicalities.md#XTC).
+Instead of previous, more structured challenges, now we give you the straightforward [bounties](https://xhq.x-team.com/bounties). Go to the page, pick one (or fifteen), and off you go, bounty hunter! Report completion as specified in the description, and earn your coins!
 
-As an example, the Unleash Quests running in January 2018 were:
-
-* [UQ: Writing for Programmers 101](http://community.x-team.com/uq-writing/) — [\#unleash-quest-writing](https://x-team.slack.com/messages/C8PSERD0A)
-* [UQ: React & Redux](http://community.x-team.com/uq-react/) — [\#unleash-quest-react](https://x-team.slack.com/messages/C8HV0T458)
-* [UQ: Git](http://community.x-team.com/uq-git/) — [\#unleash-quest-git](https://x-team.slack.com/messages/C8RASKU7J)
-
-There are also other quests, like [Productivity Quest](http://community.x-team.com/productivity) \([\#productivity-quest](https://x-team.slack.com/messages/C789928SY)\) or [Fit-Quest](https://x-team.com/blog/fit-quest-our-slack-survival-fitness-game/) \([\#fit-quest](https://x-team.slack.com/messages/C5NGD3EA2/)\).
-
-You can always find the current quests on our [Community Page](http://community.x-team.com/).
-
-If you have an idea for an Unleash Quest you would like to see happen, let [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) know, and he'll help you make it happen, if at all possible.
+If you have an idea for a new bounty, let [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) know, and he'll help you get it into the next season, if at all possible.
 
 #### Clubs
 
@@ -50,5 +38,4 @@ Current examples thereof are:
 * [Cycling Club](http://community.x-team.com/cycling) — [\#cycling-club](https://x-team.slack.com/messages/C740KNBPA)
 * [Haskell Learning Club](http://community.x-team.com/clubs/#haskell-learning-club) —[\#haskell-learning-club](https://x-team.slack.com/messages/C8T6XRZRV)
 
-As with quests, if you would like to start another club, or if you just have an idea for one, talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6).
-
+As with anything else community-related, if you would like to start another club, or if you just have an idea for one, talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6).

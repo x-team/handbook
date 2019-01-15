@@ -8,11 +8,11 @@ The goal of this explanation is to help make the rate raise conversation both st
 
 Rates can be discussed whenever, but we suggest between 12 and 24 months is ideal.
 
-You should initiate a rate discussion with your team's account manager \(on X-Team’s side\) at a time that reflects a significant milestone in growth. This may coincide with an anniversary, the beginning/end of a project, or a major Unleash milestone. You should familiarise yourself with the Hero Charter prior to this discussion.
+You should initiate a rate discussion with your team's account manager \(on X-Team’s side\) at a time that reflects a significant milestone in growth. This may coincide with an anniversary, the beginning/end of a project, or a major Unleash milestone.
 
 When discussing a new rate, we’ll want to understand what your long-term financial goals are. We want to be able to set a path for the next raise and ensure that our partner contracts can support your new rate.
 
-Prior to agreeing on a raise, your account manager will generally consult your client, your team, Unleashers and any other relevant people. A new rate will be effective at a date agreed upon, either an upcoming pay cycle or the commencement of a new project.
+Prior to agreeing on a raise, your account manager will generally consult your client, your team, and any other relevant people. A new rate will be effective at a date agreed upon, either an upcoming pay cycle or the commencement of a new project.
 
 ## What we look for
 
@@ -26,9 +26,9 @@ These are the actions we expect to have seen from any X-Teamer looking for a rat
 
 **The community is yours to mold.**
 
-X-Teamers strive to make X-Team a better company, working with amazing partners, hiring new X-Teamers, and improving the lives and skills of our peers.
+X-Teamers strive to make X-Team a better company which works with amazing partners, hires new X-Teamers, and improves the lives and skills of our peers.
 
-A true X-Teamer will be an ambassador for X-Team around the clock, constantly looking for improvements that benefit us all.
+A true X-Teamer is an ambassador for X-Team around the clock, constantly looking for improvements that benefit us all.
 
 X-Teamers are also constantly looking for ways to share their knowledge, give back to others, and improve their surroundings.
 

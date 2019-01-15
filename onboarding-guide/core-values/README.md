@@ -16,6 +16,10 @@ This means that, not only will we not sanction you for speaking your mind \(keep
 
 Feedback is something that feeds into this Active Communication value as well. Our community places a huge value on both letting people know they're appreciated and on giving constructive criticism when necessary. Everyone loves giving and getting high-fives, but if there is something that can be improved, that should be communicated as well. You will _**never**_ get in trouble for giving constructive criticism. However, if you'd still prefer to remain anonymous, talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6), and he'll pass your concerns on without mentioning who they're from.
 
+Another feedback outlet is the questionnaire that's part of the invoicing process.
+
+Finally, twice a year, we send out a big request for feedback to all X-Teamers - we really take these seriousy, and while it's not mandatory, filling them out would be much appreciated.
+
 ### Building Trust
 
 There is more to Active Communication than just building an awesome community, however. _**Keeping your comm lines open builds trust.**_

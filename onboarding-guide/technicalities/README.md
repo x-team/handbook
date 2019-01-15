@@ -8,17 +8,33 @@ Despite the general aversion to systematization without reason, there are some p
 
 ![](../../.gitbook/assets/coreteam.jpg)
 
-You'll see us reference "the core team" here at X-Team several times throughout this guide. This is referring to the team that keeps X-Team running. That's some of us above, hanging out in Thailand, envisioning the future of X-Team.
+You'll see us reference "the Core Team" several times throughout this guide. This is referring to the team that keeps X-Team running. That's some of us above, hanging out in Thailand, envisioning the future of X-Team.
 
-We named this team after open source projects, which also have core teams. Why? Because we see ourselves as a team of people dedicated to supporting X-Team developers, helping to set them up for success and to keep moving forward.
+We named this team after open source projects, which also have core teams. Why? Because we see ourselves as a team of people dedicated to supporting X-Team developers, helping to reach new highs and to keep moving forward.
 
-We're the ones who help create opportunities throughout the community for you to learn, grow, explore the world, stay healthy and unleash your potential.
+We're the ones who help create opportunities throughout the community for you to learn, grow, explore the world, stay healthy, and unleash your potential.
 
 **We're here to support you, 24/7.**
 
 We have teams for marketing, vetting, business development, community, and finance.
 
-Unsure of who to talk to on the core team for help? Start with your account manager \(the person who hired you\) and they will direct you to the right person.
+Unsure of who to talk to on the core team for help? Start with [@ben](https://x-team.slack.com/messages/D23Q0MCQ6); he will either help you himself or direct you to the right person.
+
+At the time of this writing, the Core Team includes:
+- Ryan Chartrand, CEO
+- Jake Foley, CGO, Account Manager
+- Brad Giblin, COO, Account Manager
+- Josh Johnston, CTO
+- Mike Rhoads, Head of Apps
+- Sam Accetta, Head of Finance
+- Luke Foley, Head of Partnerships, Account Manager
+- Alberto Grande, Head of Marketing
+- Caleb Brown, Ambassador
+- Paul McCrodden, Internal Product Owner
+- Gosia Jezierska, Internal Project Manager
+- David Roberts, Cavalry Manager
+- Grant Bartel, Recruiter
+- Ben Ferreira, The Fixer
 
 ### Journaling {#journaling}
 
@@ -26,7 +42,7 @@ Let's jump into what we find is the most valuable piece of advice for ANY remote
 
 The word "journal" probably brings to mind things like: “Dear Diary...” But what we're talking about is much closer to \`Captain's log, stardate 2017-09-10\`.
 
-X-Teamers maintain daily journals as a way to build trust with the teams they work on.
+Many X-Teamers maintain daily journals as a way to build trust with the teams they work on.
 
 Here's a taste of what they look like:
 
@@ -37,11 +53,11 @@ It's not really about looking like a slacker, it's more about how valuable we've
 
 See, there are two distinct objectives when writing these X-Journals.
 
-* The **first one is for the team you work with** to be able to see at any time, what you’re working on, how you’re progressing, etc. There might be daily or weekly standups, but nothing communicates competence like a journal of achievements you can always point to or which they can always check, when in doubt.
+* The **first one is for the team you work with** to be able to see at any time, what you’re working on, how you’re progressing, etc. There might be daily or weekly standups, but nothing communicates competence like a journal of achievements you can always point to or which they can always check, when in doubt. This journal would be a channel in the project's slack.
 
   This is the journal you may or may not already be writing. It is pretty much a summary of your daily work, and it should be primarily accessible by the **team that works with you on the project**. It should include things like what tickets you worked on, what problems you ran into and how you solved them, what you learned that day...
 
-* The **second one is for us, the core team,** here at X-Team. This journal is a copy of the first one **with additional reflections** on any and all characteristics of the project you’re working on — to reflect on project health, so to speak.
+* The **second one is for us, the core team,** here at X-Team in X-Teams slack. This journal is a copy of the first one **with additional reflections** on any and all characteristics of the project you’re working on — to reflect on project health, so to speak. Many people simply setup Zapier or a similar tool to duplicate the first journal from the project's slack to X-Team's slack, so they only have to add the reflections, if there are any.
 
   Are there a ton of issues that aren’t being tackled and your suggestions are being ignored? Put it here.
 
@@ -51,7 +67,9 @@ See, there are two distinct objectives when writing these X-Journals.
 
   **Basically, this second journal is here so we know what is going on and can step in and help solve problems before they evolve to their final form.**
 
-And if you are worried about how “complaining” is going to come across — no one in X-Team gets in trouble for expressing objective criticism. Obviously, it has to be professionally done — like putting it in this journal and/or messaging us and/or your account manager directly, but you will definitely not be penalized for it. If anything, “comparing notes” from several X-Teamers on a project could be helpful in potentially improving the work environment for everyone.
+And if you are worried about how “complaining” is going to come across — no one in X-Team has ever landed in hot water for expressing objective criticism. Obviously, it has to be professionally done — like putting it in this journal and/or messaging [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and/or your account manager directly, but you will definitely not be penalized for it. If anything, “comparing notes” from several X-Teamers on a project could be helpful in potentially improving the work environment for everyone.
+
+As a final note, if you're working on an internal project, you only need one journal. Don't duplicate it, in that case.
 
 #### Step I/III {#journaling-i}
 
@@ -71,7 +89,7 @@ Once you get the hang of the idea and are posting consistently to it, create a j
 
 #### Step II/III {#journaling-ii}
 
-There are a few journaling techniques we've found are great at building trust with your team.
+There are a few journaling techniques we've found which are great at building trust with your team.
 
 The first one is called **TIL \(Today I Learned\).** 
 
@@ -137,53 +155,55 @@ It's helpful to write reflections on your own code as well.
 
 **We don't always have time to complete everything to the level of perfection we hoped, so this is an opportunity to add more context to any rough edges you may have had to leave behind.**
 
-* Think about future maintainers of the code, or other people doing similar activities in future. Are there things they'll need to keep in mind, or things that will make their job easier?
-* If you were to implement this feature again in future, are there things you would do differently?
-* Any known tradeoffs or pros/cons of the approach you took, especially if it has impact on other parts of the system.
+* Think about future maintainers of the code, or other people doing similar activities in the future. Are there things they'll need to keep in mind or things that will make their job easier?
+* If you were to implement this feature again in the future, are there things you would do differently?
+* Any known tradeoffs or pros/cons of the approach you took, especially if it has an impact on other parts of the system.
 * Finally, did you observe the golden rule of coding? I.e., _“Always write code assuming the next person that’ll work with it is a violent psychopath that knows where you live.”_
 
 ### Invoicing & Time Off {#invoicing}
 
-**Every two weeks**, you will have the opportunity to submit your invoice with the total number of hours worked, reimbursement requests, etc.
+**Twice a month**, you will have the opportunity to submit your invoice with the total number of hours worked, reimbursement requests, etc.
 
-There's a reminder sitting on your Google Calendar for your X-Team account of when to submit.
+You will receive the "Invoice Time" email reminder from Mike Rhoads when the invoicing period opens. There should also be a "Submit Your Invoice" event on your X-Team gCal.
 
-Once you receive the invoice period notification, go to our [Invoice App](https://xteamdevs.appspot.com/). There, you will find your payment profile, which you’ll have to fill out the first time you’re there. On top, you have the options to **Request Time Off** and **Submit Invoice**.
+Once you receive the invoice period notification, go to [XHQ](https://xhq.x-team.com). There, if you click on your avatar, you will find your banking information and profile sections, which you should fill out the first time you’re there. In the left menu, you have several options, with the two important for now being **Vacation Request** and **Submit Invoice**.
 
 > **IMPORTANT** — Fill out the banking info _**before**_ you start a new invoice.
 
-**Request Time Off**  
+**Vacation Request**  
 You should always **request time off at least a month in advance**, preferably more. However, we understand that unexpected things happen, and if at all within our power, we'll have your back in emergencies.
 
 **Submit Invoice**  
 When you click it, you’ll go through a 6-stage process.
 
-1. **Announcements** Here you will find some company announcements like the beginning of X-Outpost registrations, the Beacons of Gondor \(referral bonuses\), all sorts of good stuff to read here.
-2. **Basics** Invoice date, option to upload a PDF invoice \(you will still have to fill out everything\), and notes.
-3. **Hours worked** A list of projects you can invoice the company for and the agreed hourly rate. Enter the number of hours you worked during that period.
-4. **Reimbursements** Here you can put in any reimbursements you may wish to claim. Some examples would be Unleash Budget reimbursements \(Clubs, Quests, Health/Wellbeing, Courses, Conferences, etc.\), referral bounties, etc. If unsure, whether something fits, ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6).
-5. **Survey** Here you’ll find a few questions on how things are going for you in X-Team. There are no right or wrong answers here, just be honest, so we can help make things better if something is suboptimal.
-6. **Banking info** Here you get the last chance to fix any mistakes in the recipient details for your salary. Double-check everything, hit Finish, and wait for that sweet cash to show up in your account. As a general guide on the transaction speed — barring public holidays, the money usually arrives in an EU bank account by Friday after the invoicing period.
+1. **Invoice Setup** Select the date range for the invoice. It should be automatically preset for the correct range.
+2. **Hours** Input how many hours you worked on which project in this invoicing period.
+3. **Reimbursements** Enter any reimbursements you may wish to claim. Some examples would be [Unleash+ Budget reimbursements](https://xhq.x-team.com/bounties). If unsure, whether something fits, ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6).
+4. **Add Referral Bonus** Have you shown someone the light of the X and they accepted it as their meaning in life? Once they have a contract with us, you can claim the Referral Bonus here.
+5. **Banking info** Double-check where the money is going since the worst thing is to not get the money because of a stupid typo.  And that's it. If you’re experiencing any kind of problems with your payments, just talk to our Head of Apps, Mike Rhoads \(@mikerhoads\), and he’ll help you out.
+6. **Notes** Right, if you'd like, you can also leave us a note here.
 
-And that's it. If you’re experiencing any kind of problems with your payments, just talk to our Head of Apps, Mike Rhoads \(@mikerhoads\), and he’ll help you out.
+After these steps, there is a short how-are-we-feeling survey to be filled out, and then you're truly done. As a little guideline for the survey smileys, their meanings are as follows:
+🙂 - "Life is wonderful! There may be some little issues here and there, but nothing I can't handle."
+😑 - "Hmm, got some stuff going on here I'd like to talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) about..."
+🙁- "Somebody help me!"
 
 ### Unleash+ {#unleash-budget}
 
 ![](../../.gitbook/assets/unleash.jpg)
 
-You didn't think we'd forget about this, did you? [This jewel](http://xhq.x-team.com/unleash), **reserved for X-Teamers on an internal or partner project**, is the equivalent of USD 2,500 per calendar year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for with the general limit being a cap of $100/month/category, unless [otherwise specified in XHQ](http://xhq.x-team.com/unleash).
+You didn't think we'd forget about this, did you? [This jewel](http://xhq.x-team.com/unleash), **reserved for X-Teamers on an internal or partner project**, is the equivalent of USD 2,500 per calendar year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for with the general limit being a cap of $100/month/category unless [otherwise specified in XHQ](http://xhq.x-team.com/unleash). The Unleash+ budget unlocks after you've been with us for a month.
 
-If you are unsure whether something you'd like to get fits into one of these categories or if it isn't included in the list at all, shoot a quick ping to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6), and he'll help you figure it out.
+If you are unsure whether something you'd like to get fits into one of these categories or if it isn't included in the list at all, shoot a quick ping to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6), and he'll help you figure it out. One thing that is a hard impossible is equipment that can be considered usual work equipment for an IT contractor because of legal reasons. Note that it doesn't matter what you'll be using it for but what the "friendly folks at the tax office" would think you'd use it for.
 
-**The only rule is:** Everyone in our community benefits by others sharing \(including you\), so using your budget has to result in sharing something with the community. For example, if it’s a course/book, then publish a short review or a recommendation in the _**\#courses**_ channel; if it's a club/quest expense, post about it in the corresponding channel; if it’s a conference you attended, you could write a blog post about your takeaways. You get the idea.
+**The only rule is:** Everyone in our community benefits by others sharing \(including you\), so using your budget has to result in sharing something with the community. For example, if it’s a course/book, then publish a short review or a recommendation in the _**\#courses**_ channel; if it’s a conference you attended, you could write a blog post about your takeaways. You get the idea.
 
-_In case you would like to see some real-life examples, head over to \#courses and see reviews that are already in there. Check out_ [_this post_](https://x-team.slack.com/files/U1XDNKJ0J/F899X5KFW/Courses_Budget) _first to get all the details._
+_In case you would like to see some real-life examples, head over to \#courses and see reviews that are already there. Check out_ [_this post_](https://x-team.slack.com/files/U1XDNKJ0J/F899X5KFW/Courses_Budget) _first to get all the details._
 
 ## X-Coins & The Vault
 
 ![](../../.gitbook/assets/vault.png)
 
-No, we haven't gone ICO-crazy. But since we're talking about perks, here's another. For participating in the various quests and initiatives on slack and otherwise, you may be awarded x-coins ![](../../.gitbook/assets/coin.png), which you can trade in for swag of various rarity levels.
+No, we haven't gone ICO-crazy. But since we're talking about perks, here's another. For conqering bounties, you will be awarded x-coins ![](../../.gitbook/assets/coin.png), which you can trade in for swag of various rarity levels.
 
-Check out [The Vault](http://x-team.com/vault) that holds the exclusive X-Team collectibles and get yours.
-
+Check out [The Vault](https://xhq.x-team.com/vault) that holds the exclusive X-Team collectibles and get yours.

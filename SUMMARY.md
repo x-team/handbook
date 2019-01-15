@@ -35,6 +35,8 @@
     * [Quality Communication Guidelines](onboarding-guide/community/comms.md)
     * [Slack Top X Channel Index](onboarding-guide/community/slack_channels.md)
     * [FAQ](onboarding-guide/community/faq.md)
+    * [Advice from X-Team Veterans](onboarding-guide/community/advice.md)
+    * [Representing X-Team](onboarding-guide/community/represent.md)
 * [Good Reads](good-reads/README.md)
   * [Remote Work](good-reads/remote-work/README.md)
     * [Remote Interviews — Tips for Your Upcoming Interview](good-reads/remote-work/remote_interview_tips.md)

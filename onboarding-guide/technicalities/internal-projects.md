@@ -19,5 +19,8 @@ This guide will help explain the expectations we have around our internal projec
 4. Communicate actively, join planning sessions, and keep your team up to date on a daily basis via a personal journal like any great developer would.
 5. Follow the dev flow that exists on any project and ensure the actions you take conform to our existing standards and methodologies.
 6. If you are not performing up to X-Team's standards and expectations \(see above\) after multiple Sprints and have received performance feedback following same without improvement, you will be removed from the project and are less likely to be considered for future opportunities with X-Team.
-7. We know that the vast majority of X-Teamers know most, if not all of the above and work inline with these expectations by nature, but it must be documented and adhered to for everyone and to address any uncertainties. We appreciate all of your work to-date and hope you enjoy the work on our internal projects!
+7. We know that the vast majority of X-Teamers know most, if not all of the above, and work in line with these expectations by nature, but it must be documented and adhered to for everyone and to address any uncertainties. We appreciate all of your work to-date and hope you enjoy the work on our internal projects!
 
+## Vacation Policy
+
+The same vacation policy applies to internal projects as it does to partner projects. Talk to your team, talk to your project manager, and if they say it's fine, put in a [Vacation Request](https://docs.google.com/a/x-team.com/forms/d/e/1FAIpQLSduKMlEZMxMLkbmMMszpLqHdOleFct4n337Alm7AMs29MvDZQ/viewform) in XHQ and add it to the gCal shown to you during Internal Project Onboarding with the PM, Gosia.

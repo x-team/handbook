@@ -11,13 +11,13 @@ Who doesn't like working from home or, indeed, anywhere on the planet? Silly que
 
 The [**X-Outpost**](http://x-team.com/x-outpost) is a roaming hacker house where nomad developers live, work and explore together. Each month, the X-Outpost moves to a different city in the world. They are hosted by Guardians, someone who serves as the host and guide for all activities.
 
-The X-Outpost, like Unleash+, is reserved for X-Teamers who are currently paid on an internal or partner project.
+The X-Outpost, like Unleash+, is reserved for X-Teamers who are currently paid on an internal or partner project, and have been with us for at least a month.
 
 ![](../../.gitbook/assets/xo.jpg)
 
 ### How does it work?
 
-Every Outpost lasts about a month and can be visited at any point. Weekdays are dedicated to remote working and light exploration, while weekends are for activities \(including one EPIC activity\).
+Outposts generally last 2 weeks and can be visited at any point, though full stays are preferred for those, who stay at the company accommodation. Weekdays are dedicated to remote working and light exploration, while weekends are for activities \(including one EPIC activity\).
 
 X-Team sponsors the cost of the accommodation; you just have to get yourself there.
 
@@ -49,35 +49,26 @@ Bring them along! The vast majority of outposts is perfectly significant-other-f
 
 ### ... and children?
 
-For families, a new type of outposts — the X-Family Outpost is currently being planned, so everyone can participate in the epicosity of the X-Outposts.
+For families, a new type of outposts — the X-Family Outpost — has been designed to be completely family-friendly, no matter how big or small the family. In 2019, it's taking place in Croatia.
 
 ### I'm in! Where can I go next? {#upcoming-outposts}
 
-Look for Slack channels named \#x-outpost-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots usually fill up within the first week of an announcement. Here is a general overview of the upcoming outposts which _may or may not be inaccurate_, based on current developments. Ask @ben for exact information.
-
-Upcoming outposts as of the 25th of September 2018:
-
-* **OCT '18 — SPAIN**
-* **NOV '18 — TURKEY**
-* **JAN '19 — ARGENTINA**
-* **FEB '19 — PHILIPPINES or THAILAND**
-* **MAR '19 — SKIING/SNOWBOARDING ITALY**
-* **APR '19 — SOUTH AFRICA**
-* **MAY '19 — JAPAN**
+Look for Slack channels named \#xo-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots usually fill up within the first week of an announcement.
 
 ### Past Experiences {#past-experiences}
 
-We've already had years worth of X-Outposts, and you can check out some of the diaries of past Xplorers:
+We've already had years' worth of X-Outposts, and you can check out some of the videos and diaries of past Xplorers:
 
-[X-OUTPOST: POLAND DIARY](https://x-team.com/blog/x-outpost-poland-diary/)
+[X-OUTPOST: TURKEY 2018](https://www.youtube.com/watch?v=I-CXcgF3PwM)
 
-Drifting cars, flying drones, surviving a storm, visiting the largest castle in the world, endless steak, and so much more.
+[X-OUTPOST: PORTUGAL 2018](https://www.youtube.com/watch?v=NhaI4cvCAUY)
 
-[MEMOIRS FROM ITALY](https://x-team.com/blog/memoirs-x-outpost/)
+[X-OUTPOST: SERBIA + POLAND 2018](https://www.youtube.com/watch?v=u6bLNedJPo8)
 
-We traveled and worked, and compromised neither of the two. This is what X-Outpost was, and I’d repeat it all over again in a heartbeat.”
+[X-OUTPOST: COLOMBIA + BRAZIL 2018](https://www.youtube.com/watch?v=uzK-PeCIKX0)
 
-[2016 X-OUTPOST RECAP](https://x-team.com/blog/x-outpost-2016-recap/)
+[X-OUTPOST: POLAND DIARY 2017](https://x-team.com/blog/x-outpost-poland-diary/)
 
-In 2016, the X-Outpost was hosted in four countries and five cities, including Gran Canaria, Naples, Boston, Chicago, and Koh Phangan.
+[X-OUTPOST RECAP 2016](https://x-team.com/blog/x-outpost-2016-recap/)
 
+[MEMOIRS FROM ITALY 2016](https://x-team.com/blog/memoirs-x-outpost/)
