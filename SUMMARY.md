@@ -10,6 +10,7 @@
     * [Unleash+](onboarding-guide/technicalities/technicalities.md#unleash-budget)
     * [X-Coins & The Vault](onboarding-guide/technicalities/technicalities.md#vault)
     * [Discussing Hourly Rates](onboarding-guide/technicalities/raise.md)
+    * [Visiting Partner Teams](onboarding-guide/technicalities/visitpartner.md)
     * [Internal Projects](onboarding-guide/technicalities/internal-projects.md)
     * [X-Team CV Entry](onboarding-guide/technicalities/cv.md)
   * [Core Values](onboarding-guide/core-values/README.md)
