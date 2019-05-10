@@ -2,29 +2,91 @@
 
 ![](../../.gitbook/assets/community.jpg)
 
-## Community
+## Seasons
 
-We keep stressing that X-Team is a community of like-minded people who want to see the world proper and make it a better place. But it being a community — how does that actually show?
+[https://www.youtube.com/watch?v=Th80vOGFvUE](https://www.youtube.com/watch?v=Th80vOGFvUE)[![](https://cdn-std.dprcdn.net/files/acc_650285/B20eDl)](https://www.youtube.com/watch?v=Th80vOGFvUE)
 
-Well, there are several elements to it...
+The X-Team community is truly unlike any other. We've built the most energizing community for developers and continue to make it more and more awesome every Season.
 
-### Slack
+Seasons are three-month adventures we embark on as a community.
 
-You know Slack. Everyone knows Slack. We spend ungodly hours on it — because we want to and it's fun, not because we have to — and there's always something fun to do. If you're interested in just about anything, chances are, we have a channel for it with people who share that interest. You can look up the list of existing channels in slack or [here](slack_channels.md), if you're only interested in the most popular ones, but what do you do if your favorite pastime isn't on it?
+We created Seasons at X-Team to remind ourselves of the freedom we have, to wake up each day excited and energized and ready to come alive by doing more of what we love, to remind us to live a life we would live over and over again for eternity.
 
-Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and tell him that the impossible happened. Explain what your hobby/interest is and that you'd love to share it with the community. He'll get you sorted with instructions on how to do it, get you feedback on potential previous experience with it from the Core Team, and once everything is ready, he'll help you get this new little piece of heaven announced to the community via our announcements channel.
+They're about pushing you to grow and explore, to do more of the things that make you feel alive, and to feed off the energy that comes from a massive community of people doing that every day.
 
-You can also get an idea [in this guide](community-guardian-guide.md) of what it's like leading a Slack group by becoming a Community Guardian.
+Each Season is made up of a unique set of **Bounties**, **Vault** rewards, **X-Outposts**, **Game Days**, **Unleash+** expansions and more.
 
-### Community Initiatives
+Let's dive into each of those.
 
-We have a ton of community initiatives going on. Actually, by the end of 2017, we had so many, that we had to cut back. This is why we decided to reorganize and have kicked off in 2018 with a new structure.
+## **Bounties**
 
-#### Bounties
+![](/assets/Screen Shot 2019-05-10 at 3.42.50 PM.png)
 
-Instead of previous, more structured challenges, now we give you the straightforward [bounties](https://xhq.x-team.com/bounties). Go to the page, pick one (or fifteen), and off you go, bounty hunter! Report completion as specified in the description, and earn your coins!
+One of the main things you can do each season is chase [**Bounties.**](/xhq.x-team.com/bounties)
 
-If you have an idea for a new bounty, let [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) know, and he'll help you get it into the next season, if at all possible.
+Bounties are challenges designed to help energize you, to do more of the things you already love to do and give you that greater sense of wellbeing.
+
+Bounties could be things like reaching a certain level in a video game or watching one of Guillermo Del Toro's favorite movies, or running somewhere rather than driving there, or maybe going on a road trip.
+
+There's really something for everyone every season and the energy and inspiration that comes from everyone doing bounties is really like nothing you've seen before.
+
+**How It Works:** [Go to the Bounties page](/xhq.x-team.com/bounties), pick one, and off you go, bounty hunter. Report completion as specified in the description, and earn your coins you can use in [The Vault.](/xhq.x-team.com/vault)
+
+If you have an idea for a new bounty, let [@ben](https://legacy.gitbook.com/book/x-team/x-team-remote-developer-guide-to-greatness/edit#) know, and he'll help you get it into the next season, if at all possible.
+
+## The Vault
+
+![](/assets/Screen Shot 2019-05-10 at 3.48.14 PM.png)
+
+Now what's cool about Bounties is they earn you coins that you can use in [**The Vault**](/xhq.x-team.com/vault), which is our exclusive collectibles store.
+
+And we enlist artists and creators from around the world to help design some beautiful and meaningful clothing and collectibles.
+
+[**The Vault**](/xhq.x-team.com/vault) really is a celebration of all the things that energize us, from geek culture to programming and all these things we're passionate about.
+
+You can even donate your coins to each Season's Spotlight Charities or any cause you support, which so far has led to thousands of dollars going to a lot of incredible causes.
+
+## Game Days
+
+Once a week we all come together as a community to play an X-Team exclusive game or competition.
+
+It could be [**VS**](https://x-team.slack.com/messages/CGK10CSLU/), a race where we're competing as teams to rack up the most steps in a day:
+
+![](/assets/Screen Shot 2019-05-10 at 3.51.51 PM.png)
+
+Or it could be a Heist where we have to go collect things in the real world.
+
+Or it could be a [Loot Raid](/xhq.x-team.com/raids) where we're dice rolling against bosses for big prizes:
+
+![](/assets/Screen Shot 2019-05-10 at 4.03.32 PM.png)
+
+The list goes on, but we're always excited to open up our laptops each day to find out what's next.
+
+
+
+## [X-Outposts](/x-outpost.com)
+
+[https://www.youtube.com/watch?v=Vxt4YIqqmLw](https://www.youtube.com/watch?v=Vxt4YIqqmLw)[![](/assets/Screen Shot 2019-05-10 at 3.58.47 PM.png)](https://www.youtube.com/watch?v=Vxt4YIqqmLw)
+
+The X-Outpost is our famous hacker-house that any X-Teamer can go visit. It changes locations about 3 times every Season, so there's always somewhere new in the world you can go live and work with other X-Teamers and go on adventures together on the weekends if you so desire.
+
+Everyone who goes to an X-Outpost is just infused with energy the entire time they're there.
+
+To learn more, visit the [X-Outpost guide.](/good-reads/remote-lifestyle/README.md)
+
+
+
+## [Unleash+](/xhq.x-team.com/unleash)
+
+![](/assets/Screen Shot 2019-05-10 at 3.56.46 PM.png)
+
+Every Season we're also always unlocking new ways to use our [**Unleash+**](/xhq.x-team.com/unleash) membership that we offer to X-Teamers who work with our partners.
+
+[**Unleash+**](/xhq.x-team.com/unleash) comes with a $2,500/year allowance to spend on a bunch of energizing activities that help X-Teamers learn, grow, explore and do more of the things they love.
+
+Whether it's a gym membership to get you active, a babysitter to help you get out, video games to bring you new adventures, better headphones to help you stay productive, a MasterClass to explore something you love, Unleash+ is really the ultimate tool to staying energized and it keeps getting better each Season.
+
+Seasons are really all about bringing energy into your life, bringing adventure & exploration & helping you always be moving forward.
 
 #### Clubs
 
@@ -32,10 +94,11 @@ Clubs are channels with specialized topics, where there is at least some degree 
 
 Current examples thereof are:
 
-* [Yoga Club](http://community.x-team.com/yoga) — [\#yoga](https://x-team.slack.com/messages/C76CK2VU2)
 * [Game Club](http://community.x-team.com/games) — [\#game-club](https://x-team.slack.com/messages/C3WV9FYGJ)
 * [Photography Club](http://community.x-team.com/photography) — [\#photography-club](https://x-team.slack.com/messages/C79JCSBPH)
 * [Cycling Club](http://community.x-team.com/cycling) — [\#cycling-club](https://x-team.slack.com/messages/C740KNBPA)
-* [Haskell Learning Club](http://community.x-team.com/clubs/#haskell-learning-club) —[\#haskell-learning-club](https://x-team.slack.com/messages/C8T6XRZRV)
+* [Movie Club](https://x-team.slack.com/messages/C521FJLVC/) — [\#movie-club](https://x-team.slack.com/messages/C521FJLVC/)
+* Just type "club" into Slack's channels list to find more.
 
 As with anything else community-related, if you would like to start another club, or if you just have an idea for one, talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6).
+
