@@ -1,10 +1,8 @@
 # Technicalities
 
-## Technicalities {#technicalities}
-
 Despite the general aversion to systematization without reason, there are some processes that we've found help set up X-Team developers for success. The following are the few things that we think you'll find helpful in being a successful remote developer.
 
-### The Core Team {#coreteam}
+## The Core Team {#coreteam}
 
 ![](../../.gitbook/assets/coreteam.jpg)
 
@@ -36,7 +34,7 @@ At the time of this writing, the Core Team includes:
 - Grant Bartel, Recruiter
 - Ben Ferreira, The Fixer
 
-### Journaling {#journaling}
+## Journaling {#journaling}
 
 Let's jump into what we find is the most valuable piece of advice for ANY remote worker.
 
@@ -71,7 +69,7 @@ And if you are worried about how “complaining” is going to come across — n
 
 As a final note, if you're working on an internal project, you only need one journal. Don't duplicate it, in that case.
 
-#### Step I/III {#journaling-i}
+### Step I/III {#journaling-i}
 
 So, now that you’ve read all this, if you’re not keeping an X-Team journal yet, why not give it a shot? It's entirely optional, of course, but if you're interested in the idea, here are some basic steps to start:
 
@@ -87,7 +85,7 @@ _PROTIP : If you need an example journal, take a look at \#journal-samuel-pepys 
 
 Once you get the hang of the idea and are posting consistently to it, create a journal in the client's Slack as well. **Just make sure not to post your concerns about the client in that journal, but rather in your X-Team journal channel so we can help you.**
 
-#### Step II/III {#journaling-ii}
+### Step II/III {#journaling-ii}
 
 There are a few journaling techniques we've found which are great at building trust with your team.
 
@@ -137,7 +135,7 @@ The other day I was reviewing pull requests on a GitHub project, I and remembere
 
 In a couple of days, it had 13 retweets and 9 likes. That's nothing groundbreaking, but if there's a handful of people that found it useful, it's totally worth the 2 minutes it took him to do it.
 
-#### Step III/III {#journaling-iii}
+### Step III/III {#journaling-iii}
 
 It’s time to share with you another great journaling technique about reflections. Once you gather some entries in your journal, they are a great resource to reflect upon and make improvements.
 
@@ -160,7 +158,7 @@ It's helpful to write reflections on your own code as well.
 * Any known tradeoffs or pros/cons of the approach you took, especially if it has an impact on other parts of the system.
 * Finally, did you observe the golden rule of coding? I.e., _“Always write code assuming the next person that’ll work with it is a violent psychopath that knows where you live.”_
 
-### Invoicing & Time Off {#invoicing}
+## Invoicing & Time Off {#invoicing}
 
 **Twice a month**, you will have the opportunity to submit your invoice with the total number of hours worked, reimbursement requests, etc.
 
@@ -188,7 +186,7 @@ After these steps, there is a short how-are-we-feeling survey to be filled out, 
 😑 - "Hmm, got some stuff going on here I'd like to talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) about..."
 🙁- "Somebody help me!"
 
-### Unleash+ {#unleash-budget}
+## Unleash+ {#unleash-budget}
 
 ![](../../.gitbook/assets/unleash.jpg)
 
