@@ -343,7 +343,9 @@ But do not fear. As in many other areas, you'll find that we've got your back as
 
 So here's the answer to this doubt, which will, hopefully, put your mind at ease.
 
-### What happens when my engagement comes to an end? Am I out of work?
+### End-of-Project?
+
+**What happens when my engagement comes to an end? Am I out of work?**
 
 Three scenarios can happen when a project comes to an end:
 
