@@ -18,11 +18,15 @@ You can also get an idea [in this guide](community-guardian-guide.md) of what it
 
 ### Community Initiatives
 
-We have a ton of community initiatives going on. Actually, by the end of 2017, we had so many, that we had to cut back. This is why we decided to reorganize and have kicked off in 2018 with a new structure.
+We have a ton of community initiatives going on. Actually, by the end of 2017, we had so many, that we had to cut back. This is why we decided to reorganize and have kicked off in 2018 with a new structure... Which we have overhauled again in 2019, to bring you...
+
+#### Seasons
+
+Seasons are 2-3-month-long periods where the community is abuzz with new bounties (see below), new Unleash+ reimbursement possibilities, new challenges, and a new energy boost. That is also when your suggestions for new bounties or vault items (talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) about those) may be brought to life.
 
 #### Bounties
 
-Instead of previous, more structured challenges, now we give you the straightforward [bounties](https://xhq.x-team.com/bounties). Go to the page, pick one (or fifteen), and off you go, bounty hunter! Report completion as specified in the description, and earn your coins!
+Instead of previous, more structured but more complex challenges, now we give you the straightforward [bounties](https://xhq.x-team.com/bounties). Go to the page, pick one (or fifteen), and off you go, bounty hunter! Report completion as specified in the description, and earn your coins!
 
 If you have an idea for a new bounty, let [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) know, and he'll help you get it into the next season, if at all possible.
 

@@ -55,20 +55,6 @@ For families, a new type of outposts — the X-Family Outpost — has been desig
 
 Look for Slack channels named \#xo-\[countryName\] as well as announcements for registration in \#x-announcements. Make sure to register quickly as spots usually fill up within the first week of an announcement.
 
-### Past Experiences {#past-experiences}
+### I need more!
 
-We've already had years' worth of X-Outposts, and you can check out some of the videos and diaries of past Xplorers:
-
-[X-OUTPOST: TURKEY 2018](https://www.youtube.com/watch?v=I-CXcgF3PwM)
-
-[X-OUTPOST: PORTUGAL 2018](https://www.youtube.com/watch?v=NhaI4cvCAUY)
-
-[X-OUTPOST: SERBIA + POLAND 2018](https://www.youtube.com/watch?v=u6bLNedJPo8)
-
-[X-OUTPOST: COLOMBIA + BRAZIL 2018](https://www.youtube.com/watch?v=uzK-PeCIKX0)
-
-[X-OUTPOST: POLAND DIARY 2017](https://x-team.com/blog/x-outpost-poland-diary/)
-
-[X-OUTPOST RECAP 2016](https://x-team.com/blog/x-outpost-2016-recap/)
-
-[MEMOIRS FROM ITALY 2016](https://x-team.com/blog/memoirs-x-outpost/)
+See the [Outpost Guide](../../x-outpost-guide/README.md) for more details.

@@ -22,7 +22,7 @@ But also know that the [Core Team]() is here to support you in a few different w
 
 * **Want your group to make a charitable impact?** We can help motivate your group via a Group Goal that results in a donation to a charity or open source project.
 * **Want your group to earn X-Coins?** We will help you reward your group with X-Coins for completing activities or challenges you create.
-* **Want to promote your group or any of its activities?** We have access to the almighty [\#x-announcements](https://x-team.slack.com/messages/C0257R0RV/) channel, as well as the [Community](http://community.x-team.com) site and Invoice App where we can help promote your group's activities to the community at large.
+* **Want to promote your group or any of its activities?** We have access to the almighty [\#x-announcements](https://x-team.slack.com/messages/C0257R0RV/) channel, as well as the [XHQ](https://xhq.x-team.com) where we can help promote your group's activities to the community at large.
 * **Want help keeping your group engaged?** If your group is turning into a ghost town, we can use our years of expertise to help you find ways to spark the fire again for your group.
 * **Want your group to utilize the Unleash Budget in a new way?** We're always open to new ways for X-Teamers to use the Unleash+ Budget to reimburse to help them grow around their goals and passions.
 
@@ -30,7 +30,7 @@ Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) on Slack to get help im
 
 #### X-Outpost Guardians
 
-If you're interested in becoming an X-Outpost Guardian \(think: local guide/host for a group of 8-10 X-Teamers\), we have [separate docs and tips](https://docs.google.com/document/d/19mfaMmK7S0Fp-h4D9LJcRcxmf5wZzRhc543HJNYd2HY/edit?usp=sharing) for getting started.
+If you're interested in becoming an X-Outpost Guardian \(think: local guide/host for a group of ~6 X-Teamers\), check out the [X-Outpost Guide](../../x-outpost-guide/README.md).
 
 ### Top Tips for Slack Groups
 

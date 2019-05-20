@@ -8,8 +8,9 @@
 * **How do I know how many coins I have?** Check out XHQ - click on your avatar in the top-right.
 * **I have coins! Can I get the swag menu, please?** Absolutely. Check [The Vault](https://xhq.x-team.com/vault) and place your order.
 * **So, I have this friend who's a great coder, experienced and currently looking...** Excellent! Introduce him to Caleb, and he'll take it from there. If your friend gets in, you'll even get a referral bonus!
+* **How do I find people from country X?** There is a good chance they can be reached if you ping the @geo-[country] tag.
 * **I see X-Team has a blog. Can I get my blogs published there?**  
-  Yes, you can. Talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6), and he'll get you sorted with all the necessary proofreading, editing, and finally publishing support.
+  Yes, you can. Talk to @Thomas, and he'll get you sorted with all the necessary proofreading, editing, and finally publishing support.
 
   And just so you know why it's really worth doing it:
 

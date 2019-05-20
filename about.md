@@ -34,5 +34,5 @@ Since 2014, the company has been redefining what it means to be a high-end devel
 
 X-Team is owned by X-Company, which also owns other development-related companies like XFive \([http://xfive.co](http://xfive.co)\) and the well-known WordPress agency, XWP \([http://xwp.co](http://xwp.co)\).
 
-And now, on to the [technicalities](). =\)
+And now, on to the [core values](onboarding-guide/core-values/README.md). =\)
 
