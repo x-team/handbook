@@ -207,3 +207,158 @@ _In case you would like to see some real-life examples, head over to \#courses a
 No, we haven't gone ICO-crazy. But since we're talking about perks, here's another. For conqering bounties, you will be awarded x-coins ![](../../.gitbook/assets/coin.png), which you can trade in for swag of various rarity levels.
 
 Check out [The Vault](https://xhq.x-team.com/vault) that holds the exclusive X-Team collectibles and get yours.
+
+## Discussing Hourly Rates
+
+The goal of this explanation is to help make the rate raise conversation both straightforward and fair. Raises should be predictable and balanced to reflect the effort and growth that you’ve achieved since the last raise, giving you a clear path to achieve your financial goals.
+
+### How does it work?
+
+Rates can be discussed whenever, but we suggest between 12 and 24 months is ideal.
+
+You should initiate a rate discussion with your team's account manager \(on X-Team’s side\) at a time that reflects a significant milestone in growth. This may coincide with an anniversary, the beginning/end of a project, or a major Unleash milestone.
+
+When discussing a new rate, we’ll want to understand what your long-term financial goals are. We want to be able to set a path for the next raise and ensure that our partner contracts can support your new rate.
+
+Prior to agreeing on a raise, your account manager will generally consult your client, your team, and any other relevant people. A new rate will be effective at a date agreed upon, either an upcoming pay cycle or the commencement of a new project.
+
+### What we look for
+
+When we consider rate rises, development capabilities are only one factor.
+
+A true X-Teamer contributes to the success of their community, our partners, and X-Team.
+
+These are the actions we expect to have seen from any X-Teamer looking for a rate raise:
+
+#### Community
+
+**The community is yours to mold.**
+
+X-Teamers strive to make X-Team a better company which works with amazing partners, hires new X-Teamers, and improves the lives and skills of our peers.
+
+A true X-Teamer is an ambassador for X-Team around the clock, constantly looking for improvements that benefit us all.
+
+X-Teamers are also constantly looking for ways to share their knowledge, give back to others, and improve their surroundings.
+
+Examples:
+
+* Staying active
+  * Active contributor on Slack
+  * Starting community initiatives
+  * Unleashing/growth as a developer
+  * Open source contributions
+* Supporting X-Team’s future
+  * Developer/client referrals
+  * Supporting community events
+* Sharing knowledge
+  * Mentoring other X-Teamers
+  * Writing X-Team blog posts
+  * Conference/meetup talks
+  * Publishing X-Crash Courses
+
+#### Partners
+
+X-Teamers are unstoppable as they go above and beyond to help our partners succeed. While we love to \#shipit, it’s also important to understand the role an X-Teamer plays in building and supporting a great team.
+
+* Communication
+  * Meeting attendance
+  * Daily updates
+  * Respect & empathy
+* Development
+  * Code quality
+  * Contributions
+  * Output
+* Team improvement
+  * Retros
+  * Process iteration
+  * Relationships with teammates
+* Feedback from your teammates
+  * Knowledge sharing
+  * Communication & attitude
+  * Generosity
+
+The above points aren’t exhaustive, nor do you need to check every box. We want to hear from you about your efforts and achievements, and about the ways you’ve sought to add value to yourself, our community, our partners, and X-Team at large.
+
+## Visiting Partners
+
+We often receive questions about our policy on people visiting the teams they work with every day. We put our heads together and came up with very simple guidelines:
+
+If the partner requests your on-site presence, you have to let your Account Manager (probably Jake, Brad, or Luke) know, not only because you should generally keep them in the loop about anything partner-related but also because they may be able to get you a sweet "travel package".
+
+If your visit, however, is to be unofficial, outside of the partner's premises, and work-free, by all means, go grab a few beers with the team and hang out!
+
+## Internal Projects
+
+There are two scenarios where you might contribute to X-Team's internal projects:
+
+1. You have just come off of a partner team and we are still looking for your next team.
+2. You have been hired before joining a partner team.
+
+In both cases, the whether you get assigned to internal and for how long will be determined by the core team.
+
+We have a variety of internal projects, all of which are critical to the success of X-Team. These are the platforms that drive the core functions of our business and ensure that X-Teamers get to work on great teams and that the community experience is the best it can be.
+
+This guide will help explain the expectations we have around our internal projects.
+
+### Expectations
+
+1. As these internal projects are the lifeblood of X-Team, they should be treated the same as any project you work on. Ensure you maintain your good habits and strong discipline and remind yourself that your performance will ensure that we remain a sustainable company and community.
+2. Work on internal projects is full-time \(40 hrs/week\) unless you have an explicit arrangement with our Cavalry Manager before joining the project.
+3. The same high coding standards that you would adhere to with a partner team is expected.
+4. Communicate actively, join planning sessions, and keep your team up to date on a daily basis via a personal journal like any great developer would.
+5. Follow the dev flow that exists on any project and ensure the actions you take conform to our existing standards and methodologies.
+6. If you are not performing up to X-Team's standards and expectations \(see above\) after multiple Sprints and have received performance feedback following same without improvement, you will be removed from the project and are less likely to be considered for future opportunities with X-Team.
+7. We know that the vast majority of X-Teamers know most, if not all of the above, and work in line with these expectations by nature, but it must be documented and adhered to for everyone and to address any uncertainties. We appreciate all of your work to-date and hope you enjoy the work on our internal projects!
+
+### Vacation Policy
+
+The same vacation policy applies to internal projects as it does to partner projects. Talk to your team, talk to your project manager, and if they say it's fine, put in a [Vacation Request](https://docs.google.com/a/x-team.com/forms/d/e/1FAIpQLSduKMlEZMxMLkbmMMszpLqHdOleFct4n337Alm7AMs29MvDZQ/viewform) in XHQ and add it to the gCal shown to you during Internal Project Onboarding with the PM, Gosia.
+
+## X-Team CV Entry
+
+We understand that you would like to showcase what you're doing to the world. Judging by partner feedback, you're excited about your work, and we love that. Even so, when you're putting your work on your CV or LinkedIn, please, keep the following in mind:
+
+* Under employer, **always put down X-Team**. As you will see in the sample template below, it's perfectly fine to mention you're working on a project with the partner, but putting them down as the employer could land both you and X-Team in trouble.
+* Both due to NDAs and general security concerns, **please do not specify the exact stacks and/or projects you're working on**. Seeing as you're seniors, giving a more high-level overview should be more than sufficient.
+
+And always remember - we love having you here. But in the hopefully unlikely event that you at some point decide that you'd be happier elsewhere, you can rest assured that you will receive a reference from us, which will dispell any potential doubts anyone might have about your abilities, without exposing both you and us to unnecessary risk.
+
+Sample Template:
+
+```text
+As one of X-Team's Senior Developers, I'm part of the team which was assigned to work together with [Partner]'s team on one of their projects, used by [millions] of people worldwide every day.
+
+Working on this project, I got to fully leverage my [back-end] development skills along with my [noSQL] database, [data flow], and [overall security] design knowledge
+
+Among other things, I was tasked with:
+- [Ensuring seamless integration of several internal and external services, running on diverse architectural paradigms],
+- [Implementing state-of-the-art security technologies and approaches],
+- [Onboarding new team members],
+- ...
+```
+
+## Job Security
+
+In X-Team, we're all contractors. If this is the first time you're not working as a regular employee with all the legal protections that status affords you, you may be feeling a bit anxious about the lack of job security you have working as a contractor.
+
+But do not fear. As in many other areas, you'll find that we've got your back as much as we can.
+
+So here's the answer to this doubt, which will, hopefully, put your mind at ease.
+
+### What happens when my engagement comes to an end? Am I out of work?
+
+Three scenarios can happen when a project comes to an end:
+
+1. We'll line up another opportunity for you to move on to after your current project ends. This is actually the most common scenario and what we'll be aiming for once you join our community.
+2. So long as you're committed to learning and growing, have kept your skills current throughout your time in X-Team, and performed well for past partners, the core team may decide to continue investing in you and keep you on board for a period you'll determine together with the CTO. We have internal projects that are critical to the success of X-Team that we'd love to have you contribute to in the interim.
+3. Sometimes, if rarely, negative outcomes do happen. If your skillset no longer aligns with what companies are looking for on their teams or if the feedback we receive from your partner show serious warning signs, we'll have to part ways. This isn't as common in X-Team, as we work hard to support you through every step with your partner experience. We also motivate you to always be learning and growing so that your skills will always remain marketable and can be placed in future roles.
+
+## Overload
+
+Despite both your and our best efforts to prevent this from happening, real life can sometimes become simply too overwhelming. While we've had encouragingly few cases of burnout over the years, occasionally, it does occur. In such cases, Rest & Relaxation can be a great remedy. Some parts thereof are already covered by utilizing your Unleash budget toward Health & Wellbeing.
+
+If just relaxing with a beverage of your choice on a beach doesn't suffice, however, we recommend you check out [BetterHelp](https://www.betterhelp.com/). It fits perfectly with our remote philosophy. You can talk to the therapist asynchronously via text or set up a live \(video\) call. The therapists are certified professionals, and you get assigned a therapist that specializes in what bothers you.
+
+Of course, you can reimburse the therapy from your $2,500/year Unleash budget.
+
+We hope this helps!
