@@ -5,6 +5,8 @@ Who doesn't like working from home or, indeed, anywhere on the planet? Silly que
 > [![X-Outpost: Extended Edition](http://img.youtube.com/vi/T2rQn0ejdFE/hqdefault.jpg)  
 > X-Outpost: Extended Edition](http://www.youtube.com/watch?v=T2rQn0ejdFE)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T2rQn0ejdFE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## What are X-Outposts?
 
 Outposts are roaming hacker-houses packed with action, exciting activities, and opportunities to hang out with other X-Teamers as well as with local dev communities. However, during the week, both provide a stable work environment. Each month, the X-Outpost moves to a different place in the world.
