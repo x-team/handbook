@@ -181,10 +181,10 @@ When you click it, you’ll go through a 6-stage process.
 5. **Banking info** Double-check where the money is going since the worst thing is to not get the money because of a stupid typo.  And that's it. If you’re experiencing any kind of problems with your payments, just talk to our Head of Apps, Mike Rhoads \(@mikerhoads\), and he’ll help you out.
 6. **Notes** Right, if you'd like, you can also leave us a note here.
 
-After these steps, there is a short how-are-we-feeling survey to be filled out, and then you're truly done. As a little guideline for the survey smileys, their meanings are as follows:
-🙂 - "Life is wonderful! There may be some little issues here and there, but nothing I can't handle."
-😑 - "Hmm, got some stuff going on here I'd like to talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) about..."
-🙁- "Somebody help me!"
+After these steps, there is a short how-are-we-feeling survey to be filled out, and then you're truly done. As a little guideline for the survey smileys, their meanings are as follows:  
+🙂 - "Life is wonderful! There may be some little issues here and there, but nothing I can't handle."  
+😑 - "Hmm, got some stuff going on here I'd like to talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) about..."  
+🙁- "Somebody help me!"  
 
 ## Unleash+ {#unleash-budget}
 
