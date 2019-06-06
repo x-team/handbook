@@ -2,6 +2,10 @@
 
 ![](../../.gitbook/assets/community.jpg)
 
+As you will see in the next few sections, we have a literal megaton of stuff for you to enjoy in X-Team. Please, dig in and go wild! Just remember that all of this is here solely to entertain and energize you. It's not supposed to be a chore, and it's _absolutely not mandatory_ to participate in any of these things! Though we do hope you'll find something you like :)
+
+And if you think of something good we could add to the list, let us know!
+
 ## Seasons
 
 [https://www.youtube.com/watch?v=Th80vOGFvUE](https://www.youtube.com/watch?v=Th80vOGFvUE)[![](https://cdn-std.dprcdn.net/files/acc_650285/B20eDl)](https://www.youtube.com/watch?v=Th80vOGFvUE)
