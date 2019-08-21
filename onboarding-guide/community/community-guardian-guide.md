@@ -14,11 +14,11 @@ As a Guardian, you might find yourself doing any of these things:
 * Creating competitions
 * etc.
 
-#### Getting started
+### Getting started
 
 Regardless of whether you want to create a study group or perhaps a Hearthstone club, you are completely empowered to do so.
 
-But also know that the [Core Team]() is here to support you in a few different ways:
+But also know that the [Core Team](community-guardian-guide.md) is here to support you in a few different ways:
 
 * **Want your group to make a charitable impact?** We can help motivate your group via a Group Goal that results in a donation to a charity or open source project.
 * **Want your group to earn X-Coins?** We will help you reward your group with X-Coins for completing activities or challenges you create.
@@ -28,15 +28,15 @@ But also know that the [Core Team]() is here to support you in a few different w
 
 Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) on Slack to get help implementing any of those ideas and get your channel created and running.
 
-#### X-Outpost Guardians
+### X-Outpost Guardians
 
-If you're interested in becoming an X-Outpost Guardian \(think: local guide/host for a group of ~6 X-Teamers\), check out the [X-Outpost Guide](../../x-outpost-guide/README.md).
+If you're interested in becoming an X-Outpost Guardian \(think: local guide/host for a group of ~6 X-Teamers\), check out the [X-Outpost Guide](../../x-outpost-guide/).
 
-### Top Tips for Slack Groups
+## Top Tips for Slack Groups
 
 While there is no "right" way of being a successful Guardian, we have learned a lot from those who came before you and will share some tips below on how to set up your group for success.
 
-#### 1. **Understand how motivation works.**
+### 1. **Understand how motivation works.**
 
 People are naturally motivated to do things they enjoy and that represent what they believe in.
 
@@ -57,14 +57,14 @@ It's really up to you and your group how you want to do it, but here are some ex
 * **Game Club** has a monthly tournament in an old school game \(like UT2k4\) to remind gamers to take a break and play games more.
 * **Unleash Quests** uses a weekly lesson approach to learn something new and create to remind devs how much they love learning and creating.
 
-#### 2. Use Pinned posts for newcomers
+### 2. Use Pinned posts for newcomers
 
 When someone new joins your group, they will feel very lost without some helpful information on how to get started.
 
 We like using pinned posts \(and making a mention of them in the channel description\) that explain how everything in your group works.  
 ![](https://github.com/x-team/x-team-remote-developer-guide-to-greatness/tree/9523a64ad688c0b134f0c35dd788ad8393cc5046/assets/Screen&#32;Shot&#32;2018-01-26&#32;at&#32;8.12.20&#32;PM.png)
 
-#### 3. Async vs. realtime
+### 3. Async vs. realtime
 
 There are two ways your group can engage with one another: **asynchronously** or in **realtime**. Or even both.
 
@@ -79,7 +79,7 @@ Examples:
 * **Game Club** combines async and realtime with async game reviews, but also async + realtime tournaments where 2 players face off in realtime while others await and schedule other matches asynchronously. This allows for a great balance of the two, and only requires 2 people at a time to be available for realtime interaction.
 * **Productivity Quest, Yoga Club, Fit-Quest**, etc. are all entirely asynchronous to allow everyone to try out methods and exercises on their own time.
 
-#### 4. Challenges
+### 4. Challenges
 
 One of the most effective ways to remind a group of passionate people to do something they love is through Challenges.
 
@@ -93,7 +93,7 @@ Other types of challenges include Tournaments, which we found [Challonge.com](ht
 
 Challenges are even more effective when there's a reward involved. Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) on Slack to get support for x-coins ![](../../.gitbook/assets/coin.png) rewards or a charitable donation reward.
 
-#### 5. Group challenges
+### 5. Group challenges
 
 Individual challenges are great because they allow everyone in the group to go at their own pace.
 
@@ -101,13 +101,13 @@ But you should also consider group challenges where they depend on each other in
 
 Group challenge examples include trying to bike a collective group total of kilometers in a month, or trying to get everyone to submit a PR to an open source project in order to achieve the goal \(and prize if applicable\).
 
-#### 6. Limit challenges/activities to 2 per week
+### 6. Limit challenges/activities to 2 per week
 
 We've found that people only have time for so much in their busy lives, and if they're participating in multiple groups at one time, at best you'll be able to get them to participate in 2 challenges/activities/events/etc. per week.
 
 But feel free to experiment and see what works best for you group. Perhaps 3 times/week is better, or perhaps once a week, or perhaps open ended at any time in the month.
 
-#### 7. Consider streak rewards
+### 7. Consider streak rewards
 
 One great way to get people coming back to your channel and engaging consistently is by offering some sort of Streak bonus for engaging consecutively.
 

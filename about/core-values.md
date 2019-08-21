@@ -2,7 +2,7 @@
 
 X-Teamers are incredibly diverse in so many ways, from skillsets to beliefs and beyond, but our core values are a baseline of attributes that we all share. They are the most important characteristics we look for before welcoming anyone into our community, and they are critical to making X-Team successful for many years to come. Thus, we decided to write down these characteristics and personal values, so there's never any doubt what we're all about.
 
-## Active Communication {#active-communication}
+## Active Communication <a id="active-communication"></a>
 
 ### Quiet as a Church Mouse
 
@@ -37,7 +37,7 @@ There are four things that can help you maintain and strengthen that trust every
 * **Sincerity and openness towards the core-team** Their job is to make things go smoothly, so if there is _**\*anything\***_ you feel they should know, tell them. Nobody has ever been in trouble for professionally bringing up issues so they could be solved, be it regarding the project, their X-Team experience, or something else entirely.
 * **Being active on Slack** Through the vetting process, the core-team has come to trust you. Through your participation in your team, they will hopefully grow to trust you as well. But at the end of the day, we're a rather large community, and it never hurts to have more friends you can count on, so be active on slack, respond, react, and have fun with everyone :\)
 
-## Ownership {#ownership}
+## Ownership <a id="ownership"></a>
 
 Being a true X-Teamer in terms of ownership means that you are:
 
@@ -45,7 +45,7 @@ Being a true X-Teamer in terms of ownership means that you are:
 * **Committed** Your motivation might change over the course of a project, but it doesn't mean you should start putting in less effort. When you committed to doing it, you made a pact with yourself that said: "I will see this through, I will keep moving forward, I will unleash my potential, because I believe in making an impact in this team."
 * **Uphold quality** We've learned a lot from the world of open source. X-Teamers are developers who code like the world is watching, like you're submitting a PR to a project with 10,000 stars on Github even if it's just a team of three. This is your project, and it deserves nothing less than 100% of what you can provide it. Don't get lazy, stay committed to yourself and what you believe in.
 
-## Compassion {#compassion}
+## Compassion <a id="compassion"></a>
 
 Helping others makes everyone feel good. It is one of the most basic human instincts, developed out of the raw need for survival. We were lucky enough to be born in places and situations that enabled us to become what we are today and to be able to give back to our communities and the world at large.
 
@@ -67,7 +67,7 @@ We are also all here to support one another, and it's one of the main reasons X-
 
 The way people communicate throughout the X-Team community will inspire you to truly embrace empathy on a daily basis.
 
-## Open to learning {#open-to-learning}
+## Open to learning <a id="open-to-learning"></a>
 
 We love seeing X-Teamers learn and share their knowledge. That's why we have dedicated a yearly Unleash Budget for you. You have USD 2,500 to spend every year for the purposes of self-development. Whether you need an online course, a book, to experiment with a new tool that has some paid subscription — we’ve got you covered.
 
@@ -79,7 +79,7 @@ A true X-Teamer is open to learning in the following sense:
 
 An example of the **Openness to Learning** is the participation of 24 X-Teamers in the [**UnleashConf**](https://x-team.com/blog/integrate-remote-teams-conference/), where they all shared their knowledge and learned from the community.
 
-## Proactiveness {#proactiveness}
+## Proactiveness <a id="proactiveness"></a>
 
 The British Dictionary defines _"proactive"_ as _**“tending to initiate change rather than reacting to events”**_**.** That is exactly how X-Teamers behave in their natural environment — remote work. We don’t wait for things to happen, we take control of our work, project, and situation and _act_.
 

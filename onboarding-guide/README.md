@@ -1,4 +1,2 @@
 # Onboarding Guide
 
-
-

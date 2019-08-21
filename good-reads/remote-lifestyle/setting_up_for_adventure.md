@@ -1,6 +1,6 @@
 # Setting Up For Your First Long Haul Adventure
 
-by [Peter Kaleta](/peterkaleta.com)
+by [Peter Kaleta](https://github.com/x-team/handbook/tree/a87f65331a76103b1e40ed06afb697906485ced6/peterkaleta.com)
 
 In 2016, we organised our first [**X-Outpost**](https://x-team.com/blog/how-we-created-a-roaming-coliving-space-for-our-remote-developers/), a hacker-house experience designed to bring a group of remote working individuals closer together. The goal was to build a creative environment in which people would freely share the best remote work practices and travel experience they gathered.
 
@@ -10,7 +10,7 @@ We want to close this year with a mighty swing towards our next goal. We are org
 
 The X-Team culture was always based on sharing. So while we are preparing ourselves for this particular adventure, we would also like to help all the rookie nomads out there. We will share the most valuable lessons we learned so far about traveling to this particular region.
 
-![&quot;Amsterdam&quot; — the highest bar on Koh Phangan Island.](https://res.cloudinary.com/dukp6c7f7/image/upload/f_auto,fl_lossy,q_auto/s3-ghost/2016/08/10914180_277112589079026_2035236048_n.jpg)“Amsterdam” – the highest bar on Koh Phangan Island.
+![&quot;Amsterdam&quot; &#x2014; the highest bar on Koh Phangan Island.](https://res.cloudinary.com/dukp6c7f7/image/upload/f_auto,fl_lossy,q_auto/s3-ghost/2016/08/10914180_277112589079026_2035236048_n.jpg)“Amsterdam” – the highest bar on Koh Phangan Island.
 
 ## Getting there
 

@@ -2,9 +2,9 @@
 
 Despite the general aversion to systematization without reason, there are some processes that we've found help set up X-Team developers for success. The following are the few things that we think you'll find helpful in being a successful remote developer.
 
-## The Core Team {#coreteam}
+## The Core Team <a id="coreteam"></a>
 
-![](../../.gitbook/assets/coreteam.jpg)
+![](../.gitbook/assets/coreteam.jpg)
 
 You'll see us reference "the Core Team" several times throughout this guide. This is referring to the team that keeps X-Team running. That's some of us above, hanging out in Thailand, envisioning the future of X-Team.
 
@@ -19,22 +19,23 @@ We have teams for marketing, vetting, business development, community, and finan
 Unsure of who to talk to on the core team for help? Start with [@ben](https://x-team.slack.com/messages/D23Q0MCQ6); he will either help you himself or direct you to the right person.
 
 At the time of this writing, the Core Team includes:
-- Ryan Chartrand, CEO
-- Jake Foley, CGO, Account Manager
-- Brad Giblin, COO, Account Manager
-- Josh Johnston, CTO
-- Mike Rhoads, Head of Apps
-- Sam Accetta, Head of Finance
-- Luke Foley, Head of Partnerships, Account Manager
-- Alberto Grande, Head of Marketing
-- Caleb Brown, Ambassador
-- Paul McCrodden, Internal Product Owner
-- Gosia Jezierska, Internal Project Manager
-- David Roberts, Cavalry Manager
-- Grant Bartel, Recruiter
-- Ben Ferreira, The Fixer
 
-## Journaling {#journaling}
+* Ryan Chartrand, CEO
+* Jake Foley, CGO, Account Manager
+* Brad Giblin, COO, Account Manager
+* Josh Johnston, CTO
+* Mike Rhoads, Head of Apps
+* Sam Accetta, Head of Finance
+* Luke Foley, Head of Partnerships, Account Manager
+* Alberto Grande, Head of Marketing
+* Caleb Brown, Ambassador
+* Paul McCrodden, Internal Product Owner
+* Gosia Jezierska, Internal Project Manager
+* David Roberts, Cavalry Manager
+* Grant Bartel, Recruiter
+* Ben Ferreira, The Fixer
+
+## Journaling <a id="journaling"></a>
 
 Let's jump into what we find is the most valuable piece of advice for ANY remote worker.
 
@@ -69,7 +70,7 @@ And if you are worried about how “complaining” is going to come across — n
 
 As a final note, if you're working on an internal project, you only need one journal. Don't duplicate it, in that case.
 
-### Step I/III {#journaling-i}
+### Step I/III <a id="journaling-i"></a>
 
 So, now that you’ve read all this, if you’re not keeping an X-Team journal yet, why not give it a shot? It's entirely optional, of course, but if you're interested in the idea, here are some basic steps to start:
 
@@ -85,11 +86,11 @@ _PROTIP : If you need an example journal, take a look at \#journal-samuel-pepys 
 
 Once you get the hang of the idea and are posting consistently to it, create a journal in the client's Slack as well. **Just make sure not to post your concerns about the client in that journal, but rather in your X-Team journal channel so we can help you.**
 
-### Step II/III {#journaling-ii}
+### Step II/III <a id="journaling-ii"></a>
 
 There are a few journaling techniques we've found which are great at building trust with your team.
 
-The first one is called **TIL \(Today I Learned\).** 
+The first one is called **TIL \(Today I Learned\).**
 
 Through the years, we’ve established that there’s nothing that builds trust with partners like some good ol' transparency and sharing of knowledge. That’s why we want you to implement this technique in your daily routine.
 
@@ -135,7 +136,7 @@ The other day I was reviewing pull requests on a GitHub project, I and remembere
 
 In a couple of days, it had 13 retweets and 9 likes. That's nothing groundbreaking, but if there's a handful of people that found it useful, it's totally worth the 2 minutes it took him to do it.
 
-### Step III/III {#journaling-iii}
+### Step III/III <a id="journaling-iii"></a>
 
 It’s time to share with you another great journaling technique about reflections. Once you gather some entries in your journal, they are a great resource to reflect upon and make improvements.
 
@@ -158,7 +159,7 @@ It's helpful to write reflections on your own code as well.
 * Any known tradeoffs or pros/cons of the approach you took, especially if it has an impact on other parts of the system.
 * Finally, did you observe the golden rule of coding? I.e., _“Always write code assuming the next person that’ll work with it is a violent psychopath that knows where you live.”_
 
-## Invoicing & Time Off {#invoicing}
+## Invoicing & Time Off <a id="invoicing"></a>
 
 **Twice a month**, you will have the opportunity to submit your invoice with the total number of hours worked, reimbursement requests, etc.
 
@@ -184,11 +185,11 @@ When you click it, you’ll go through a 6-stage process.
 After these steps, there is a short how-are-we-feeling survey to be filled out, and then you're truly done. As a little guideline for the survey smileys, their meanings are as follows:  
 🙂 - "Life is wonderful! There may be some little issues here and there, but nothing I can't handle."  
 😑 - "Hmm, got some stuff going on here I'd like to talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) about..."  
-🙁- "Somebody help me!"  
+🙁- "Somebody help me!"
 
-## Unleash+ {#unleash-budget}
+## Unleash+ <a id="unleash-budget"></a>
 
-![](../../.gitbook/assets/unleash.jpg)
+![](../.gitbook/assets/unleash.jpg)
 
 You didn't think we'd forget about this, did you? [This jewel](http://xhq.x-team.com/unleash), **reserved for X-Teamers on an internal or partner project**, is the equivalent of USD 2,500 per calendar year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for with the general limit being a cap of $100/month/category unless [otherwise specified in XHQ](http://xhq.x-team.com/unleash). The Unleash+ budget unlocks after you've been with us for a month.
 
@@ -200,9 +201,9 @@ _In case you would like to see some real-life examples, head over to \#courses a
 
 ## X-Coins & The Vault
 
-![](../../.gitbook/assets/vault.png)
+![](../.gitbook/assets/vault.png)
 
-No, we haven't gone ICO-crazy. But since we're talking about perks, here's another. For conqering bounties, you will be awarded x-coins ![](../../.gitbook/assets/coin.png), which you can trade in for swag of various rarity levels.
+No, we haven't gone ICO-crazy. But since we're talking about perks, here's another. For conqering bounties, you will be awarded x-coins ![](../.gitbook/assets/coin.png), which you can trade in for swag of various rarity levels.
 
 Check out [The Vault](https://xhq.x-team.com/vault) that holds the exclusive X-Team collectibles and get yours.
 
@@ -226,7 +227,7 @@ When we consider rate rises, development capabilities are only one factor.
 
 A true X-Teamer contributes to the success of their community, our partners, and X-Team.
 
-These are the actions we expect to have seen from any X-Teamer looking for a rate raise:
+These are examples of actions we expect to have seen from any X-Teamer looking for a rate raise:
 
 #### Community
 
@@ -252,11 +253,10 @@ Examples:
   * Mentoring other X-Teamers
   * Writing X-Team blog posts
   * Conference/meetup talks
-  * Publishing X-Crash Courses
 
 #### Partners
 
-X-Teamers are unstoppable as they go above and beyond to help our partners succeed. While we love to \#shipit, it’s also important to understand the role an X-Teamer plays in building and supporting a great team.
+X-Teamers go above and beyond to help our partners succeed. While we love to \#shipit, it’s also important to understand the role an X-Teamer plays in building and supporting a great team.
 
 * Communication
   * Meeting attendance
@@ -275,13 +275,15 @@ X-Teamers are unstoppable as they go above and beyond to help our partners succe
   * Communication & attitude
   * Generosity
 
-The above points aren’t exhaustive, nor do you need to check every box. We want to hear from you about your efforts and achievements, and about the ways you’ve sought to add value to yourself, our community, our partners, and X-Team at large.
+  
+**The above points aren’t exhaustive, nor do you need to check every box.**   
+We want to hear from you about your efforts and achievements, and about the ways you’ve sought to add value to yourself, our community, our partners, and X-Team at large.
 
 ## Visiting Partners
 
 We often receive questions about our policy on people visiting the teams they work with every day. We put our heads together and came up with very simple guidelines:
 
-If the partner requests your on-site presence, you have to let your Account Manager (probably Jake, Brad, or Luke) know, not only because you should generally keep them in the loop about anything partner-related but also because they may be able to get you a sweet "travel package".
+If the partner requests your on-site presence, you have to let your Account Manager \(probably Jake, Brad, or Luke\) know, not only because you should generally keep them in the loop about anything partner-related but also because they may be able to get you a sweet "travel package".
 
 If your visit, however, is to be unofficial, outside of the partner's premises, and work-free, by all means, go grab a few beers with the team and hang out!
 
@@ -362,3 +364,4 @@ If just relaxing with a beverage of your choice on a beach doesn't suffice, howe
 Of course, you can reimburse the therapy from your $2,500/year Unleash budget.
 
 We hope this helps!
+

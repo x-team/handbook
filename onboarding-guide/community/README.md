@@ -1,4 +1,4 @@
-# Community Overview
+# Community
 
 ![](../../.gitbook/assets/community.jpg)
 
@@ -22,17 +22,17 @@ We have a ton of community initiatives going on. Actually, by the end of 2017, w
 
 #### Seasons
 
-Seasons are 2-3-month-long periods where the community is abuzz with new bounties (see below), new Unleash+ reimbursement possibilities, new challenges, and a new energy boost. That is also when your suggestions for new bounties or vault items (talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) about those) may be brought to life.
+Seasons are 2-3-month-long periods where the community is abuzz with new bounties \(see below\), new Unleash+ reimbursement possibilities, new challenges, and a new energy boost. That is also when your suggestions for new bounties or vault items \(talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) about those\) may be brought to life.
 
 #### Bounties
 
-Instead of previous, more structured but more complex challenges, now we give you the straightforward [bounties](https://xhq.x-team.com/bounties). Go to the page, pick one (or fifteen), and off you go, bounty hunter! Report completion as specified in the description, and earn your coins!
+Instead of previous, more structured but more complex challenges, now we give you the straightforward [bounties](https://xhq.x-team.com/bounties). Go to the page, pick one \(or fifteen\), and off you go, bounty hunter! Report completion as specified in the description, and earn your coins!
 
 If you have an idea for a new bounty, let [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) know, and he'll help you get it into the next season, if at all possible.
 
 #### Clubs
 
-Clubs are channels with specialized topics, where there is at least some degree of organized activity. Clubs occasionally run activities, where it is also possible to earn [X-Coins](../technicalities/technicalities.md#XTC).
+Clubs are channels with specialized topics, where there is at least some degree of organized activity. Clubs occasionally run activities, where it is also possible to earn [X-Coins]().
 
 Current examples thereof are:
 
@@ -43,3 +43,4 @@ Current examples thereof are:
 * [Haskell Learning Club](http://community.x-team.com/clubs/#haskell-learning-club) —[\#haskell-learning-club](https://x-team.slack.com/messages/C8T6XRZRV)
 
 As with anything else community-related, if you would like to start another club, or if you just have an idea for one, talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6).
+

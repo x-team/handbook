@@ -1,21 +1,21 @@
-# Outpost in action
+# Mid-Outpost
 
 ## Arrival
 
 You've arrived at the destination airport, nice! If you're meeting other X-Teamers at the airport, this would be the time to find a comfy place to wait for them. While waiting, there are a few things you can get done to make life easier for everyone, once they arrive:
 
-- Check the currency exchange rates. Some airports have rip-off rates, but if you compare to what the interbank rate is (check google), you'll know if it sounds close enough to what you're willing to pay.
-- Unless the guardian is taking care of that, check the local mobile data plans on offer. Chances are, you'll have to do it yourself, as most countries now require a copy of your passport when you get a SIM card. If there are several providers, make sure you get one with good coverage for the area you're specifically going to.
-- Check which direction you have to go to get to the public transit, if you're taking that. Otherwise, find out (online/in-app) where uber or the local equivalent will be able to pick you up. In some places, taxi drivers are violently hostile towards uber drivers, so unless instructed otherwise, one person should sit up front with the driver. If you're taking public transit, figure out how it works.
-- Wait for everyone to arrive.
+* Check the currency exchange rates. Some airports have rip-off rates, but if you compare to what the interbank rate is \(check google\), you'll know if it sounds close enough to what you're willing to pay.
+* Unless the guardian is taking care of that, check the local mobile data plans on offer. Chances are, you'll have to do it yourself, as most countries now require a copy of your passport when you get a SIM card. If there are several providers, make sure you get one with good coverage for the area you're specifically going to.
+* Check which direction you have to go to get to the public transit, if you're taking that. Otherwise, find out \(online/in-app\) where uber or the local equivalent will be able to pick you up. In some places, taxi drivers are violently hostile towards uber drivers, so unless instructed otherwise, one person should sit up front with the driver. If you're taking public transit, figure out how it works.
+* Wait for everyone to arrive.
 
 ## AirBnB
 
 Everyone probably isn't going to arrive at the same time or even within a few hours, so people who arrive sooner may want to settle into rooms already. There are a few guidelines on assigning rooms so it's optimal and fair:
 
-- If two or more X-Teamers are sharing a room, they should get the biggest rooms (by room size) with ensuite bathrooms, if possible.
-- X-Teamers with plus-ones should get the next biggest (by bed size) rooms, also with ensuite bathrooms, if possible.
-- X-Teamers who have rooms to themselves get what's left.
+* If two or more X-Teamers are sharing a room, they should get the biggest rooms \(by room size\) with ensuite bathrooms, if possible.
+* X-Teamers with plus-ones should get the next biggest \(by bed size\) rooms, also with ensuite bathrooms, if possible.
+* X-Teamers who have rooms to themselves get what's left.
 
 If it's a tropical environment and some rooms have AC while others don't, it's nice to figure out a system to trade rooms so it's not just a few people who have to suffer through unless they don't mind.
 
@@ -32,3 +32,4 @@ If it's not super-time-sensitive, talk to the guardian. In cases of e.g. medical
 ## Have fun!
 
 Continue [here](p-post.md) for what happens after the outpost.
+

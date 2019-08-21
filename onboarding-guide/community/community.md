@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/community.jpg)
 
-As you will see in the next few sections, we have a literal megaton of stuff for you to enjoy in X-Team. Please, dig in and go wild! Just remember that all of this is here solely to entertain and energize you. It's not supposed to be a chore, and it's _absolutely not mandatory_ to participate in any of these things! Though we do hope you'll find something you like :)
+As you will see in the next few sections, we have a literal megaton of stuff for you to enjoy in X-Team. Please, dig in and go wild! Just remember that all of this is here solely to entertain and energize you. It's not supposed to be a chore, and it's _absolutely not mandatory_ to participate in any of these things! Though we do hope you'll find something you like :\)
 
 And if you think of something good we could add to the list, let us know!
 
@@ -24,9 +24,9 @@ Let's dive into each of those.
 
 ## **Bounties**
 
-![](/assets/Screen Shot 2019-05-10 at 3.42.50 PM.png)
+![](../../.gitbook/assets/screen-shot-2019-05-10-at-3.42.50-pm.png)
 
-One of the main things you can do each season is chase [**Bounties.**](/xhq.x-team.com/bounties)
+One of the main things you can do each season is chase [**Bounties.**](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/bounties/README.md)
 
 Bounties are challenges designed to help energize you, to do more of the things you already love to do and give you that greater sense of wellbeing.
 
@@ -34,19 +34,19 @@ Bounties could be things like reaching a certain level in a video game or watchi
 
 There's really something for everyone every season and the energy and inspiration that comes from everyone doing bounties is really like nothing you've seen before.
 
-**How It Works:** [Go to the Bounties page](/xhq.x-team.com/bounties), pick one, and off you go, bounty hunter. Report completion as specified in the description, and earn your coins you can use in [The Vault.](/xhq.x-team.com/vault)
+**How It Works:** [Go to the Bounties page](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/bounties/README.md), pick one, and off you go, bounty hunter. Report completion as specified in the description, and earn your coins you can use in [The Vault.](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/vault/README.md)
 
 If you have an idea for a new bounty, let [@ben](https://legacy.gitbook.com/book/x-team/x-team-remote-developer-guide-to-greatness/edit#) know, and he'll help you get it into the next season, if at all possible.
 
 ## The Vault
 
-![](/assets/Screen Shot 2019-05-10 at 3.48.14 PM.png)
+![](../../.gitbook/assets/screen-shot-2019-05-10-at-3.48.14-pm.png)
 
-Now what's cool about Bounties is they earn you coins that you can use in [**The Vault**](/xhq.x-team.com/vault), which is our exclusive collectibles store.
+Now what's cool about Bounties is they earn you coins that you can use in [**The Vault**](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/vault/README.md), which is our exclusive collectibles store.
 
 And we enlist artists and creators from around the world to help design some beautiful and meaningful clothing and collectibles.
 
-[**The Vault**](/xhq.x-team.com/vault) really is a celebration of all the things that energize us, from geek culture to programming and all these things we're passionate about.
+[**The Vault**](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/vault/README.md) really is a celebration of all the things that energize us, from geek culture to programming and all these things we're passionate about.
 
 You can even donate your coins to each Season's Spotlight Charities or any cause you support, which so far has led to thousands of dollars going to a lot of incredible causes.
 
@@ -56,45 +56,41 @@ Once a week we all come together as a community to play an X-Team exclusive game
 
 It could be [**VS**](https://x-team.slack.com/messages/CGK10CSLU/), a race where we're competing as teams to rack up the most steps in a day:
 
-![](/assets/Screen Shot 2019-05-10 at 3.51.51 PM.png)
+![](../../.gitbook/assets/screen-shot-2019-05-10-at-3.51.51-pm.png)
 
 Or it could be a Heist where we have to go collect things in the real world.
 
-Or it could be a [Loot Raid](/xhq.x-team.com/raids) where we're dice rolling against bosses for big prizes:
+Or it could be a [Loot Raid](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/raids/README.md) where we're dice rolling against bosses for big prizes:
 
-![](/assets/Screen Shot 2019-05-10 at 4.03.32 PM.png)
+![](../../.gitbook/assets/screen-shot-2019-05-10-at-4.03.32-pm.png)
 
 The list goes on, but we're always excited to open up our laptops each day to find out what's next.
 
+## [X-Outposts](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/x-outpost.com)
 
-
-## [X-Outposts](/x-outpost.com)
-
-[https://www.youtube.com/watch?v=Vxt4YIqqmLw](https://www.youtube.com/watch?v=Vxt4YIqqmLw)[![](/assets/Screen Shot 2019-05-10 at 3.58.47 PM.png)](https://www.youtube.com/watch?v=Vxt4YIqqmLw)
+[https://www.youtube.com/watch?v=Vxt4YIqqmLw](https://www.youtube.com/watch?v=Vxt4YIqqmLw)[![](../../.gitbook/assets/screen-shot-2019-05-10-at-3.58.47-pm.png)](https://www.youtube.com/watch?v=Vxt4YIqqmLw)
 
 The X-Outpost is our famous hacker-house that any X-Teamer can go visit. It changes locations about 3 times every Season, so there's always somewhere new in the world you can go live and work with other X-Teamers and go on adventures together on the weekends if you so desire.
 
 Everyone who goes to an X-Outpost is just infused with energy the entire time they're there.
 
-To learn more, visit the [X-Outpost guide.](/good-reads/remote-lifestyle/README.md)
+To learn more, visit the [X-Outpost guide.](../../good-reads/remote-lifestyle/)
 
+## [Unleash+](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/unleash/README.md)
 
+![](../../.gitbook/assets/screen-shot-2019-05-10-at-3.56.46-pm.png)
 
-## [Unleash+](/xhq.x-team.com/unleash)
+Every Season we're also always unlocking new ways to use our [**Unleash+**](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/unleash/README.md) membership that we offer to X-Teamers who work with our partners.
 
-![](/assets/Screen Shot 2019-05-10 at 3.56.46 PM.png)
-
-Every Season we're also always unlocking new ways to use our [**Unleash+**](/xhq.x-team.com/unleash) membership that we offer to X-Teamers who work with our partners.
-
-[**Unleash+**](/xhq.x-team.com/unleash) comes with a $2,500/year allowance to spend on a bunch of energizing activities that help X-Teamers learn, grow, explore and do more of the things they love.
+[**Unleash+**](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/unleash/README.md) comes with a $2,500/year allowance to spend on a bunch of energizing activities that help X-Teamers learn, grow, explore and do more of the things they love.
 
 Whether it's a gym membership to get you active, a babysitter to help you get out, video games to bring you new adventures, better headphones to help you stay productive, a MasterClass to explore something you love, Unleash+ is really the ultimate tool to staying energized and it keeps getting better each Season.
 
 Seasons are really all about bringing energy into your life, bringing adventure & exploration & helping you always be moving forward.
 
-#### Clubs
+### Clubs
 
-Clubs are channels with specialized topics, where there is at least some degree of organized activity. Clubs occasionally run activities, where it is also possible to earn [X-Coins](../technicalities/technicalities.md#XTC).
+Clubs are channels with specialized topics, where there is at least some degree of organized activity. Clubs occasionally run activities, where it is also possible to earn [X-Coins](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/onboarding-guide/technicalities/technicalities.md#XTC).
 
 Current examples thereof are:
 

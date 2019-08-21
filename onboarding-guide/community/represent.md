@@ -4,7 +4,7 @@ Many X-Teamers come to us and ask how they could help represent X-Team at events
 
 ## Just attending an event
 
-The best thing you can do is wear some of the swag you can get in the [vault](https://xhq.x-team.com/vault). Our t-shirts have a tendency of attracting attention =)
+The best thing you can do is wear some of the swag you can get in the [vault](https://xhq.x-team.com/vault). Our t-shirts have a tendency of attracting attention =\)
 
 ## Participating in an event
 
@@ -15,3 +15,4 @@ If the organizers are OK with it, you can include a pre-prepared presentation vi
 ### Giving an X-Team presentation
 
 If you're straight up focused on just giving a presentation about X-Team, we definitely want to hear about it. Talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and he'll provide you with the various materials you can use in your X-Team presentation and even help you put the whole thing together, if you'd like.
+

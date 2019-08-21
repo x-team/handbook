@@ -2,7 +2,7 @@
 
 There are innumerable theories on what makes for good teamplay. Our years of experience in running a completely remote team, however, has equipped us with a certain introspection into this question. Thus, we have distilled the question into three main categories.
 
-## Always Acknowledge {#acknowledge}
+## Always Acknowledge <a id="acknowledge"></a>
 
 When you speak with someone face to face, you say something, and they nod. We use these non-verbal signals to show someone that their message has been received.
 
@@ -32,7 +32,7 @@ it's important for Bob & Alice to know that people have seen it.
 
 Slack makes it so easy via emoji reactions to do low-noise acknowledgment in group conversations, so we should do this as much as possible. It doesn't even matter so much which emoji you use; it's really just about giving a signal that you have received the message. However, a general rule is to only use "positive" emojis. Obviously, a sad face, or even :thinking-face: is going to be a confusing signal. Thumbs-up is always a good way to start, but a bit of variety also helps to add personality.
 
-## Conventions {#conventions}
+## Conventions <a id="conventions"></a>
 
 Everyone in your team has had different experience in the past and has learned to do things in different ways. Agreeing on conventions must not be a theoretical exercise of deciding which way is "The Best", but a pragmatic approach to getting everyone working in harmony.
 
@@ -64,7 +64,7 @@ Good conventions are Documented, Reasoned, Automated and Team-owned.
 
   It's important that everyone feels they have some buy-in to the conventions your team takes on.  If you notice that someone seems unhappy with one of the conventions, try to discuss and find out how things could be improved. Always remember that the purpose of the conventions is to serve the team, not the other way around. So if one of your team members is experiencing frustration which can't easily be resolved, it might be better to discontinue the convention.
 
-## Setting Expectations {#expectations}
+## Setting Expectations <a id="expectations"></a>
 
 How many times have you said something like: _"I fixed the bug, it should be working now."_
 

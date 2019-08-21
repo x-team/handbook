@@ -1,11 +1,9 @@
-# Introduction
+# X-Outpost Guide
 
 Who doesn't like working from home or, indeed, anywhere on the planet? Silly question, right? That's why we here at X-Team created the X-Outpost.
 
 > [![X-Outpost: Extended Edition](http://img.youtube.com/vi/T2rQn0ejdFE/hqdefault.jpg)  
 > X-Outpost: Extended Edition](http://www.youtube.com/watch?v=T2rQn0ejdFE)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T2rQn0ejdFE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What are X-Outposts?
 
@@ -25,7 +23,7 @@ It depends. We usually work with the X-Teamer that knows the potential location 
 
 ## Who runs them? Who can participate?
 
-![](../../.gitbook/assets/xo.jpg)
+![](../.gitbook/assets/xo.jpg)
 
 Every outpost has a guardian. Guardians are X-Teamers that volunteered as tribute… Err, I mean, as local guides who commit themselves to choosing a location for an Outpost, finding accommodation and serving participants with their knowledge about the local reality. They will give you insight on how to move around, where and where not to go, what to see, etc.
 
@@ -41,8 +39,8 @@ An outpost is a collaborative experience, and while there's a leader - the guard
 
 Good to hear you're so excited!
 
-- If you're interested in participating, [click here](p-sign-up.md) to skip to the good stuff!
-- If you're interested in becoming an outpost guardian, continue [here](guardians.md).
+* If you're interested in participating, [click here](p-sign-up/) to skip to the good stuff!
+* If you're interested in becoming an outpost guardian, continue [here](guardians/).
 
 ## Past Experiences
 
@@ -67,3 +65,4 @@ We've already had years' worth of X-Outposts, and you can check out some of the 
 [X-OUTPOST RECAP 2016](https://x-team.com/blog/x-outpost-2016-recap/)
 
 [MEMOIRS FROM ITALY 2016](https://x-team.com/blog/memoirs-x-outpost/)
+

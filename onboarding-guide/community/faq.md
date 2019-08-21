@@ -8,7 +8,7 @@
 * **How do I know how many coins I have?** Check out XHQ - click on your avatar in the top-right.
 * **I have coins! Can I get the swag menu, please?** Absolutely. Check [The Vault](https://xhq.x-team.com/vault) and place your order.
 * **So, I have this friend who's a great coder, experienced and currently looking...** Excellent! Introduce him to Caleb, and he'll take it from there. If your friend gets in, you'll even get a referral bonus!
-* **How do I find people from country X?** There is a good chance they can be reached if you ping the @geo-[country] tag.
+* **How do I find people from country X?** There is a good chance they can be reached if you ping the @geo-\[country\] tag.
 * **I see X-Team has a blog. Can I get my blogs published there?**  
   Yes, you can. Talk to @Thomas, and he'll get you sorted with all the necessary proofreading, editing, and finally publishing support.
 
@@ -19,7 +19,8 @@
   * You'll have a personal editor available to help you polish your piece into something you'll be proud to show off not only content- but also language-wise.
 
   Quite a deal, isn't it ;\)
-* **I'm applying for a visa and need my employer details. What do I put down?**
-  When applying for visas, to prevent potential problems with immigration officials, keep in mind that you shouldn't use the terminology "employee" and "employer" when referring to X-Team since, legally, contracting is different from employment, and the immigration officials could misunderstand your claim as a lie and reject your visa application and/or deny you entry - possibly permanently.
+
+* **I'm applying for a visa and need my employer details. What do I put down?** When applying for visas, to prevent potential problems with immigration officials, keep in mind that you shouldn't use the terminology "employee" and "employer" when referring to X-Team since, legally, contracting is different from employment, and the immigration officials could misunderstand your claim as a lie and reject your visa application and/or deny you entry - possibly permanently.
 
   We're happy to provide documentation that confirms our past, ongoing, and projected business relationship, if this would help you with acquiring the visa, however. If you need such documentation, talk to @brad, and he'll get you sorted.
+
