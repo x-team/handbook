@@ -7,6 +7,8 @@
 The War of the NeXus is a brand new metagame that will be running throughout X-Team’s Season 5. A grand struggle between the three Houses - Steelfire, Nightclaw and the Lions Pride - to claim dominance of a brand new planet in the X-Team universe.   
 
 
+{% embed url="https://www.youtube.com/watch?v=UDepThxIss0" caption="Teaser Trailer released at X-Mas 2019" %}
+
 Over the course of three months, players will explore this wild planet, extract rare resources where they find them, expand their territories by constructing bases and defenses, and exterminate their opponents in fast paced dice based combat.   
 
 
