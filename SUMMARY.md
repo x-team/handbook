@@ -46,3 +46,8 @@
     * [How to Hack Your Motivation](good-reads/productivity-and-unleash/hack_motivation.md)
     * [How to Unleash Yourself in Just 2 Simple Steps](good-reads/productivity-and-unleash/how_to_unleash_self.md)
 
+## Season 5: New World.
+
+* [Guide](season-5-new-world./guide.md)
+* [War of the NeXus](season-5-new-world./war-of-the-nexus.md)
+
