@@ -64,7 +64,9 @@ In “War of the Nexus” each House \(the Lions Pride, Steelfire and Nightclaw\
 To do so, they will gather Resources through various actions and use them to build bases and units to defend them.  
 
 
-There are different kinds of units, some cheap and plentiful, others expensive but powerful! All units can claim territory and fight to hold it.   
+There are different kinds of units, some cheap and plentiful, others expensive but powerful! Some units have special abilities or limitations, for example: Standard soldiers cannot claim territory!   
+  
+As the game progresses, you will have opportunities to upgrade your Units too, boosting their stats or adding new abilities.    
 
 
 At the end of the Season, the House with the greatest number of territories will win and claim the right to call the New World their home.  
