@@ -50,4 +50,5 @@
 
 * [Guide](season-5-new-world./guide.md)
 * [War of the NeXus](season-5-new-world./war-of-the-nexus.md)
+* [Loot Raids](season-5-new-world./loot-raids.md)
 
