@@ -58,7 +58,7 @@ This time around, each House has one week to Level Up their own Boss to face off
 
 There are three separate statistics that can be Levelled Up during the course of the week:  
   
-**Health:** Is the amount of Damage a Boss can take from Raiders. This is Levelled Up by meeting certain Steps Goals during the course of the week. The Boss starts with 10,000 Health and can be Levelled Up to 25,000 Health.
+**Health:** Is the amount of Damage a Boss can take from Raiders. This is Levelled Up by meeting certain Steps Goals during the course of the week. The Boss starts with 1,000 Health and can be Levelled Up to 2,500 Health.
 
 **Attack:** Is the number of Raiders that the Boss Eliminates each round. This is Levelled Up by meeting certain Workout Goals during the course of the week. It starts at Eliminating 1 Raider per round and can scale all the way up to 4 Raiders per round!
 
