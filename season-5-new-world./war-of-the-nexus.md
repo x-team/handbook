@@ -164,7 +164,9 @@ The map that we use for the game is pictured above. Every hex is a separate “T
       </td>
     </tr>
   </tbody>
-</table>**Turn Order**
+</table>
+
+**Turn Order**
 
 Every week during the Season will follow the turn order listed below.   
 ****

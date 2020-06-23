@@ -46,6 +46,13 @@
     * [How to Hack Your Motivation](good-reads/productivity-and-unleash/hack_motivation.md)
     * [How to Unleash Yourself in Just 2 Simple Steps](good-reads/productivity-and-unleash/how_to_unleash_self.md)
 
+## Season 6: Not Done Yet \(Pt. II\)
+
+* [Guide](season-6-not-done-yet-pt.-ii/guide.md)
+* [War of the Ages](season-6-not-done-yet-pt.-ii/war-of-the-ages.md)
+* [The Arena](season-6-not-done-yet-pt.-ii/the-arena.md)
+* [X-Summit 2020](season-6-not-done-yet-pt.-ii/x-summit-2020.md)
+
 ## Season 5: New World.
 
 * [Guide](season-5-new-world./guide.md)
