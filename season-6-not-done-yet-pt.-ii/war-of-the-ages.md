@@ -28,6 +28,8 @@ _Eg: If you complete a bounty that grants you 3 Coins, your house will earn 300 
 
 Resources are a currency which House Generals can spend to buy Units the ludicrous battle simulator game _TABS: Totally Accurate Battle Simulator_. Units can range from simple club wielding cavemen, to literal gods calling down storms of lightning upon the battlefield. Some Units may be offered up as unique rewards for completing special bounties or winning other Seasonal Events, so keep an eye out on unique opportunities to boost the power of your forces!
 
+![](../.gitbook/assets/atone-age-units.png)
+
 ![](../.gitbook/assets/image%20%2811%29.png)
 
 
