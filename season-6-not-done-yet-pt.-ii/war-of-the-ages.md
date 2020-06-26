@@ -20,7 +20,9 @@ The first thing you will need to do is pick which of our two Houses you would li
 
 To do this, simply message @ElaineLithgow on Slack to be added to the House roster and invited into the House Members only private slack channel where strategies and plans can be shared.   
   
- From then on, every Bounty you claim and event you win will not only grant you coins to do with as you please, but also grant Resources to your House equal to the number of coins spent. 
+ From then on, every Bounty you claim and event you win will not only grant you coins to do with as you please, but also grant Resources to your House equal to the 100x the number of coins earned.   
+  
+_Eg: If you complete a bounty that grants you 3 Coins, your house will earn 300 Resource points to spend buying Units._
 
 **Resources & Units**
 
