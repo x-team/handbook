@@ -58,7 +58,7 @@ You will be visible when searching for health, and could get damaged.
 
 ### Revive \(/arena-revive\)
 
-If you have a health pack in your inventory, you can use the command /arena-revive to heal yourself for +50hp. You can even heal or revive other players if you're feeling generous by using /arena-revive @playername
+If you have a health pack in your inventory, you can use the command /arena-revive to heal yourself for +35hp. You can even heal or revive other players if you're feeling generous by using /arena-revive @playername
 
 ![](../.gitbook/assets/image%20%2824%29.png)
 
