@@ -10,21 +10,39 @@ description: >-
 
 You start every game with 100hp, no weapons and nothing in your inventory but the will to fight.
 
-From here, the game is broken into a series of rounds. Each round, you can execute **one** of the actions listed below:
+From here, the game is broken into a series of rounds. Each round, you can execute **one** action. To see a list of actions you can take, type **/arena** in slack to bring up your options.
 
-### Search for Weapons \(/arena-searchforweapons\)
+![](../.gitbook/assets/image%20%2836%29.png)
+
+### Status
+
+Selecting this action will display your health, inventory and hiding/visible status. _\(This does not count as an action, so you can do this at any time.\)_
+
+### **Cheer**
+
+![](../.gitbook/assets/image%20%2834%29.png)
+
+Cheering lets you spend your action to show your support to one of the players in the game. If has no immediate effect \(aside from a moral boost!\) but you can cheer even when you have been eliminated from the game. There is an award at the end of the game for the most cheered player.
+
+### Search for a Weapon 
 
 There are lots of different weapons in the arena of varying rarity. Each weapon can deal a different amount of damage and has a different number of times it can be used before it runs out of ammo.
 
 By using this command, you will spend your round searching for a weapon in the Arena.
 
- The weapons list is a secret, you'll have to learn on your own which weapons are best in which scenario.
-
 ![](../.gitbook/assets/image%20%2825%29.png)
 
-You will be visible, so other Hunters can damage you.
+You will be visible, so other Hunters can damage you if you search for a weapon.
 
-### Hunt \(/arena-hunt\)
+### Search for a Healthkit
+
+You will spend the round looking for a health pack. If you find one, it will be added to your inventory, but you it is not guaranteed!
+
+![](../.gitbook/assets/image%20%2826%29.png)
+
+You will be visible when searching for health, and could get damaged.
+
+### Hunt 
 
 Now you have a weapon, it's time to get hunting! Use the /arena-hunt command to track down and deal damage to other arena players.
 
@@ -40,7 +58,7 @@ If you hit, you will deal damage to your chosen target, potentially eliminating 
 
 While hunting you will be visible, so other Hunters can hunt and damage you too.
 
-### Hide \(/arena-hide\)
+### Hide 
 
 You will spend the round hiding and will not be visible, meaning you can't be damaged.
 
@@ -48,15 +66,7 @@ The only time you cannot hide, is if the Ring of Fire closes in. This is a rando
 
 ![](../.gitbook/assets/image%20%2817%29.png)
 
-### Search for Health \(/arena-searchforhealth\)
-
-You will spend the round looking for a health pack. If you find one, it will be added to your inventory, but you it is not guaranteed!
-
-![](../.gitbook/assets/image%20%2826%29.png)
-
-You will be visible when searching for health, and could get damaged.
-
-### Revive \(/arena-revive\)
+### Use a Healthkit
 
 If you have a health pack in your inventory, you can use the command /arena-revive to heal yourself for +35hp. You can even heal or revive other players if you're feeling generous by using /arena-revive @playername
 
@@ -64,7 +74,7 @@ If you have a health pack in your inventory, you can use the command /arena-revi
 
 You will be visible while healing, so can be hunted and damaged by other players.
 
-### Run to an airdrop \(/arena-runtoairdrop\)
+### Run to an airdrop
 
 Sometimes a valuable airdrop will be dropped into the arena \(Indicated by a post in the channel.\)
 
@@ -75,6 +85,32 @@ If there is an active airdrop, you will run to the air drop for your shot at a L
 Only one player will emerge from the round with the contents of the air drop.
 
 ![](../.gitbook/assets/image%20%2820%29.png)
+
+## Weapon List
+
+There are many different weapons to be found in the Arena. Each has a number of statistics: 
+
+**Rarity** _\(How easy it is to find the weapon\)_  
+**Damage Value** _\(How much damage it does to a player on a hit\)_   
+**Ammo count** _\(How many times it can be used\)_  
+**Special** _\(Any unique or unusual abilities that the weapon has\)_
+
+![](../.gitbook/assets/image%20%2833%29.png)
+
+## Awards
+
+At the end of each Arena battle, awards will be automatically generated to show Outstanding Performance. The winner of each Award will gain 1 coin as a consolation prize. The Awards are:   
+  
+**Damage Dealing** _\(The player that dealt the most damage\)_  
+**Medic** _\(The player that healed the most damage\)_  
+**Bullet Dodger** _\(The player that dodged the most attacks\)_  
+**Grim Reaper** _\(The player that dealt the most killing blows\)_  
+**Arms Dealer** _\(The player that collected the most weapons\)_  
+**At least we got Health** _\(The player that found the most Health Kits\)_  
+**Airdrop Catcher** _\(The player that reached the most Airdrops\)_  
+**Cheerleader** _\(The player that cheered the most\)_  
+**Public Favourite** _\(The player that received the most cheers\)_  
+
 
 ## Last Hunter Standing
 
