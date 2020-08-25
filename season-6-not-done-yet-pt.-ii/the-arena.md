@@ -12,7 +12,7 @@ You start every game with 100hp, no weapons and nothing in your inventory but th
 
 From here, the game is broken into a series of rounds. Each round, you can execute **one** action. To see a list of actions you can take, type **/arena** in slack to bring up your options.
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 ### Status
 
@@ -20,7 +20,7 @@ Selecting this action will display your health, inventory and hiding/visible sta
 
 ### **Cheer**
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 Cheering lets you spend your action to show your support to one of the players in the game. If has no immediate effect \(aside from a moral boost!\) but you can cheer even when you have been eliminated from the game. There is an award at the end of the game for the most cheered player.
 
@@ -78,7 +78,7 @@ You will be visible while healing, so can be hunted and damaged by other players
 
 Sometimes a valuable airdrop will be dropped into the arena \(Indicated by a post in the channel.\)
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 If there is an active airdrop, you will run to the air drop for your shot at a Legendary weapon or a Health Kit. You must have a weapon to run to an air drop as you may encounter another player also running there and will need to fight.
 
@@ -95,7 +95,7 @@ There are many different weapons to be found in the Arena. Each has a number of 
 **Ammo count** _\(How many times it can be used\)_  
 **Special** _\(Any unique or unusual abilities that the weapon has\)_
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 ## Awards
 
