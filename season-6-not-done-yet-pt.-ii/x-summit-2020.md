@@ -80,7 +80,7 @@ One of the best parts of any X-Summit gathering is always the bar scene, and we'
 
 **Drop in/out of multiple Zoom bars throughout the day:**  
   
-**12:00 UTC:** Pub Down Under - Australia + Asia.
+**10:00 UTC:** Pub Down Under - Australia + Asia.
 
 **15:00 UTC:** Drawful Pub - Play the hilarious [Drawful](https://www.youtube.com/watch?v=1VwwkfhZYCI).
 
