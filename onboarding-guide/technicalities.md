@@ -21,19 +21,24 @@ Unsure of who to talk to on the core team for help? Start with [@ben](https://x-
 At the time of this writing, the Core Team includes:
 
 * Ryan Chartrand, CEO
-* Jake Foley, CGO, Account Manager
-* Brad Giblin, COO, Account Manager
+* Jake Foley, CGO
+* Brad Giblin, COO
 * Josh Johnston, CTO
-* Mike Rhoads, Head of Apps
-* Sam Accetta, Head of Finance
 * Luke Foley, Head of Partnerships, Account Manager
+* Sam Seliger, Head of Strategic Accounts
 * Alberto Grande, Head of Marketing
-* Caleb Brown, Ambassador
+* Ben Ferreira, People Ops
 * Paul McCrodden, Internal Product Owner
 * Gosia Jezierska, Internal Project Manager
+* Jorge Tirado, Creative Director
 * David Roberts, Cavalry Manager
-* Grant Bartel, Recruiter
-* Ben Ferreira, The Fixer
+* * Caleb Brown, Recruiter
+  * Gian Franco Vitola, Recruiter
+  * Jomar Garcia, Recruiter
+  * Luis Augusto, Recruiter
+  * Leonardo Jardim, Recruiter
+  * Jonathan Ortiz, Recruiter
+  * Andrew Stratu, Recruiter
 
 ## Journaling <a id="journaling"></a>
 

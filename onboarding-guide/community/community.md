@@ -8,7 +8,7 @@ And if you think of something good we could add to the list, let us know!
 
 ## Seasons
 
-[https://www.youtube.com/watch?v=Th80vOGFvUE](https://www.youtube.com/watch?v=Th80vOGFvUE)[![](https://cdn-std.dprcdn.net/files/acc_650285/B20eDl)](https://www.youtube.com/watch?v=Th80vOGFvUE)
+{% embed url="https://www.youtube.com/watch?v=Th80vOGFvUE" %}
 
 The X-Team community is truly unlike any other. We've built the most energizing community for developers and continue to make it more and more awesome every Season.
 
@@ -68,7 +68,7 @@ The list goes on, but we're always excited to open up our laptops each day to fi
 
 ## [X-Outposts](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/x-outpost.com)
 
-[https://www.youtube.com/watch?v=Vxt4YIqqmLw](https://www.youtube.com/watch?v=Vxt4YIqqmLw)[![](../../.gitbook/assets/screen-shot-2019-05-10-at-3.58.47-pm.png)](https://www.youtube.com/watch?v=Vxt4YIqqmLw)
+{% embed url="https://www.youtube.com/watch?v=Vxt4YIqqmLw" %}
 
 The X-Outpost is our famous hacker-house that any X-Teamer can go visit. It changes locations about 3 times every Season, so there's always somewhere new in the world you can go live and work with other X-Teamers and go on adventures together on the weekends if you so desire.
 
