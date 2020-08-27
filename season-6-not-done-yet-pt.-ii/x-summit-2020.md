@@ -38,17 +38,26 @@ Haven't signed up to receive The Box yet? [Grab yours here.](https://forms.gle/2
 
 ![](../.gitbook/assets/ezgif-6-d885055ab72d.gif)
 
-### **Virtual Escape Room - RUINS: Forbidden Treasure**
+### **Virtual Escape Rooms**
 
-You’re on a relaxing aerial tour of a remote jungle when everything suddenly falls apart. You’re stranded at the foot of ancient and mysterious temple ruins – home of a massive fabled treasure. Adventure has come knocking and the treasure could be yours for the taking. Fortune favors the bold. Will it favor you?
-
-👉 **15:30 UTC:** [**Reserve your spot here.**](https://forms.gle/Rpp7HzwhvZnZZC5x5)  
-****👉 **18:30 UTC:** [**Reserve your spot here.**](https://forms.gle/s8fYo8HedwfvJ1Fz5)  
-****👉 **00:30 UTC:** [**Reserve your spot here.**](https://forms.gle/zVW59ucQks7LjFLs9) **\(This is Wednesday night\)**  
+**RUINS: Forbidden Treasure**  
+You’re on a relaxing aerial tour of a remote jungle when everything suddenly falls apart. You’re stranded at the foot of ancient and mysterious temple ruins – home of a massive fabled treasure. Adventure has come knocking and the treasure could be yours for the taking. Fortune favors the bold. Will it favor you?  
   
-_More times to be announced based on demand._
+_Last spots remaining!_  
+****👉 **18:30 UTC:** [**Reserve your spot here.**](https://forms.gle/s8fYo8HedwfvJ1Fz5)
 
 ![](../.gitbook/assets/web_remoteadventures_f_ruinsoverlay-600x324.png)
+
+**The Heist \(Escape Room\)**  
+Your world-class espionage outfit has landed you inside a prestigious art museum. A recently stolen masterpiece is presumed hidden within the office of the museum’s egotistical curator, Vincent Hahn. With the help of your intelligence agent on the outside, you have one hour to find your way into Hahn’s office, recover the painting, and slip away before Hahn returns.
+
+👉 **01:00 UTC:** [**Reserve your spot here.**](https://forms.gle/1nK4xxYvcfFTfejUA) **\(Wednesday night/Thursday morning\)**
+
+![](../.gitbook/assets/web_remoteadventures_f_heist1-1851x1000.png)
+
+\*\*\*\*
+
+
 
 ## **Thursday \(Sept. 3\)**
 
