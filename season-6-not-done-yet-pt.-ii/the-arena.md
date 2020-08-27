@@ -142,3 +142,8 @@ If you ever want to know your current inventory, health or other information, us
 
 If this sounds like fun to you, visit the Vault to purchase an "Arena Pass" for 1 coin to secure your spot in the Arena. Arena Passes are posted 1-2 days before an event. [https://xhq.x-team.com/vault](https://xhq.x-team.com/vault) 
 
+## Champions Circle
+
+• Lucas Bassetti \(2-time champion\)  
+• Marcin Pietruszka
+
