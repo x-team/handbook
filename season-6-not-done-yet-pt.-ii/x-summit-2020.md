@@ -82,8 +82,6 @@ One of the best parts of any X-Summit gathering is always the bar scene, and we'
   
 **10:00 UTC:** Pub Down Under - Australia + Asia.
 
-**15:00 UTC:** Drawful Pub - Play the hilarious [Drawful](https://www.youtube.com/watch?v=1VwwkfhZYCI).
-
 **16:00 UTC:** The Barcade - A 'Power Hour' competition of 6 arcade games back-to-back.
 
 **17:00 UTC:** Late Night NSFW Bar - Anything goes.  
