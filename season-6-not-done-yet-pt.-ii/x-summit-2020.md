@@ -43,8 +43,7 @@ Haven't signed up to receive The Box yet? [Grab yours here.](https://forms.gle/2
 **RUINS: Forbidden Treasure**  
 You’re on a relaxing aerial tour of a remote jungle when everything suddenly falls apart. You’re stranded at the foot of ancient and mysterious temple ruins – home of a massive fabled treasure. Adventure has come knocking and the treasure could be yours for the taking. Fortune favors the bold. Will it favor you?  
   
-_Last spots remaining!_  
-****👉 **18:30 UTC:** [**Reserve your spot here.**](https://forms.gle/s8fYo8HedwfvJ1Fz5)
+****👉 **NOW FULLY BOOKED!**
 
 ![](../.gitbook/assets/web_remoteadventures_f_ruinsoverlay-600x324.png)
 
