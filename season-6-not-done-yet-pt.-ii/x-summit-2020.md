@@ -90,7 +90,7 @@ One of the best parts of any X-Summit gathering is always the bar scene, and we'
 **23:00 UTC - The Heist \(Escape Room\)**  
 Your world-class espionage outfit has landed you inside a prestigious art museum. A recently stolen masterpiece is presumed hidden within the office of the museum’s egotistical curator, Vincent Hahn. With the help of your intelligence agent on the outside, you have one hour to find your way into Hahn’s office, recover the painting, and slip away before Hahn returns.
 
-👉 [**Reserve your spot here**](https://forms.gle/9feQ6akLwEADCpC39)\*\*\*\*
+👉 **FULLY BOOKED!**
 
 ![](../.gitbook/assets/web_remoteadventures_f_heist1-1851x1000.png)
 
