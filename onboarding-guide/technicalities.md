@@ -212,6 +212,64 @@ No, we haven't gone ICO-crazy. But since we're talking about perks, here's anoth
 
 Check out [The Vault](https://xhq.x-team.com/vault) that holds the exclusive X-Team collectibles and get yours.
 
+### Receiving Vault Shipments
+
+Due to international mail and customs' shenanigans, if you live in a country with a potentially problematic customs authority or post carrier, we recommend you look into the parcel forwarding service. They are essentially a middle man that accepts your shipment in (usually) the US and then uses a courier to deliver it to you, which has a much higher chance of succeeding. If you order several things at once, which could also include Amazon or other purchases, they can consolidate all those packages into a single one, so you save on shipping.
+
+It is always best to talk to your friends from the same country to see if they can recommend one from personal experience. But either way, here are some that we think might work for you (in no particular order):
+
+- Argentina
+  - https://aerobox.com.ar/
+  - https://www.parcelbound.com/
+- Bolivia
+  - https://www.parcelbound.com/
+- Brazil
+  - https://www.parcelbound.com/
+- Chile
+  - https://www.parcelbound.com/
+- Colombia
+  - https://www.bmcargo.com/
+  - https://fullogic.co/
+  - https://www.parcelbound.com/
+- Costa Rica
+  - https://www.bmcargo.com/
+  - https://www.parcelbound.com/
+- Dominican Republic
+  - https://www.bmcargo.com/
+  - https://www.eps.com.do/
+  - https://www.vimenpaq.do/
+  - https://www.parcelbound.com/
+- Ecuador
+  - https://www.parcelbound.com/
+- El Salvador
+  - https://www.parcelbound.com/
+- Guatemala
+  - https://www.parcelbound.com/
+- Honduras
+  - https://www.parcelbound.com/
+- Mexico
+  - https://www.bmcargo.com/
+  - https://www.parcelbound.com/
+- Nicaragua
+  - https://www.parcelbound.com/
+- Panama
+  - https://www.bmcargo.com/
+  - https://www.eps.com.do/
+  - https://www.parcelbound.com/
+- Paraguay
+  - https://www.parcelbound.com/
+- Peru
+  - https://www.parcelbound.com/
+- Puerto Rico
+  - https://www.bmcargo.com/
+  - https://www.eps.com.do/
+  - https://www.parcelbound.com/
+- Uruguay
+  - https://aerobox.com.uy/
+  - https://www.parcelbound.com/
+- Venezuela
+  - https://www.parcelbound.com/
+
 ## Discussing Hourly Rates
 
 The goal of this explanation is to help make the rate raise conversation both straightforward and fair. Raises should be predictable and balanced to reflect the effort and growth that you’ve achieved since the last raise, giving you a clear path to achieve your financial goals.
