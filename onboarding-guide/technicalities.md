@@ -253,6 +253,7 @@ It is always best to talk to your friends from the same country to see if they c
 - Nicaragua
   - https://www.parcelbound.com/
 - Panama
+  - http://agcargoexpress.com/
   - https://www.bmcargo.com/
   - https://www.eps.com.do/
   - https://www.parcelbound.com/
