@@ -216,6 +216,8 @@ Check out [The Vault](https://xhq.x-team.com/vault) that holds the exclusive X-T
 
 Due to international mail and customs' shenanigans, if you live in a country with a potentially problematic customs authority or post carrier, we recommend you look into the parcel forwarding service. They are essentially a middle man that accepts your shipment in (usually) the US and then uses a courier to deliver it to you, which has a much higher chance of succeeding. If you order several things at once, which could also include Amazon or other purchases, they can consolidate all those packages into a single one, so you save on shipping.
 
+And to make things easier, you can also reimburse up to $100/month from Unleash+ for these parcel forwarding expenses!
+
 It is always best to talk to your friends from the same country to see if they can recommend one from personal experience. But either way, here are some that we think might work for you (in no particular order):
 
 - Argentina
