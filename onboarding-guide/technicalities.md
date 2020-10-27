@@ -214,64 +214,64 @@ Check out [The Vault](https://xhq.x-team.com/vault) that holds the exclusive X-T
 
 ### Receiving Vault Shipments
 
-Due to international mail and customs' shenanigans, if you live in a country with a potentially problematic customs authority or post carrier, we recommend you look into the parcel forwarding service. They are essentially a middle man that accepts your shipment in (usually) the US and then uses a courier to deliver it to you, which has a much higher chance of succeeding. If you order several things at once, which could also include Amazon or other purchases, they can consolidate all those packages into a single one, so you save on shipping.
+Due to international mail and customs' shenanigans, if you live in a country with a potentially problematic customs authority or post carrier, we recommend you look into the parcel forwarding service. They are essentially a middle man that accepts your shipment in \(usually\) the US and then uses a courier to deliver it to you, which has a much higher chance of succeeding. If you order several things at once, which could also include Amazon or other purchases, they can consolidate all those packages into a single one, so you save on shipping.
 
 And to make things easier, you can also reimburse up to $100/month from Unleash+ for these parcel forwarding expenses!
 
-It is always best to talk to your friends from the same country to see if they can recommend one from personal experience. But either way, here are some that we think might work for you (in no particular order):
+It is always best to talk to your friends from the same country to see if they can recommend one from personal experience. But either way, here are some that we think might work for you \(in no particular order\):
 
-- Argentina
-  - https://aerobox.com.ar/
-  - https://www.parcelbound.com/
-- Bolivia
-  - https://www.parcelbound.com/
-- Brazil
-  - https://www.parcelbound.com/
-- Chile
-  - https://www.parcelbound.com/
-- Colombia
-  - https://www.bmcargo.com/
-  - https://fullogic.co/
-  - https://www.parcelbound.com/
-- Costa Rica
-  - https://www.bmcargo.com/
-  - https://www.parcelbound.com/
-- Dominican Republic
-  - https://www.bmcargo.com/
-  - https://www.eps.com.do/
-  - https://www.vimenpaq.do/
-  - https://www.parcelbound.com/
-- Ecuador
-  - https://www.parcelbound.com/
-- El Salvador
-  - https://www.parcelbound.com/
-- Guatemala
-  - https://www.parcelbound.com/
-- Honduras
-  - https://www.parcelbound.com/
-- Mexico
-  - https://www.bmcargo.com/
-  - https://www.parcelbound.com/
-- Nicaragua
-  - https://www.parcelbound.com/
-- Panama
-  - http://agcargoexpress.com/
-  - https://www.bmcargo.com/
-  - https://www.eps.com.do/
-  - https://www.parcelbound.com/
-- Paraguay
-  - https://www.parcelbound.com/
-- Peru
-  - https://www.parcelbound.com/
-- Puerto Rico
-  - https://www.bmcargo.com/
-  - https://www.eps.com.do/
-  - https://www.parcelbound.com/
-- Uruguay
-  - https://aerobox.com.uy/
-  - https://www.parcelbound.com/
-- Venezuela
-  - https://www.parcelbound.com/
+* Argentina
+  * [https://aerobox.com.ar/](https://aerobox.com.ar/)
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Bolivia
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Brazil
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Chile
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Colombia
+  * [https://www.bmcargo.com/](https://www.bmcargo.com/)
+  * [https://fullogic.co/](https://fullogic.co/)
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Costa Rica
+  * [https://www.bmcargo.com/](https://www.bmcargo.com/)
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Dominican Republic
+  * [https://www.bmcargo.com/](https://www.bmcargo.com/)
+  * [https://www.eps.com.do/](https://www.eps.com.do/)
+  * [https://www.vimenpaq.do/](https://www.vimenpaq.do/)
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Ecuador
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* El Salvador
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Guatemala
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Honduras
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Mexico
+  * [https://www.bmcargo.com/](https://www.bmcargo.com/)
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Nicaragua
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Panama
+  * [http://agcargoexpress.com/](http://agcargoexpress.com/)
+  * [https://www.bmcargo.com/](https://www.bmcargo.com/)
+  * [https://www.eps.com.do/](https://www.eps.com.do/)
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Paraguay
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Peru
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Puerto Rico
+  * [https://www.bmcargo.com/](https://www.bmcargo.com/)
+  * [https://www.eps.com.do/](https://www.eps.com.do/)
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Uruguay
+  * [https://aerobox.com.uy/](https://aerobox.com.uy/)
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
+* Venezuela
+  * [https://www.parcelbound.com/](https://www.parcelbound.com/)
 
 ## Discussing Hourly Rates
 
@@ -341,8 +341,7 @@ X-Teamers go above and beyond to help our partners succeed. While we love to \#s
   * Communication & attitude
   * Generosity
 
-  
-**The above points aren’t exhaustive, nor do you need to check every box.**   
+**The above points aren’t exhaustive, nor do you need to check every box.**  
 We want to hear from you about your efforts and achievements, and about the ways you’ve sought to add value to yourself, our community, our partners, and X-Team at large.
 
 ## Visiting Partners

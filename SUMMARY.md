@@ -46,6 +46,12 @@
     * [How to Hack Your Motivation](good-reads/productivity-and-unleash/hack_motivation.md)
     * [How to Unleash Yourself in Just 2 Simple Steps](good-reads/productivity-and-unleash/how_to_unleash_self.md)
 
+## Season 7: Fight To The End.
+
+* [Guide](season-7-fight-to-the-end./guide.md)
+* [House Perks](season-7-fight-to-the-end./house-perks.md)
+* [Create a House](season-7-fight-to-the-end./create-a-house.md)
+
 ## Season 6: Not Done Yet \(Pt. II\)
 
 * [Guide](season-6-not-done-yet-pt.-ii/guide.md)
