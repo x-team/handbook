@@ -216,13 +216,13 @@ See you at the starting line.
 [**Add to Calendar**](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2I5cnQxbjFtYzRjYTFlbnZpZWZjNzN0NzUgY29tbXVuaXR5QHgtdGVhbS5jb20&tmsrc=community%40x-team.com)  
 
 
-### **Game Night: Among Us**
+### **Game Night: Among Us \(Nov. 5\)**
 
 {% embed url="https://www.youtube.com/watch?v=DXWLRihLmnY" %}
 
 **It's finally happening:** we're assembling to play Among Us together. If you're not familiar with one of the most popular games of 2020, use the video above to get acquainted. If you've already been booting innocent people off the ship for months, then bring your A game for Game Night. Yeah, you orange, even you.
 
-**Register for a time below:**
+**Register for a time below on November 5th:**
 
 \*\*\*\*[**8:30 AM PST**](https://forms.gle/JWSV1PpSjBMTLufq8)\*\*\*\*
 
