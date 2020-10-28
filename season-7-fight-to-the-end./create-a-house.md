@@ -18,10 +18,10 @@ Houses compete in Events each Season, working together to earn [**Luna**](guide.
 
 To form a House, you'll need to meet the following criteria:
 
-* Must have at least **20 members** committed
-* Must have at least 1 **leader** identified \(up to 3\)
+* Must have at least **5 members** committed
+* Must have at least **1** **leader** identified \(up to 3\)
 * Must have chosen a **name** & **philosophy** \(what you stand for\) for your House
-* Pay the **100 coin formation fee** -- this is to ensure only the most serious Houses are formed.
+* Pay the **25 coin formation fee** -- this is to ensure only the most serious Houses are formed.
 
 ### Next Steps
 

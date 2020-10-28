@@ -232,7 +232,7 @@ See you at the starting line.
 
 \*\*\*\*[**7:00 PM PST**](https://forms.gle/jeYecTkGva2EvcgJ8)\*\*\*\*
 
-### **Game Night: Prison Break**
+### **Game Night: Prison Break \(Dec. 10\)**
 
 {% embed url="https://www.youtube.com/watch?v=y1o5xaUIUeY" %}
 
@@ -242,7 +242,7 @@ You'll team up with 7 other X-Teamers to escape a prison together in this 1-hour
 
 **Description:** _The year is 1955. You’ve been wrongfully accused of a crime, and sentenced to life in prison without the possibility of parole. Your new “home” is a cell that once belonged to an inmate who disappeared without a trace…or did he? Some claim he escaped. Others swear he was murdered by the infamously cruel warden. No one actually knows… can you escape before you suffer the same fate?_
 
-**Register for a time below \(space is limited\):**
+**Register for a time below on Dec. 10th \(space is limited\):**
 
 \*\*\*\*[**8:00 AM PST**](https://forms.gle/deDWFmxXVN7Tv23C7)\*\*\*\*
 
