@@ -15,6 +15,7 @@
     * [FAQ](onboarding-guide/community/faq.md)
     * [Advice from X-Team Veterans](onboarding-guide/community/advice.md)
     * [Representing X-Team](onboarding-guide/community/represent.md)
+    * [Wallpapers](onboarding-guide/community/wallpapers.md)
 * [X-Outpost Guide](x-outpost-guide/README.md)
   * [Participants](x-outpost-guide/p-sign-up/README.md)
     * [Pre-Outpost](x-outpost-guide/p-sign-up/p-pre.md)

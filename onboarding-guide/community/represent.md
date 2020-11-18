@@ -4,7 +4,7 @@ Many X-Teamers come to us and ask how they could help represent X-Team at events
 
 ## Just attending an event
 
-The best thing you can do is wear some of the swag you can get in the [vault](https://xhq.x-team.com/vault). Our t-shirts have a tendency of attracting attention =\)
+The best thing you can do is wear some of the collectible gear you can get in the [Vault](https://xhq.x-team.com/vault). Our t-shirts have a tendency of attracting attention =\)
 
 ## Participating in an event
 
