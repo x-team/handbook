@@ -250,8 +250,6 @@ You'll team up with 7 other X-Teamers to escape a prison together in this 1-hour
 
 \*\*\*\*[**5:30 PM PST**](https://forms.gle/czUxPXaG4td6ijDX7)\*\*\*\*
 
-\*\*\*\*[**7:00 PM PST**](https://forms.gle/bdgawxozJfSXdXv49)\*\*\*\*
-
 ### **The X-Mas Party 2020**
 
 Join us for one of our biggest events of the year: The X-Mas Party 2020. Every year, we come together to dedicate a day to being grateful for all that each of us has done for each other. This is a time for laughter, appreciation, and ending the year on a high note looking ahead at what's to come.
