@@ -54,7 +54,7 @@ It wouldn't be X-Mas without a ⭐ Star Drop. Immediately following the Livestre
 
 ## Vault Drop
 
-It's a good time to get those coins, or snag a [Star](x-mas-2020-here-to-stay..md#star-drop), because when The Vault opens at 3PM PDT, you'll want to jump on it quick. Here's what to expect:
+It's a good time to get those coins, or snag a [Star](x-mas-2020-here-to-stay.md#star-drop), because when The Vault opens at 3PM PDT, you'll want to jump on it quick. Here's what to expect:
 
 * **1 new Legendary item** \(hint: it's another desk collectible :eager:\)
 * Return of some **popular items** from 2020
