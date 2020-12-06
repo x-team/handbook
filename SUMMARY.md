@@ -52,6 +52,7 @@
 * [Guide](season-7-fight-to-the-end./guide.md)
 * [House Perks](season-7-fight-to-the-end./house-perks.md)
 * [Create a House](season-7-fight-to-the-end./create-a-house.md)
+* [X-Mas 2020: Here to Stay.](season-7-fight-to-the-end./x-mas-2020-here-to-stay..md)
 
 ## Season 6: Not Done Yet \(Pt. II\)
 
