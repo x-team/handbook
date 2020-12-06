@@ -2,7 +2,7 @@
 description: The 14th annual event returns to close out 2020.
 ---
 
-# X-Mas 2020: Here to Stay.
+# X-Mas 2020: Here to Stay
 
 ![](../.gitbook/assets/intro_1.gif)
 
