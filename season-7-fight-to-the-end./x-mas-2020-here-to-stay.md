@@ -22,7 +22,9 @@ Enjoy some epic jams, heartfelt moments, hype for the future, and of course, ple
 
 **Schedule:**  
 10AM PDT: Pre-Show feat. _Sung_  
-11AM PDT: Main Event, hosted by X-Team's CEO
+**11AM PDT: Main Event, hosted by X-Team's CEO**  
+12 PM PDT: The \#XHQ After Party  
+1 PM PDT: [Vault](https://xhq.x-team.com/vault) Drop.
 
 ### **Livestream Pre-Show feat.** _**Sung**_
 
