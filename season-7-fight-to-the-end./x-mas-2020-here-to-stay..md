@@ -34,6 +34,12 @@ Get a taste for his retrowave music below:
 
 {% embed url="https://www.youtube.com/watch?v=Hcy8HNz5Rn8" %}
 
+## The After Party
+
+Starting at 2PM PDT after the Livestream, The After Party will host a live video hangout for anyone who wants to keep the energy going. Grab drinks + food with Unleash+, and come enjoy games and good vibes.
+
+![](../.gitbook/assets/image%20%2863%29.png)
+
 ## Appreciation Bomb
 
 Every year, we dedicate this day to filling our [\#appreciation](https://app.slack.com/client/T0257R0RP/C4K38NPT5) channel in Slack FULL of gratitude. This is your moment to thank each and every X-Teamer who made an impact in your work and life in 2020.
@@ -42,20 +48,20 @@ Get in on the action on December 17th [here.](https://app.slack.com/client/T0257
 
 ![](../.gitbook/assets/screen-shot-2020-12-05-at-8.21.28-pm.png)
 
+## Star Drop
+
+It wouldn't be X-Mas without a ⭐ Star Drop. Immediately following the Livestream, watch [\#xhq in Slack](https://app.slack.com/client/T0257R0RP/C02AJK99Z) for your chance to claim a ⭐, which allows you to purchase any 1 item in The Vault.
+
 ## Vault Drop
 
-Coming to The Vault this X-Mas will be:
+It's a good time to get those coins, or snag a [Star](x-mas-2020-here-to-stay..md#star-drop), because when The Vault opens at 3PM PDT, you'll want to jump on it quick. Here's what to expect:
 
 * **1 new Legendary item** \(hint: it's another desk collectible :eager:\)
 * Return of some **popular items** from 2020
 * Return of our [**Save the Children**](https://www.savethechildren.org/) donation drive
-* The official X-Mas 2020 collectible t-shirt, "Here to Stay".
+* The official X-Mas 2020 collectible t-shirt, "Here to Stay"
 
 ![](../.gitbook/assets/image%20%2862%29.png)
-
-## Star Drop
-
-It wouldn't be X-Mas without a ⭐ Star Drop. Immediately following the Livestream, watch [\#xhq in Slack](https://app.slack.com/client/T0257R0RP/C02AJK99Z) for your chance to claim a ⭐, which allows you to purchase any 1 item in The Vault.
 
 ## More Surprises...
 
