@@ -26,22 +26,6 @@ Here are more ways we stay proactive with our work:
 
 ## Communicate Actively. <a id="active-communication"></a>
 
-### Quiet as a Church Mouse
-
-Do you know the feeling of working in a “traditional” company, where expressing personal convictions or asking too many questions is met with a negative response?
-
-Yes, we hate that too, so we made Active Communication one of our core values.
-
-This means that, not only will we not sanction you for speaking your mind \(keep it professional, of course\), but we actively encourage it. We want to know what is going on with you, both professionally and, provided you are willing to share, personally. We are nurturing a community that truly is a group of friends working together, traveling together, gaming together, talking together… You may not be into everything we do, but chances are there are a few X-Teamers who share your passions and would love to have you join their group.
-
-### Feedback
-
-Our community places a huge value on both letting people know they're appreciated and on giving constructive criticism when necessary. Everyone loves giving and getting high-fives, but if there is something that can be improved, that should be communicated as well. You will _**never**_ get in trouble for giving constructive criticism, and if you need tips on how to do it with one of our partners, talk to your manager. However, if you'd still prefer to remain anonymous, talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6), and he'll pass your concerns on without mentioning who they're from.
-
-Another feedback outlet is the questionnaire that's part of the invoicing process.
-
-Finally, twice a year, we send out a big request for feedback to all X-Teamers - we really take these seriously, and while it's not mandatory, filling them out would be much appreciated.
-
 ### Building Trust
 
 There is more to Active Communication than just building an awesome community, however. _**Keeping your comm lines open builds trust.**_
@@ -58,6 +42,14 @@ There are four things that can help you maintain and strengthen that trust every
 * **Make yourself visible and available.** Say "hello" to your team when you start working as it sets them at ease knowing you're connected and contributing. We don't expect you to work 9-5, but if you set expectations with your team to be available at a certain time, stay true to your word or reset expectations as soon as you can. Never leave your team hanging as they'd never do that to you.
 * **Sincerity and openness towards the core-team** Their job is to make things go smoothly, so if there is _**\*anything\***_ you feel they should know, tell them. Nobody has ever been in trouble for professionally bringing up issues so they could be solved, be it regarding the project, their X-Team experience, or something else entirely.
 * **Being active on Slack** Through the vetting process, the core-team has come to trust you. Through your participation in your team, they will hopefully grow to trust you as well. But at the end of the day, we're a rather large community, and it never hurts to have more friends you can count on, so be active on slack, respond, react, and have fun with everyone :\)
+
+### Feedback
+
+Our community places a huge value on both letting people know they're appreciated and on giving constructive criticism when necessary. Everyone loves giving and getting high-fives, but if there is something that can be improved, that should be communicated as well. You will _**never**_ get in trouble for giving constructive criticism, and if you need tips on how to do it with one of our partners, talk to your manager. However, if you'd still prefer to remain anonymous, talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6), and he'll pass your concerns on without mentioning who they're from.
+
+Another feedback outlet is the questionnaire that's part of the invoicing process.
+
+Finally, twice a year, we send out a big request for feedback to all X-Teamers - we really take these seriously, and while it's not mandatory, filling them out would be much appreciated.
 
 ## Promote Empathy <a id="active-communication"></a>
 
@@ -80,6 +72,18 @@ Being a true X-Teamer in terms of ownership means that you are:
 * **Taking responsibility** When you take something on, whether it be a new project, ideas, solutions, etc., you should treat it like your own and take pride in it, seeing it through from conception to completion. It's your baby, so deliver it and care for it like you would a real child.
 * **Committed** Your motivation might change over the course of a project, but it doesn't mean you should start putting in less effort. When you committed to doing it, you made a pact with yourself that said: "I will see this through, I will keep moving forward, I will unleash my potential, because I believe in making an impact in this team."
 * **Uphold quality** We've learned a lot from the world of open source. X-Teamers are developers who code like the world is watching, like you're submitting a PR to a project with 10,000 stars on Github even if it's just a team of three. This is your project, and it deserves nothing less than 100% of what you can provide it. Don't get lazy, stay committed to yourself and what you believe in.
+
+## Consistency &gt; Intensity <a id="ownership"></a>
+
+We believe that the key to a great career, relationship, project and just about anything that you want to have long-lasting success is to focus more on consistency than intensity.
+
+This shows itself in a many ways, here are a few examples:
+
+* **Build habits, not Instagram posts:** We don't go to the gym hoping we'll go three times and then quit. The goal with anything with positive outcomes is always to build a habit, not to simply do something long enough to get a social media post out of it. Building a habit takes commitment, consistency in all aspects of our life takes commitment, focus on learning how to activate the side of you that doesn't listen to excuses. That's what this community is here to inspire you to do. 
+* **High intensity activates burnout:** Always remember this. Your goal each day is to build and maintain momentum, not burnout. If you go all-in on Monday to catch up, remember that Tuesday will need to account for the burnout you activated the day before. Monitor your output and strive to pull yourself back toward consistency whenever your intensity gets out of control. 
+* **Focus on your mental health**: The key here is finding the right balance of consistency and intensity that allows you to be high-performing and retain strong wellbeing. We'd always rather you take a path of consistency, but for some of us a few days of intensity followed by toned down days of consistency can strike a great balance as well. Find your balance.
+
+**For more on this great topic,** [**check out this blog post we wrote.**](https://x-team.com/blog/consistency-over-intensity/)\*\*\*\*
 
 ## Show Compassion <a id="compassion"></a>
 
