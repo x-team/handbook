@@ -63,7 +63,8 @@ Tips on how to "rite more goodly" to be found here.
 **\#club-moto**  
 The channel dedicated to motorcycles, cars, space-shuttles, airplanes, trains APCs, tanks, and anything in between.
 
-**\#wine-club** Share the great wines you come across with others.
+**\#wine-club**
+Share the great wines you come across with others.
 
 **\#beer-club**  
 Who doesn't like a cold one? No better place to find tips about great beers you just have to try.
@@ -89,13 +90,16 @@ A treasure trove of great documentaries. Got a good one? Share!
 **\#audiophile**  
 When you want to listen to your music at a heavenly level of clarity and detail, this is the place for you.
 
-**\#x-parents** If you have kids, this is the place where you can chat with other X-Teamers with children, and come up with ideas together, how we can make your lives easier and include you more in our initiatives.
+**\#x-parents**
+If you have kids, this is the place where you can chat with other X-Teamers with children, and come up with ideas together, how we can make your lives easier and include you more in our initiatives.
 
-**\#fireside** The channel of our bi-weekly live chat, the Fireside Happy Hour. It's an informal and unscripted 40 minute group chat. Always fun!
+**\#fireside**
+The channel of our bi-weekly live chat, the Fireside Happy Hour. It's an informal and unscripted 40 minute group chat. Always fun!
 
 ## Story/Challenge-driven Channels
 
-**\#commit-quest** The main thing you definitely want to join!
+**\#commit-quest**
+The main thing you definitely want to join!
 
 **\#game-club**  
 BOOM HEADSHOT! Join one of our "LAN"-Parties or just get a little indie game and share your impressions with the community.
@@ -112,7 +116,8 @@ If you need a second opinion on that piece of equipment you're buying or just wa
 **\#club-cooking**  
 A weekly culinary challenge! One recipe, one week to prepare it. Learn to make dishes from all over the world as instructed by our very diverse group of X-Cooks&Bakers!
 
-**\#programming-club** Where our programming contests happen.
+**\#programming-club**
+Where our programming contests happen.
 
 **\#productivity-quest**  
 A story-prequel of \#origins-rpg and played out not by rolling virtual dice but rather by learning about productivity and implementing new productivity techniques. Your participation supports a charity as well.
@@ -125,7 +130,8 @@ The channel for lovers of motor-less 2-wheeled travel. There are plenty of avid 
 
 ## Technology \(non-mentored\)
 
-**\#ai** Greetings, fellow humans!
+**\#ai**
+Greetings, fellow humans!
 
 **\#engineering**  
 General discussion about all things technology.
@@ -139,7 +145,8 @@ How to assure quality? Do you know? Let us know. Do you want to know? Join here 
 **\#linux**  
 Running Linux? Want to talk about Linux? \#linux won't leave you hanging.
 
-**\#flutter-club** A place for all fans of Google's mobile cross-platform framework.
+**\#flutter-club**
+A place for all fans of Google's mobile cross-platform framework.
 
 ## Lifestyle
 
@@ -152,20 +159,25 @@ Well, do you?
 **\#travel**  
 We love traveling, and we have quite a few almost-perpetual travelers. Everything about the digital nomad lifestyle, various destinations, helpful tips, and more, here.
 
-_\*\#wellbeing_ Anything related to mental health, psychology and general wellbeing.
+**\#wellbeing**
+Anything related to mental health, psychology and general wellbeing.
 
 ## Outposts & Conferences
 
-**\#conferences** Let's talk conferences!
+**\#conferences**
+Let's talk conferences!
 
 **\#unleashconf**  
 In November 2017, the first X-Team conference will take place in Krakow, Poland. Join the channel for related info and discussion.
 
-**\#react-europe** Channel dedicated to one of our favorite conferences.
+**\#react-europe**
+Channel dedicated to one of our favorite conferences.
 
-**\#x-outpost-families** Channel for our family-friendly outposts.
+**\#x-outpost-families**
+Channel for our family-friendly outposts.
 
-**\#x-outpost-\[location\]** The various outpost channels.
+**\#x-outpost-\[location\]**
+The various outpost channels.
 
 And the list goes on. Browse channels in Slack to discover even more.
 
