@@ -221,7 +221,7 @@ Every two months we will have an intimate special event to welcome the new addit
 Over the course of this Season we will help each House to manage one special group call to grow their team spirit and personality in their own way. You can even use the Team Happy Hour category on Unleash+ to make it even more special. The Firesides will culminate in an All-Houses Fireside at the X-Summit 2021 in July.
 
 {% hint style="info" %}
-You can join a House by going to your [Profile ](https://xhq.x-team.com/profile)on XHQ and selecting it on the dropdown menu under the Community section. Don't forget to save the changes to confirm it.
+You can join a House by going to your [Profile ](https://xhq.x-team.com/profile)on XHQ and selecting it on the dropdown menu under the Community section. Don't forget to save the changes to confirm it. Make sure to join the \#houses-recruitment channel on Slack and/or ping your House Leader to be properly introducted to your Houses' communication channels and events.
 {% endhint %}
 
 ## The Vault
