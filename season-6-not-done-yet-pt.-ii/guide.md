@@ -81,7 +81,7 @@ You can earn coins or stars by participating in [Events](../season-5-new-world./
 ### This Season's Launch Collectibles
 {% endhint %}
 
-![XHQ Bounty Hunter Mouse Mat](../.gitbook/assets/xhq-bounty-hunter.jpg)
+![XHQ Bounty Hunter Mouse Mat](../.gitbook/assets/xhq-bounty-hunter%20%281%29.jpg)
 
 ![](../.gitbook/assets/fighting-chance.jpg)
 
@@ -135,7 +135,7 @@ Will you search for weapons? Or go hunting? Or hide? Or look for health to recov
 
 #### Best of all, whoever is the last hunter standing will win the exclusive new X-Pack backpack:
 
-![](../.gitbook/assets/x-pack-backpack%20%281%29.jpg)
+![](../.gitbook/assets/x-pack-backpack%20%281%29%20%281%29.jpg)
 
   
 **Fireside:** These events are your opportunity to chill out, chat and play some games with the X-Team Community.  

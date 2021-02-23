@@ -91,7 +91,7 @@ _Your House gets a sweepstakes for an Oculus 2 \(1 winner\). Your House decides 
 **X-Team Radio Theme \(100 Luna\)**  
 _Your House decides the next X-Team Radio background theme._
 
-![](../.gitbook/assets/perk_radio_2x.gif)
+![](../.gitbook/assets/perk_radio_2x%20%281%29.gif)
 {% endtab %}
 {% endtabs %}
 
@@ -123,7 +123,7 @@ You can earn Coins or Stars by participating in [Events](../season-5-new-world./
 
 ![The Hat \(Snapback\) returns with its all-new 4.0 slick style to add to your collection.](../.gitbook/assets/image%20%2854%29.png)
 
-![&quot;Slimed&quot;, our Halloween and Ghostbusters-inspired launch tee](../.gitbook/assets/slimed.jpg)
+![&quot;Slimed&quot;, our Halloween and Ghostbusters-inspired launch tee](../.gitbook/assets/slimed%20%281%29.jpg)
 
 **Expect Vault Drops every Tuesday this Season, including:**
 
@@ -166,7 +166,7 @@ The first-ever Slack-based battle royale game returns this Season with all-new f
 
 Last hunter standing will win the exclusive X-Pack backpack:
 
-![](../.gitbook/assets/x-pack-backpack%20%281%29.jpg)
+![](../.gitbook/assets/x-pack-backpack%20%281%29%20%281%29.jpg)
 
 ### **The Arena: Fight To The End.**
 

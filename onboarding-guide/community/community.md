@@ -24,7 +24,7 @@ Let's dive into each of those.
 
 ## **Bounties**
 
-![](../../.gitbook/assets/screen-shot-2019-05-10-at-3.42.50-pm.png)
+![](../../.gitbook/assets/Screen%20Shot%202019-05-10%20at%203.42.50%20PM.png)
 
 One of the main things you can do each season is chase [**Bounties.**](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/bounties/README.md)
 
@@ -40,7 +40,7 @@ If you have an idea for a new bounty, let [@ben](https://legacy.gitbook.com/book
 
 ## The Vault
 
-![](../../.gitbook/assets/screen-shot-2019-05-10-at-3.48.14-pm.png)
+![](../../.gitbook/assets/Screen%20Shot%202019-05-10%20at%203.48.14%20PM.png)
 
 Now what's cool about Bounties is they earn you coins that you can use in [**The Vault**](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/vault/README.md), which is our exclusive collectibles store.
 
@@ -56,13 +56,13 @@ Once a week we all come together as a community to play an X-Team exclusive game
 
 It could be [**VS**](https://x-team.slack.com/messages/CGK10CSLU/), a race where we're competing as teams to rack up the most steps in a day:
 
-![](../../.gitbook/assets/screen-shot-2019-05-10-at-3.51.51-pm.png)
+![](../../.gitbook/assets/Screen%20Shot%202019-05-10%20at%203.51.51%20PM.png)
 
 Or it could be a Heist where we have to go collect things in the real world.
 
 Or it could be a [Loot Raid](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/raids/README.md) where we're dice rolling against bosses for big prizes:
 
-![](../../.gitbook/assets/screen-shot-2019-05-10-at-4.03.32-pm.png)
+![](../../.gitbook/assets/Screen%20Shot%202019-05-10%20at%204.03.32%20PM.png)
 
 The list goes on, but we're always excited to open up our laptops each day to find out what's next.
 
@@ -78,7 +78,7 @@ To learn more, visit the [X-Outpost guide.](../../good-reads/remote-lifestyle/)
 
 ## [Unleash+](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/unleash/README.md)
 
-![](../../.gitbook/assets/screen-shot-2019-05-10-at-3.56.46-pm.png)
+![](../../.gitbook/assets/Screen%20Shot%202019-05-10%20at%203.56.46%20PM.png)
 
 Every Season we're also always unlocking new ways to use our [**Unleash+**](https://github.com/x-team/handbook/tree/480c308775fd27376ae7ec3121be0d6dacf565de/xhq.x-team.com/unleash/README.md) membership that we offer to X-Teamers who work with our partners.
 

@@ -52,9 +52,9 @@ If you're working on an X-Team team, you'll guaranteed get 1 Star, which lets yo
 
 ![The Sticker Pack 2.0](../.gitbook/assets/sticker-pack-2.jpg)
 
-![The Notebook 2.0](../.gitbook/assets/notebook-2%20%281%29.jpg)
+![The Notebook 2.0](../.gitbook/assets/notebook-2%20%281%29%20%281%29.jpg)
 
-![The Hat 3.5](../.gitbook/assets/the-hat-3-5.jpg)
+![The Hat 3.5](../.gitbook/assets/the-hat-3-5%20%282%29.jpg)
 
 Also coming this Season to The Vault:
 

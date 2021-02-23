@@ -118,7 +118,7 @@ At the end of each Arena battle, awards will be automatically generated to show 
 
 The last hunter standing will be awarded what all Hunters dropping into The Arena need: The X-Pack Backpack.
 
-![The first-ever X-Team backpack](../.gitbook/assets/x-pack-backpack.jpg)
+![The first-ever X-Team backpack](../.gitbook/assets/x-pack-backpack%20%281%29.jpg)
 
 The finale of The Arena in Season 6 will include a special Legendary item inside the backpack.
 

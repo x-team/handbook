@@ -47,6 +47,10 @@
     * [How to Hack Your Motivation](good-reads/productivity-and-unleash/hack_motivation.md)
     * [How to Unleash Yourself in Just 2 Simple Steps](good-reads/productivity-and-unleash/how_to_unleash_self.md)
 
+## SEASON 8: COMMIT.
+
+* [Guide](season-8-commit./guide.md)
+
 ## Season 7: Fight To The End.
 
 * [Guide](season-7-fight-to-the-end./guide.md)
