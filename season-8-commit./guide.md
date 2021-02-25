@@ -59,7 +59,7 @@ Pre-orders begin soon, watch \#x-announcements on Slack for more.
 
 A three week long event in which each House has to rally their members to complete themed marathons. Although the first two weeks are focused on running and cycling, the third week is planned to be viable even for the X-Teamers still under strict lockdowns. Alongside the main event we will also have some cool side activities and everyone can contribute to their House in their own way.
 
-Complete information about the X-Marathon will be added to the guide this Thursday.
+Check more information about on the [X-Marathon Guide](https://app.gitbook.com/@x-team/s/x-team-remote-developer-guide-to-greatness/season-8-commit./x-marathon).
 
 ## Bounties
 
