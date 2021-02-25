@@ -50,6 +50,7 @@
 ## SEASON 8: COMMIT.
 
 * [Guide](season-8-commit./guide.md)
+* [X-Marathon](season-8-commit./x-marathon.md)
 
 ## Season 7: Fight To The End.
 
