@@ -20,7 +20,7 @@ From February 25 through March 4, any X-Teamer can participate by **submitting a
 
 To be considered a **valid submition**, your post must have **at least 2 Km of travelled distance**. Feel free to follow your own pace and rhythm, you can also walk if you prefer.
 
-Proof of your run should then be submitted by posting a screenshot/photo to the **\#vs** Slack channel using this format: **:vs: \[distance in km\]**
+Proof of your run should then be submitted by posting a screenshot/photo to the **\#s8-commit** Slack channel using this format: **:vs: \[distance in km\]**
 
 ![](../.gitbook/assets/image%20%2866%29.png)
 
