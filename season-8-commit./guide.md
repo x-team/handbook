@@ -57,7 +57,7 @@ Pre-orders begin soon, watch \#x-announcements on Slack for more.
 
 ![](../.gitbook/assets/s8blast-x-marathon.png)
 
-A three week long event in which each House has to rally their members to complete themed marathons. Although the first two weeks are focused on running and cycling, the third week is planned to be viable even for the X-Teamers still under strict lockdowns. Alongside the main event we will also have some cool side activities and everyone can contribute to their House in their own way.
+A three week long event in which each House has to rally their members to complete themed marathons. Even X-Teamers under strict lockdowns can participate with treadmills, stationary bicycles and other devices that don't require leaving your home. Alongside the main event we will also have some cool side activities and everyone can contribute to their House in their own way.
 
 Check more information about on the [X-Marathon Guide](https://app.gitbook.com/@x-team/s/x-team-remote-developer-guide-to-greatness/season-8-commit./x-marathon).
 
