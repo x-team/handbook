@@ -111,36 +111,23 @@ _Additional Rewards:_
 
 Over the course of our most recent events, we've been receiving some weird encrypted messages and having some strange interference in our systems.
 
-The last message we got came from a different source than the other ones before it and we need your help to decypher it.
+The last message we got came from a different source than the other ones before it and we need your help to decypher it. =&gt; **DONE.**
 
 {% hint style="success" %}
 5\#4\)0^\(0%? !5 =+!\(8_1 3+!_\)!~6 4 ~&7^0%8 70 61!~ -457 \(0~7%0\* 09 0+% 9+7+%&.  
-@V7&4/ /+57 570? 7\#&/. !7 !5 0+% 0~\*1 \#0?&.
+@V7&4/ /+57 570? 7\#&/. !7 !5 0+% 0~\*1 \#0?&.  
+  
+SHADOWCORP IS QUICKY BUIDING A NETWORK TO GYIN VAST CONTROL OF OUR FUTURE. X-TEAM MUST STOP THEM. IT IS OUR ONLY HOPE.
 {% endhint %}
 
 {% hint style="warning" %}
-The first person to successfully decypher the message will receive **12 coins** and their House will receive **12 Luna.**
+The first person to successfully decypher the message will receive **12 coins** and their House will receive **12 Luna. -&gt;** [Miina Sikk](https://app.slack.com/team/UFYJNRB53) from House of Corgi!
 {% endhint %}
-
-Whenever someone submits a valid run that is...
-
-* ...above **5Km**: a random character from the message will be decrypted and sent to them.
-* ...above **10Km**:: a random set of four letters will be sent and they'll select one to be decrypted.
-* ...above **15Km**: they'll select any letter/character of their choosing to be decrypted.
-
-The decryptions will be handed out to the person that submitted the run via **direct message** every exact 24h after the beginning of the event \(8pm UTC\), including during the weekend.
-
-The person can then decide if they are going to share the information with their House and/or with the rest of the participants. **Exchange of information \(including false information\) is allowed.**
 
 {% hint style="info" %}
-At any moment someone can attempt to decode the message.  
+At any moment someone can attempt to decode messages.  
 All it needs to be done is to **tag @Leonardo Jardim** to a post at **\#s8-commit** with their answer.  
-They will be checked every day 1 hour before handing out new decryptions.  
 **Only the first FULLY correct decryption will be rewarded.**
-{% endhint %}
-
-{% hint style="danger" %}
-If you don't tag Leonardo, you won't win.
 {% endhint %}
 
 ### Individual Objectives
@@ -169,7 +156,14 @@ Every **Friday** and **Monday** new bounties will be available to be collected.
 
 Over the course of the week some special mini events might happen at any moment on the **\#s8-commit** Slack channel. These events might require you to post something or to do a quick task. Completing them will unlock new information about the last week of X-Marathon, reveal encrypted characters as well as prevent attacks from an unknown digital menace that has been creeping into some of our channels.
 
+#### Event 1. Shadowcorp?
 
+An unknown force know as **SHADOWCORP** has infiltrated our systems and is sabotaging our plans. They are causing interferences in messages we are receiving from someone that claims to be from the future and somehow related to X-Team. What Shadowcorp is? Who is sending us messages?
+
+They have runned a... command? to insert themselves into our [Guide](https://handbook.x-team.com/x-team-remote-developer-guide-to-greatness/season-8-commit./guide#house-roster).  
+Maybe we can find some new hints there.
+
+![](../.gitbook/assets/shadowcorplogo.png)
 
 ## 3rd Week: RACE.
 
