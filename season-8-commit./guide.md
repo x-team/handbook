@@ -180,7 +180,7 @@ House Leader: @Jomar
 ![](../.gitbook/assets/wdohcpsoar.png)
 
 {% hint style="danger" %}
-&gt; @10+ \(0//!7 V4 V/ "!\`7&%\(&?7!~6 ^47\(\#/4~ ?%0$&\(7"
+&gt; @10+ \(0//!7 V4 V/ "!~7&%\(&?7!~6 ^47\(\#/4~ ?%0$&\(7"
 {% endhint %}
 {% endtab %}
 {% endtabs %}
