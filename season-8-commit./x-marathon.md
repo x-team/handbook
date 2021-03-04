@@ -143,8 +143,6 @@ They will be checked every day 1 hour before handing out new decryptions.
 If you don't tag Leonardo, you won't win.
 {% endhint %}
 
-
-
 ### Individual Objectives
 
 Just as in the first week you can push your limits to strive for the special individual prizes:
