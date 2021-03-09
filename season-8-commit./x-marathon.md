@@ -121,7 +121,7 @@ SHADOWCORP IS QUICKY BUIDING A NETWORK TO GYIN VAST CONTROL OF OUR FUTURE. X-TEA
 {% endhint %}
 
 {% hint style="warning" %}
-The first person to successfully decypher the message will receive **12 coins** and their House will receive **12 Luna. -&gt;** [Miina Sikk](https://app.slack.com/team/UFYJNRB53) from House of Corgi!
+The first person to successfully decypher the message above will receive **12 coins** and their House will receive **12 Luna. -&gt;** [Miina Sikk](https://app.slack.com/team/UFYJNRB53) from House of Corgi!
 {% endhint %}
 
 {% hint style="info" %}
@@ -154,16 +154,18 @@ Every **Friday** and **Monday** new bounties will be available to be collected.
 
 ### Mini Events
 
-Over the course of the week some special mini events might happen at any moment on the **\#s8-commit** Slack channel. These events might require you to post something or to do a quick task. Completing them will unlock new information about the last week of X-Marathon, reveal encrypted characters as well as prevent attacks from an unknown digital menace that has been creeping into some of our channels.
+Over the course of the week some special mini events might happen at any moment on the **\#s8-commit** Slack channel. These events might require you to post something or to do a quick task. Completing them will unlock new information about the last week of X-Marathon, reveal new characters as well as prevent attacks from an unknown digital menace that has been creeping into some of our channels.
 
-#### Event 1. Shadowcorp?
+#### Event 1. Shadowcorp
 
-An unknown force know as **SHADOWCORP** has infiltrated our systems and is sabotaging our plans. They are causing interferences in messages we are receiving from someone that claims to be from the future and somehow related to X-Team. What Shadowcorp is? Who is sending us messages?
+An unknown force know as **SHADOWCORP** has infiltrated our systems and is sabotaging our plans. They are causing interferences in messages we are receiving from someone that claims to be from the future and somehow related to X-Team. What is Shadowcorp? Who is sending us these messages?
 
 They have runned a... command? to insert themselves into our [Guide](https://handbook.x-team.com/x-team-remote-developer-guide-to-greatness/season-8-commit./guide#house-roster).  
 Maybe we can find some new hints there.
 
 ![](../.gitbook/assets/shadowcorplogo.png)
+
+
 
 ## 3rd Week: RACE.
 
