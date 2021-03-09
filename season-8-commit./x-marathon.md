@@ -158,7 +158,7 @@ Over the course of the week some special mini events might happen at any moment 
 
 #### Event 1. Shadowcorp
 
-An unknown force know as **SHADOWCORP** has infiltrated our systems and is sabotaging our plans. They are causing interferences in messages we are receiving from someone that claims to be from the future and somehow related to X-Team. What is Shadowcorp? Who is sending us these messages?
+An unknown force known as **SHADOWCORP** has infiltrated our systems and is sabotaging our plans. They are causing interferences in messages we are receiving from someone that claims to be from the future and somehow related to X-Team. What is Shadowcorp? Who is sending us these messages?
 
 They have runned a... command? to insert themselves into our [Guide](https://handbook.x-team.com/x-team-remote-developer-guide-to-greatness/season-8-commit./guide#house-roster).  
 Maybe we can find some new hints there.
