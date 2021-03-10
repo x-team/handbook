@@ -165,7 +165,17 @@ Maybe we can find some new hints there.
 
 ![](../.gitbook/assets/shadowcorplogo.png)
 
+#### Event 2. Secret House Objectives
 
+With the intention of messing up with the competition and to steal Luna for themselves, Shadowcorp secretly created three new house challenges for the second week of the X-Marathon. Hidden in what we previously thought were text interferences and randomly triggerred emoji reactions, they expected us to let that slide for them to snipe the prizes themselves by hacking runs into the competition.
+
+Helped by a mysterious entity named "Xyou" we were able to stop them on their tracks and prevent them from submitting runs for the second week on its last day as they apparently intended to do. However, I don't think we are going to be able to stop them for much longer.
+
+The prizes they created are still available to be collected:
+
+* \*\*\*\*![](../.gitbook/assets/shadowcorplogo.png) **Monopoly**: 4 Luna to the House with more runners on the **Top 5** for individual runners.
+* \*\*\*\*![](../.gitbook/assets/shadowcorplogo.png) **Go 60 +**: 4 Luna to every House with **&gt;60Km** difference between **current total** and **total distance**.
+* ![](../.gitbook/assets/shadowcorplogo.png) **Innovation**: 4 Luna to the House with **more distinct vehicles** used in valid runs.
 
 ## 3rd Week: RACE.
 
