@@ -234,7 +234,7 @@ Each 50 KCal \(rounded down\) can be converted into 1 ENDURANCE using the![:blue
 Alternatively, you can also convert each 50KCal into 1 GEAR using the ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)emoji.
 
 {% hint style="danger" %}
-You cannot submit the same activity as a way to increase both SPEED and ENDURANCE.
+You cannot submit the same activity as a way to counts towards both Km and KCal.
 {% endhint %}
 
 #### Fuel
