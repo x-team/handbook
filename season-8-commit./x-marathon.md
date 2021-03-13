@@ -187,7 +187,7 @@ The first House to reach the **FINAL NODE** of the track gets **50 LUNA!!!**
 
 ### ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png) **Gears**
 
-GEARS can be used at the SHOP to buy SPECIAL ITEMS. These items can then be used to create or destroy paths, set traps, challenge opponents and help you along the way. Each Km from the previous two weeks was converted into a gear but there is still time to increase those numbers and catch up with the competition.
+GEARS can be used at the SHOP to buy SPECIAL ITEMS. These items can then be used to create or destroy paths, set traps, challenge opponents and help you along the way. Each Km from the previous two weeks was converted into a gear but there is still time to increase those numbers and catch up with the competition. The DEADLINE is Wednesday 3pm UTC.
 
 * ![:the-lion:](https://emoji.slack-edge.com/T0257R0RP/the-lion/b1379ec002ae39f8.png) **The Lions Pride:** **398**
 * ​![:nightclaw:](https://emoji.slack-edge.com/T0257R0RP/nightclaw/12536d7534ba16aa.png) **House Nightclaw:** **366**
