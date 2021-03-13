@@ -196,7 +196,7 @@ GEARS can be used at the SHOP to buy SPECIAL ITEMS. These items can then be used
 * ​![:pandablob:](https://emoji.slack-edge.com/T0257R0RP/pandablob/16cd45fe5ee30e13.png) **House of Panda:** **138**
 * ​![:nascent-fire:](https://emoji.slack-edge.com/T0257R0RP/nascent-fire/a68fb251a226ffa0.png) **House Nascent Fire:** **102**
 
-### Schedule
+### ![:calendar:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f4c6@2x.png) Schedule
 
 **SATURDAY \(3pm UTC\):** Learn what to do to **UPGRADE YOUR CAR.** `=> DONE`  
 **TUESDAY \(3pm UTC\):** The **SHOP** opens and the **MAP** for the race gets revealed!  
@@ -229,6 +229,7 @@ Endurance also determines the damage you cause when ramming other cars.
 A valid post must clearly display **time \(min\)** and **calories burned \(KCal\)**.  
 You can do anything to burn calories: aerobics, play ring fit adventure, meditate, you do you.  
 The only rule is that each person can only submit a **maximum of two hours per day** \(starting today\)**.**  
+Which means a maximum of **eight hours per person until the deadline** \(Wednesday 3pm UTC\)  
 Each 50 KCal \(rounded down\) can be converted into 1 ENDURANCE using the![:blueprint:](https://emoji.slack-edge.com/T0257R0RP/blueprint/84288e7cb8b9e41f.png) emoji.  
 Alternatively, you can also convert each 50KCal into 1 GEAR using the ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)emoji.
 
