@@ -111,7 +111,7 @@ _Additional Rewards:_
 
 Over the course of our most recent events, we've been receiving some weird encrypted messages and having some strange interference in our systems.
 
-The last message we got came from a different source than the other ones before it and we need your help to decypher it. =&gt; **DONE.**
+The last message we got came from a different source than the other ones before it and we need your help to decypher it.
 
 {% hint style="success" %}
 5\#4\)0^\(0%? !5 =+!\(8_1 3+!_\)!~6 4 ~&7^0%8 70 61!~ -457 \(0~7%0\* 09 0+% 9+7+%&.  
@@ -179,7 +179,70 @@ The prizes they created are still available to be collected:
 
 ## 3rd Week: RACE.
 
-### ---
+This is the final moment, that one last sprint with everything that we still have in ourselves, the race to finish line. Week Three marks the end of X-Marathon.
+
+Each House will be represented by a **race car** in a **track made of NODES connected by PATHS**.  
+Each **TURN** the House Leader \(or representative\) selects a **NODE** to move to and an **ITEM** to use.  
+The first House to reach the **FINAL NODE** of the track gets **50 LUNA!!!**
+
+### ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png) **Gears**
+
+GEARS can be used at the SHOP to buy SPECIAL ITEMS. These items can then be used to create or destroy paths, set traps, challenge opponents and help you along the way. Each Km from the previous two weeks was converted into a gear but there is still time to increase those numbers and catch up with the competition.
+
+* ![:the-lion:](https://emoji.slack-edge.com/T0257R0RP/the-lion/b1379ec002ae39f8.png) **The Lions Pride:** **398**
+* ​![:nightclaw:](https://emoji.slack-edge.com/T0257R0RP/nightclaw/12536d7534ba16aa.png) **House Nightclaw:** **366**
+* \*\*\*\*![:ragnar:](https://emoji.slack-edge.com/T0257R0RP/ragnar/04e25e482cac6f41.png) **House Ragnar:** **342**
+* ​![:corgi:](https://emoji.slack-edge.com/T0257R0RP/corgi/97ece3358f9f36fa.png) **House of Corgi:** **220**
+* ​![:pandablob:](https://emoji.slack-edge.com/T0257R0RP/pandablob/16cd45fe5ee30e13.png) **House of Panda:** **138**
+* ​![:nascent-fire:](https://emoji.slack-edge.com/T0257R0RP/nascent-fire/a68fb251a226ffa0.png) **House Nascent Fire:** **102**
+
+### Schedule
+
+**SATURDAY \(3pm UTC\):** Learn what to do to **UPGRADE YOUR CAR.** `=> DONE`  
+**TUESDAY \(3pm UTC\):** The **SHOP** opens and the **MAP** for the race gets revealed!  
+**THURSDAY \(8pm UTC\):** The **RACE** will happen at [\#s8-commit](https://x-team.slack.com/archives/C01NZGD7KRR) in a real-time event!
+
+### ![:blueprint:](https://emoji.slack-edge.com/T0257R0RP/blueprint/84288e7cb8b9e41f.png) Upgrading Your Car
+
+#### Speed
+
+It decides the turn order, meaning that **a car with higher speed will move before the others**.  
+Having an earlier turn makes you one step closer to the end of the race and gives you the ability to set up TRAPS for opponents attempting to follow you as well as using a special item to CREATE PATHS between nodes that were previously unconnected.
+
+**To increase SPEED you must post a valid run \(or walk\) to \#s8-commit.**  
+Currently a valid run follows the same [rules ](https://handbook.x-team.com/x-team-remote-developer-guide-to-greatness/season-8-commit./x-marathon#how-to-participate)as the first week of the competition.  
+Each Km \(rounded down\) can be converted into 1 SPEED using the![:blueprint:](https://emoji.slack-edge.com/T0257R0RP/blueprint/84288e7cb8b9e41f.png) emoji.  
+Alternatively, you can also convert each Km into 1 GEAR using the ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)emoji.
+
+#### Endurance
+
+**When a car moves into a node you are currently occupying, it might ram into yours causing damage**.  
+Damage reduces your current endurance, making you more vulnerable to the next attacks.  
+If your endurance is reduced to zero, your next turn MUST be used to REPAIR your car.  
+REPAIR restores endurance to its max value but you won't be able to move or use items during that turn.  
+Certain SPECIAL ITEMS can also be used to restore your endurance before it reaches zero.  
+Endurance also determines the damage you cause when ramming other cars.
+
+**To increase ENDURANCE you must submit a valid post of an exercise session to \#s8-commit.**  
+A valid post must clearly display **time \(min\)** and **calories burned \(KCal\)**.  
+You can do anything to burn calories: aerobics, play ring fit adventure, meditate, you do you.  
+The only rule is that each person can only submit a **maximum of two hours per day** \(starting today\)**.**  
+Each 50 KCal \(rounded down\) can be converted into 1 ENDURANCE using the![:blueprint:](https://emoji.slack-edge.com/T0257R0RP/blueprint/84288e7cb8b9e41f.png) emoji.  
+Alternatively, you can also convert each 50KCal into 1 GEAR using the ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)emoji.
+
+{% hint style="danger" %}
+You cannot submit the same activity as a way to increase both SPEED and ENDURANCE.
+{% endhint %}
+
+#### Fuel
+
+**Your car is powered by the energy of hype.**  
+**To fill up your tank you must post a photo, image or gif that represents your House.**  
+Everytime someone reacts to it with your House logo it fills your tank by 1%.  
+Feel free to react to other Houses' posts to help them out and to recognize their efforts.  
+**Your post must be made as a comment to the pinned post HYPE STATION in the \#s8-commit channel.**  
+Each path has a cost in fuel to be traversed. If your car runs out of fuel it won't be able to move.  
+You can fill your tank up to 100% before the RACE.
 
 
 
