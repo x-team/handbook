@@ -179,7 +179,7 @@ The prizes they created are still available to be collected:
 
 ## 3rd Week: RACE.
 
-This is the final moment, that one last sprint with everything that we still have in ourselves, the race to finish line. Week Three marks the end of X-Marathon.
+This is the final moment, that one last sprint with everything that we still have in ourselves, the race to the finish line. Week Three marks the end of X-Marathon.
 
 Each House will be represented by a **race car** in a **track made of NODES connected by PATHS**.  
 Each **TURN** the House Leader \(or representative\) selects a **NODE** to move to and an **ITEM** to use.  
