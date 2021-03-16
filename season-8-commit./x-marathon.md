@@ -182,7 +182,7 @@ The prizes they created are still available to be collected:
 This is the final moment, that one last sprint with everything that we still have in ourselves, the race to the finish line. Week Three marks the end of X-Marathon.
 
 Each House will be represented by a **race car** in a **track made of NODES connected by PATHS**.  
-Each **TURN** the House Leader \(or representative\) selects a **NODE** to move to and an **ITEM** to use.  
+Each **TURN** the House Driver selects a **NODE** to move to and an **ITEM** to use.  
 The first House to reach the **FINAL NODE** of the track gets **50 LUNA!!!**
 
 ### ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png) **Gears**
@@ -199,8 +199,9 @@ GEARS can be used at the SHOP to buy SPECIAL ITEMS. These items can then be used
 ### ![:calendar:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f4c6@2x.png) Schedule
 
 **SATURDAY \(3pm UTC\):** Learn what to do to **UPGRADE YOUR CAR.** `=> DONE`  
-**TUESDAY \(3pm UTC\):** The **SHOP** opens and the **MAP** for the race gets revealed!  
+**TUESDAY \(3pm UTC\):** The **SHOP** opens and the **MAP** for the race gets revealed! `=> DONE`  
 **WEDNESDAY \(3pm UTC\):** The **DEADLINE** for submissions to **GEAR, SPEED, ENDURANCE** and **FUEL**.  
+**WEDNESDAY \(8pm UTC\):** The **GEAR** counter is updated and the second part of the **SHOP** is opened.  
 **THURSDAY \(3pm UTC\):** **THE SHOP CLOSES** and no more items can be purchased.  
 **THURSDAY \(8pm UTC\):** The **RACE** will happen at [\#s8-commit](https://x-team.slack.com/archives/C01NZGD7KRR) in a real-time event!
 
@@ -246,6 +247,25 @@ Feel free to react to other Houses' posts to help them out and to recognize thei
 **Your post must be made as a comment to the pinned post HYPE STATION in the \#s8-commit channel.**  
 Each path has a cost in fuel to be traversed. If your car runs out of fuel it won't be able to move.  
 You can fill your tank up to 100% before the RACE.
+
+###   ![:motorway:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f6e3-fe0f@2x.png) Map
+
+![](../.gitbook/assets/map-main-no-upgrades-.png)
+
+The race starts at the node \(A\) and ends at the node \(X\).  
+Each path has a cost in FUEL and affects the car SPEED in a certain way.  
+No path costs less than 6% of FUEL to traverse nor more than 18% of FUEL.  
+SPEED can be increased or decreased up to a maximum of 20 units per path.  
+Attempting to move through a path without the necessary fuel will be unsuccessful and the turn will end.  
+Using items, some paths can be destroyed or modified and others can be created.  
+Every path that can be created is also vulnerable to being destroyed afterwards.
+
+When a TURN begins the DRIVER can select only one of the four options below:
+
+* MOVE -&gt; ITEM: move the car to the selected adjacent node and use an item.
+* ITEM -&gt; MOVE: use an item and then move the car to the selected adjacent node.
+* REPAIR: fully recovers ENDURANCE but cannot move nor use items this turn.
+* HYPE STATION: fully recovers FUEL but cannot move nor use items this turn.
 
 
 
