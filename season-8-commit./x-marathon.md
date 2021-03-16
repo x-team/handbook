@@ -187,7 +187,7 @@ The first House to reach the **FINAL NODE** of the track gets **50 LUNA!!!**
 
 ### ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png) **Gears**
 
-GEARS can be used at the SHOP to buy SPECIAL ITEMS. These items can then be used to create or destroy paths, set traps, challenge opponents and help you along the way. Each Km from the previous two weeks was converted into a gear but there is still time to increase those numbers and catch up with the competition. The DEADLINE is Wednesday 3pm UTC.
+GEARS can be used at the STORE to buy SPECIAL ITEMS. These items can then be used to create or destroy paths, set traps, challenge opponents and help you along the way. Each Km from the previous two weeks was converted into a gear but there is still time to increase those numbers and catch up with the competition. The DEADLINE is Wednesday 3pm UTC.
 
 * ![:the-lion:](https://emoji.slack-edge.com/T0257R0RP/the-lion/b1379ec002ae39f8.png) **The Lions Pride:** **398**
 * ​![:nightclaw:](https://emoji.slack-edge.com/T0257R0RP/nightclaw/12536d7534ba16aa.png) **House Nightclaw:** **366**
@@ -199,10 +199,10 @@ GEARS can be used at the SHOP to buy SPECIAL ITEMS. These items can then be used
 ### ![:calendar:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f4c6@2x.png) Schedule
 
 **SATURDAY \(3pm UTC\):** Learn what to do to **UPGRADE YOUR CAR.** `=> DONE`  
-**TUESDAY \(3pm UTC\):** The **SHOP** opens and the **MAP** for the race gets revealed! `=> DONE`  
+**TUESDAY \(3pm UTC\):** The **STORE** opens and the **MAP** for the race gets revealed! `=> DONE`  
 **WEDNESDAY \(3pm UTC\):** The **DEADLINE** for submissions to **GEAR, SPEED, ENDURANCE** and **FUEL**.  
-**WEDNESDAY \(8pm UTC\):** The **GEAR** counter is updated and the second part of the **SHOP** is opened.  
-**THURSDAY \(3pm UTC\):** **THE SHOP CLOSES** and no more items can be purchased.  
+**WEDNESDAY \(8pm UTC\):** The **GEAR** counter is updated and the second part of the **STORE** is opened.  
+**THURSDAY \(3pm UTC\):** **THE STORE CLOSES** and no more items can be purchased.  
 **THURSDAY \(8pm UTC\):** The **RACE** will happen at [\#s8-commit](https://x-team.slack.com/archives/C01NZGD7KRR) in a real-time event!
 
 ### ![:blueprint:](https://emoji.slack-edge.com/T0257R0RP/blueprint/84288e7cb8b9e41f.png) Upgrading Your Car
@@ -248,6 +248,10 @@ Feel free to react to other Houses' posts to help them out and to recognize thei
 Each path has a cost in fuel to be traversed. If your car runs out of fuel it won't be able to move.  
 You can fill your tank up to 100% before the RACE.
 
+{% hint style="info" %}
+Whenever this guide mentions FUEL in percentage \(%\) it is referring to the maximum capacity of the tank, not its current value. So a path with 6% FUEL COST requires 6% of the tank \(100%\) and buying HYPE OPTIMIZER in the STORE would reduce it to 4% \(- 2%\).
+{% endhint %}
+
 ###   ![:motorway:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f6e3-fe0f@2x.png) Map
 
 ![](../.gitbook/assets/map-main-no-upgrades-.png)
@@ -257,8 +261,8 @@ Each path has a cost in FUEL and affects the car SPEED in a certain way.
 No path costs less than 6% of FUEL to traverse nor more than 18% of FUEL.  
 SPEED can be increased or decreased up to a maximum of 20 units per path.  
 Attempting to move through a path without the necessary fuel will be unsuccessful and the turn will end.  
-Using items, some paths can be destroyed or modified and others can be created.  
-Every path that can be created is also vulnerable to being destroyed afterwards.
+Using items, some paths can be destroyed or modified and others can be created \(revealed\).  
+Every path that can be created \(revealed\) is also vulnerable to being destroyed afterwards.
 
 When a TURN begins the DRIVER can select only one of the four options below:
 
@@ -267,5 +271,70 @@ When a TURN begins the DRIVER can select only one of the four options below:
 * REPAIR: fully recovers ENDURANCE but cannot move nor use items this turn.
 * HYPE STATION: fully recovers FUEL but cannot move nor use items this turn.
 
+###  ![:shopping\_trolley:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f6d2@2x.png) Store
 
+In the STORE Houses can exchange the GEARS they've collected for ITEMS.  
+Currently only the initial gears that were converted from the two previous weeks are available for usage.  
+Tomorrow the second part of the store will be opened and the new influx of gear will be available.  
+Only the House Leaders can buy items but everyone can and should make suggestions and propositions.  
+The items are bought by submiting a shopping list to `@Leonardo Jardim` via direct message on Slack.
+
+#### **ACTIVE ITEMS**
+
+Once per turn the DRIVER can select one of these ITEMS to use before or after MOVING to another node.
+
+{% hint style="info" %}
+Each House can own multiple copies of ACTIVE ITEMS and TRADE them with each other.
+{% endhint %}
+
+**Consumables**  
+ ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)30 Gears each
+
+* ![](../.gitbook/assets/boost-1.png) Neon Accelerator: increases SPEED by 15. 
+* ![](../.gitbook/assets/toolset.png) Steampunk Toolset: recovers ENDURANCE by 20.
+* ![](../.gitbook/assets/water.png) Liquid Hype: restores FUEL by 10%.
+
+**Traps**  
+ ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)20 Gears each
+
+* ![](../.gitbook/assets/t_97.png) Decoy: the attacker can select to receive a Luna instead of attacking you.
+* ![](../.gitbook/assets/t_01.png) Barricade: reduces damage received by 50% and decreases attacker's SPEED by 10.
+* ![](../.gitbook/assets/spike-barrier.png) Spiked Trail: the attacker receives 50% of the damage they cause to you.
+
+**Pathchangers**  
+ ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)40 Gears each
+
+* ![](../.gitbook/assets/t_96.png) Augmented Reality: reveals hidden paths from your current node to others.
+* ![](../.gitbook/assets/n10_t.png) Dirty Delete: immediately destroys a path adjacent to you.
+* ![](../.gitbook/assets/dinamite-timebomb.png) Retro Timebomb: place it on a path adjacent to you and it will be destroyed in your next turn.
+
+#### PASSIVE ITEMS
+
+Once purchased these items add a permanent effect to the CAR or submit a new MAP to the Driver.
+
+{% hint style="info" %}
+Only one of each PASSIVE ITEM can be owned by each House.
+{% endhint %}
+
+**Enhancers**  
+ ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)60 Gears each
+
+* ![](../.gitbook/assets/pressure-gauge-2.png) Hype Optimizer: reduces your FUEL CONSUMPTION in every path by 2%.
+* ![](../.gitbook/assets/metal-arm.png) Moon Collector: collects 1 Luna for every node you visit during the race.
+
+**Map Upgrades**  
+![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)80 Gears each
+
+* ![](../.gitbook/assets/t_26.png) Detect Weakpoints: receive an updated map showing which Paths can be deactivated.
+* ![](../.gitbook/assets/t_98.png) Analyze Potential: receive an updated map with all the Hidden Paths that can be activated.
+
+{% hint style="warning" %}
+More items will be released tomorrow \(Wednesday\) 8pm UTC in the second part of the STORE.  
+Most of which will be upgrades that require one of the items above to be already owned.  
+Ex: ![](../.gitbook/assets/t_08.png) Xyou Velotrometer: receive an updated map with the Speed Modifier of every path.  
+This item will require you to already own ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK255U3MWLNAkHUbKtt%2F-MVwHwrxfKfI_RzjZHzh%2F-MVwJS8TNabBCxyCI_x9%2Ft_26.PNG?alt=media&token=9a186fea-6625-43be-9aa5-c22e5d26b3a5)Detect Weakpoints in order to be purchasable.
+{% endhint %}
+
+Houses are allowed to freely negotiate and exchange favors and informations with other Houses.  
+Editing MAP UPGRADE images and spreading misinformation is also allowed.
 
