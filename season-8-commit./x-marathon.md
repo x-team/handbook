@@ -288,25 +288,28 @@ Each House can own multiple copies of ACTIVE ITEMS and TRADE them with each othe
 {% endhint %}
 
 **Consumables**  
- ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)30 Gears each
+ ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)30 Gears each  
+Once used these items will immediately cause their effect on your CAR.
 
 * ![](../.gitbook/assets/boost-1.png) Neon Accelerator: increases SPEED by 15. 
 * ![](../.gitbook/assets/toolset.png) Steampunk Toolset: recovers ENDURANCE by 20.
 * ![](../.gitbook/assets/water.png) Liquid Hype: restores FUEL by 10%.
 
 **Traps**  
- ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)20 Gears each
+ ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)20 Gears each  
+These items are used on your CURRENT NODE and will affect other cars entering it and ramming you.
 
 * ![](../.gitbook/assets/t_97.png) Decoy: the attacker can select to receive a Luna instead of attacking you.
 * ![](../.gitbook/assets/t_01.png) Barricade: reduces damage received by 50% and decreases attacker's SPEED by 10.
 * ![](../.gitbook/assets/spike-barrier.png) Spiked Trail: the attacker receives 50% of the damage they cause to you.
 
 **Pathchangers**  
- ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)40 Gears each
+ ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)40 Gears each  
+These items might fail with there are no PATHS available to be neither ACTIVATED or DEACTIVATED.
 
 * ![](../.gitbook/assets/t_96.png) Augmented Reality: reveals hidden paths from your current node to others.
-* ![](../.gitbook/assets/n10_t.png) Dirty Delete: immediately destroys a path adjacent to you.
-* ![](../.gitbook/assets/dinamite-timebomb.png) Retro Timebomb: place it on a path adjacent to you and it will be destroyed in your next turn.
+* ![](../.gitbook/assets/n10_t.png) Dirty Delete: immediately deactivates a path adjacent to you.
+* ![](../.gitbook/assets/dinamite-timebomb.png) Retro Timebomb: place it on a path adjacent to you and it will be deactivated in your next turn.
 
 #### PASSIVE ITEMS
 
