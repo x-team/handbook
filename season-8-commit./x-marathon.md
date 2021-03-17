@@ -307,9 +307,9 @@ These items are used on your CURRENT NODE and will affect other cars entering it
  ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)40 Gears each  
 These items might fail with there are no PATHS available to be neither ACTIVATED or DEACTIVATED.
 
-* ![](../.gitbook/assets/t_96.png) Augmented Reality: reveals hidden paths from your current node to others.
+* ![](../.gitbook/assets/t_96.png) Augmented Reality: activates a hidden path from your current node to others.
 * ![](../.gitbook/assets/n10_t.png) Dirty Delete: immediately deactivates a path adjacent to you.
-* ![](../.gitbook/assets/dinamite-timebomb.png) Retro Timebomb: place it on a path adjacent to you and it will be deactivated in your next turn.
+* ![](../.gitbook/assets/dinamite-timebomb.png) Retro Timebomb: place it on any path and it will be deactivated in your next turn.
 
 #### PASSIVE ITEMS
 
@@ -324,7 +324,10 @@ Only one of each PASSIVE ITEM can be owned by each House.
 These items will add a permanent effect to your CAR during the entire race.
 
 * ![](../.gitbook/assets/pressure-gauge-2.png) Hype Optimizer: reduces your FUEL CONSUMPTION in every path by 2%.
-* ![](../.gitbook/assets/metal-arm.png) Moon Collector: collects 1 Luna for every node you visit during the race.
+* ![](../.gitbook/assets/metal-arm.png) Moon Collector: collects 1 Luna for every node you visit during the race. _&gt; NEW!!!_
+* ![](../.gitbook/assets/t_15.png) Quantum Hover : becomes immune to path-based SPEED MODIFIERS \(positive and negative\). requires:  ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK255U3MWLNAkHUbKtt%2F-MVwEa2ZQetjeCID_4oG%2F-MVwGE9mSDUw0qOX82Rn%2Ft_96.png?alt=media&token=fec2aa6c-f88b-4946-94a8-fe1544700575) Augmented Reality
+* ![](../.gitbook/assets/t_56.png) Emergency Core: keeps 1 ENDURANCE after a hit that would otherwise leave you with none. requires:  ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK255U3MWLNAkHUbKtt%2F-MVwEa2ZQetjeCID_4oG%2F-MVwGOyZ0YJu7_2vDyW7%2Fn10_t.PNG?alt=media&token=e12f98b8-25c6-4c43-a6bb-7841423bcec2) Dirty Delete
+* ![](../.gitbook/assets/n06_t.png) Neon Processor: doubles the effects of Neon Accelerators. requires:  ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK255U3MWLNAkHUbKtt%2F-MVvXe6vv5FVYtFnL5Ne%2F-MVw-oLIl14nHpm1vR_e%2Fdinamite%20timebomb.png?alt=media&token=7bc424e5-1e8c-4bf8-80ce-f2d7781d216f) Retro Timebomb
 
 **Map Upgrades**  
 ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)80 Gears each  
@@ -333,8 +336,15 @@ These items will be sent privately to the buyer via direct message in a image fo
 * ![](../.gitbook/assets/t_26.png) Detect Weakpoints: receive an updated map showing which Paths can be deactivated.
 * ![](../.gitbook/assets/t_98.png) Analyze Potential: receive an updated map with all the Hidden Paths that can be activated.
 
+**Map Analytics**  
+ ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)120 Gears each  
+Submit the maps you already bought for improvements using priviledged informations.
+
+* ![](../.gitbook/assets/t_08.png) Xyou Velotrometer: receive an updated map with the Speed Modifier of every path. requires:  ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK255U3MWLNAkHUbKtt%2F-MVwHwrxfKfI_RzjZHzh%2F-MVwJS8TNabBCxyCI_x9%2Ft_26.PNG?alt=media&token=9a186fea-6625-43be-9aa5-c22e5d26b3a5) Detect Weakpoints.
+* ![](../.gitbook/assets/t_104.png) Data Artifact: receive an updated map with the Fuel Cost of every path. requires:  ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK255U3MWLNAkHUbKtt%2F-MVwHwrxfKfI_RzjZHzh%2F-MVwJXS11VIOLkATsuiN%2Ft_98.png?alt=media&token=59dfc3ba-8f7b-4c45-9a58-13ae90730d44) Analyze Potential.
+
 {% hint style="warning" %}
-More items will be released tomorrow \(Wednesday\) 8pm UTC in the second part of the STORE.  
+More items will be available tomorrow \(Wednesday\) 8pm UTC in the GARAGE.  
 Most of which will be upgrades that require one of the items above to be already owned.  
 Ex: ![](../.gitbook/assets/t_08.png) Xyou Velotrometer: receive an updated map with the Speed Modifier of every path.  
 This item will require you to already own ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK255U3MWLNAkHUbKtt%2F-MVwHwrxfKfI_RzjZHzh%2F-MVwJS8TNabBCxyCI_x9%2Ft_26.PNG?alt=media&token=9a186fea-6625-43be-9aa5-c22e5d26b3a5)Detect Weakpoints in order to be purchasable.
@@ -342,4 +352,28 @@ This item will require you to already own ![](https://firebasestorage.googleapis
 
 Houses are allowed to freely negotiate and exchange favors and informations with other Houses.  
 Editing MAP UPGRADE images and spreading misinformation is also allowed.
+
+### Garage
+
+Here each House selects a CORE and BUMPER to build their VEHICLES for the RACE.  
+Only one of each can be selected and they are granted for free.
+
+**Core**  
+This is the main setup of your vehicle comprised of optimized compromises between engine and carcass.
+
+* ![](../.gitbook/assets/endurance-upgrade.png) Dominator: increases ENDURANCE by 40 and SPEED by 10
+* ![](../.gitbook/assets/t_32.png) Tracker: increases ENDURANCE by 32 and SPEED by 20
+* ![](../.gitbook/assets/t_59.png) Speedster: increases ENDURANCE by 24 and SPEED by 30
+
+**Bumpers**  
+These parts determine the damage you cause by ramming into opponents \(rounded down\).
+
+* ![](../.gitbook/assets/t_21.png) Iron Carapace: damage equals 50% of ENDURANCE
+* ![](../.gitbook/assets/t_27.png) Aerodynamic Blades: damage equals 25% of ENDURANCE + 10% of current SPEED
+* ![](../.gitbook/assets/t_16.png) Rocket Propulsion: damage equals 25% of ENDURANCE + 10% of current FUEL
+
+{% hint style="info" %}
+The RACE happens tomorrow 8pm UTC in the \#s8-commit channel.  
+You can also join our Jitsi call at [https://meet.jit.si/AwkwardTownsMatterBeautifully](https://meet.jit.si/AwkwardTownsMatterBeautifully)
+{% endhint %}
 
