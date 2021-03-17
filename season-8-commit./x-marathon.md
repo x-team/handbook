@@ -344,13 +344,6 @@ Submit the maps you already bought for improvements using priviledged informatio
 * ![](../.gitbook/assets/t_08.png) Xyou Velotrometer: receive an updated map with the Speed Modifier of every path. requires:  ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK255U3MWLNAkHUbKtt%2F-MVwHwrxfKfI_RzjZHzh%2F-MVwJS8TNabBCxyCI_x9%2Ft_26.PNG?alt=media&token=9a186fea-6625-43be-9aa5-c22e5d26b3a5) Detect Weakpoints.
 * ![](../.gitbook/assets/t_104.png) Data Artifact: receive an updated map with the Fuel Cost of every path. requires:  ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK255U3MWLNAkHUbKtt%2F-MVwHwrxfKfI_RzjZHzh%2F-MVwJXS11VIOLkATsuiN%2Ft_98.png?alt=media&token=59dfc3ba-8f7b-4c45-9a58-13ae90730d44) Analyze Potential.
 
-{% hint style="warning" %}
-More items will be available tomorrow \(Wednesday\) 8pm UTC in the GARAGE.  
-Most of which will be upgrades that require one of the items above to be already owned.  
-Ex: ![](../.gitbook/assets/t_08.png) Xyou Velotrometer: receive an updated map with the Speed Modifier of every path.  
-This item will require you to already own ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK255U3MWLNAkHUbKtt%2F-MVwHwrxfKfI_RzjZHzh%2F-MVwJS8TNabBCxyCI_x9%2Ft_26.PNG?alt=media&token=9a186fea-6625-43be-9aa5-c22e5d26b3a5)Detect Weakpoints in order to be purchasable.
-{% endhint %}
-
 Houses are allowed to freely negotiate and exchange favors and informations with other Houses.  
 Editing MAP UPGRADE images and spreading misinformation is also allowed.
 
