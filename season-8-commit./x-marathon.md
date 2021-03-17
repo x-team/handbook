@@ -374,7 +374,7 @@ These parts determine the damage you cause by ramming into opponents \(rounded d
 * ![](../.gitbook/assets/t_16.png) Rocket Propulsion: damage equals 25% of ENDURANCE + 10% of current FUEL
 
 {% hint style="info" %}
-The RACE happens tomorrow 8pm UTC in the \#s8-commit channel.  
+The RACE happens this Thursday 8pm UTC in the \#s8-commit channel.  
 You can also join our Jitsi call at [https://meet.jit.si/AwkwardTownsMatterBeautifully](https://meet.jit.si/AwkwardTownsMatterBeautifully)
 {% endhint %}
 
