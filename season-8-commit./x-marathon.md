@@ -309,7 +309,7 @@ These items might fail with there are no PATHS available to be neither ACTIVATED
 
 * ![](../.gitbook/assets/t_96.png) Augmented Reality: activates a hidden path from your current node to others.
 * ![](../.gitbook/assets/n10_t.png) Dirty Delete: immediately deactivates a path adjacent to you.
-* ![](../.gitbook/assets/dinamite-timebomb.png) Retro Timebomb: place it on any path and it will be deactivated in your next turn.
+* ![](../.gitbook/assets/dinamite-timebomb.png) Retro Timebomb: place it on any path and it will be deactivated at the end of your next turn.
 
 #### PASSIVE ITEMS
 
