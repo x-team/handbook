@@ -338,7 +338,7 @@ These items will be sent privately to the buyer via direct message in a image fo
 * ![](../.gitbook/assets/t_98.png) Analyze Potential: receive an updated map with all the Hidden Paths that can be activated.
 
 **Map Analytics**  
- ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)120 Gears each  
+ ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)100 Gears each  
 Submit the maps you already bought for improvements using priviledged informations.
 
 * ![](../.gitbook/assets/t_08.png) Xyou Velotrometer: receive an updated map with the Speed Modifier of every path. requires:  ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK255U3MWLNAkHUbKtt%2F-MVwHwrxfKfI_RzjZHzh%2F-MVwJS8TNabBCxyCI_x9%2Ft_26.PNG?alt=media&token=9a186fea-6625-43be-9aa5-c22e5d26b3a5) Detect Weakpoints.
