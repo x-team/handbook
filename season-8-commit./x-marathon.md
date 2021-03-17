@@ -210,7 +210,7 @@ GEARS can be used at the STORE to buy SPECIAL ITEMS. These items can then be use
 #### Speed
 
 It decides the turn order, meaning that **a car with higher speed will move before the others**.  
-Having an earlier turn makes you one step closer to the end of the race and gives you the ability to set up TRAPS for opponents attempting to follow you as well as using a special item to CREATE PATHS between nodes that were previously unconnected.
+Having an earlier turn makes you one step closer to the end of the race and gives you the ability to set up TRAPS for opponents attempting to follow you.
 
 **To increase SPEED you must post a valid run \(or walk\) to \#s8-commit.**  
 Currently a valid run follows the same [rules ](https://handbook.x-team.com/x-team-remote-developer-guide-to-greatness/season-8-commit./x-marathon#how-to-participate)as the first week of the competition.  
