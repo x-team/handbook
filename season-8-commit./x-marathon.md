@@ -289,7 +289,7 @@ Each House can own multiple copies of ACTIVE ITEMS and TRADE them with each othe
 
 **Consumables**  
  ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)30 Gears each  
-Once used these items will immediately cause their effect on your CAR.
+Once used these items will immediately cause their effect on the CAR.
 
 * ![](../.gitbook/assets/boost-1.png) Neon Accelerator: increases SPEED by 15. 
 * ![](../.gitbook/assets/toolset.png) Steampunk Toolset: recovers ENDURANCE by 20.
