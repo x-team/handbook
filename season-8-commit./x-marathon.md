@@ -363,8 +363,8 @@ This is the main setup of your vehicle comprised of optimized compromises betwee
 These parts determine the damage you cause by ramming into opponents \(rounded down\).
 
 * ![](../.gitbook/assets/t_21.png) Iron Carapace: damage equals 50% of ENDURANCE
-* ![](../.gitbook/assets/t_27.png) Aerodynamic Blades: damage equals 25% of ENDURANCE + 10% of current SPEED
-* ![](../.gitbook/assets/t_16.png) Rocket Propulsion: damage equals 25% of ENDURANCE + 10% of current FUEL
+* ![](../.gitbook/assets/t_27.png) Aerodynamic Blades: damage equals 25% of ENDURANCE + 20% of current SPEED
+* ![](../.gitbook/assets/t_16.png) Rocket Propulsion: damage equals 25% of ENDURANCE + 20% of current FUEL
 
 {% hint style="info" %}
 The RACE happens this Thursday 8pm UTC in the \#s8-commit channel.  
