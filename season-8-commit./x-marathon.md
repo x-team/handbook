@@ -305,7 +305,7 @@ These items are used on your CURRENT NODE and will affect other cars entering it
 
 **Pathchangers**  
  ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)40 Gears each  
-These items might fail with there are no PATHS available to be neither ACTIVATED or DEACTIVATED.
+These items might fail if there are no PATHS available to be neither ACTIVATED or DEACTIVATED.
 
 * ![](../.gitbook/assets/t_96.png) Augmented Reality: activates a hidden path from your current node to others.
 * ![](../.gitbook/assets/n10_t.png) Dirty Delete: immediately deactivates a path adjacent to you.
