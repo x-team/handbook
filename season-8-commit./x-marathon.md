@@ -284,7 +284,7 @@ The items are bought by submiting a shopping list to `@Leonardo Jardim` via dire
 Once per turn the DRIVER can select one of these ITEMS to use before or after MOVING to another node.
 
 {% hint style="info" %}
-Each House can own multiple copies of ACTIVE ITEMS and TRADE them with each other.
+Each House can own multiple copies of ACTIVE ITEMS.
 {% endhint %}
 
 **Consumables**  
