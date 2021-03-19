@@ -202,8 +202,8 @@ GEARS can be used at the STORE to buy SPECIAL ITEMS. These items can then be use
 **TUESDAY \(3pm UTC\):** The **STORE** opens and the **MAP** for the race gets revealed! `=> DONE`  
 **WEDNESDAY \(3pm UTC\):** **DEADLINE** for submissions to **GEAR, SPEED, ENDURANCE** and **FUEL**. `=> DONE`  
 **WEDNESDAY \(8pm UTC\):** **GEAR** counter and **STORE** updated, **GARAGE** opened. `=> DONE`  
-**THURSDAY \(3pm UTC\):** **THE STORE CLOSES** and no more items can be purchased.  
-**THURSDAY \(8pm UTC\):** The **RACE** will happen at [\#s8-commit](https://x-team.slack.com/archives/C01NZGD7KRR) in a real-time event!
+**THURSDAY \(3pm UTC\):** **THE STORE CLOSES** and no more items can be purchased. `=> DONE`  
+**THURSDAY \(8pm UTC\):** The **RACE** will happen at [\#s8-commit](https://x-team.slack.com/archives/C01NZGD7KRR) in a real-time event! `=> DONE`
 
 ### ![:blueprint:](https://emoji.slack-edge.com/T0257R0RP/blueprint/84288e7cb8b9e41f.png) Upgrading Your Car
 
