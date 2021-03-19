@@ -332,7 +332,7 @@ These items will add a permanent effect to your CAR during the entire race.
 
 **Map Upgrades**  
 ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png)80 Gears each  
-These items will be sent privately to the buyer via direct message in a image format.
+These items will be sent privately to the buyer via direct message in an image format.
 
 * ![](../.gitbook/assets/t_26.png) Detect Weakpoints: receive an updated map showing which Paths can be deactivated.
 * ![](../.gitbook/assets/t_98.png) Analyze Potential: receive an updated map with all the Hidden Paths that can be activated.
