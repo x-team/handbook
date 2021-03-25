@@ -65,7 +65,7 @@ Good luck on your climb Watchman, the future is counting on you.
 
 ## Achievements
 
-If you manage to climb all ten floors and beat the tower, share a screenshot of your Raider's Progress on the Champions Circle thread on \#s8-commit to claim these special prizes.
+If you manage to climb all ten floors and beat the tower, share a screenshot of your Raider's Progress on the Champions Circle thread on **\#the-tower** to claim these special prizes.
 
 *  ![:trophy:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f3c6@2x.png) **Victorious**: complete the tower 5 times.
 *  ![:drop\_of\_blood:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1fa78@2x.png) **Riskbreaker**: complete the tower with 10HP or less.
