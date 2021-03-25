@@ -43,23 +43,21 @@ _**Commit.**_
 
 X-Team Events are one of the greatest ways to get a boost of energy during the season. Check out what is coming in the timeline above and make sure to subscribe to the[ ](https://calendar.google.com/calendar/u/2/r?cid=Y29tbXVuaXR5QHgtdGVhbS5jb20)[X-Team Community Calendar.](https://calendar.google.com/calendar/u/2?cid=Y29tbXVuaXR5QHgtdGVhbS5jb20)
 
-### Expansion Pack Drop \#01
-
-![](../.gitbook/assets/screen-shot-2021-02-22-at-10.50.02-pm.png)
-
-As promised at X-Mas 2020, this year will mark the beginning of putting more X-Team collectibles into the hands of _**all**_ X-Teamers more often. 
-
-Expansion Packs are custom-built boxes that will soon land on your doorstep and contain all-new Vault items per pack: 2 Common and 2 Rare. This year will see two Expansion Packs drop, and the first is very soon.
-
-Pre-orders begin soon, watch \#x-announcements on Slack for more.
-
 ### X-Marathon
 
 ![](../.gitbook/assets/s8blast-x-marathon.png)
 
 A three week long event in which each House has to rally their members to complete themed marathons. Even X-Teamers under strict lockdowns can participate with treadmills, stationary bicycles and other devices that don't require leaving your home. Alongside the main event we will also have some cool side activities and everyone can contribute to their House in their own way.
 
-Check more information about on the [X-Marathon Guide](https://app.gitbook.com/@x-team/s/x-team-remote-developer-guide-to-greatness/season-8-commit./x-marathon).
+{% page-ref page="x-marathon.md" %}
+
+### Gamecon
+
+![](../.gitbook/assets/screen-shot-2021-03-24-at-1.30.51-pm.png)
+
+A special celebration of gaming and the impact it had in our lives. During Gamecon you will be able to share the community's passion for all the narratives and gameplay that shaped their gaming experience, to test your wits against opponents in two Slack-based games and to dive deeper into X-Team's Watchman storyline. An ode to the games that changed the history of gaming.
+
+{% page-ref page="gamecon.md" %}
 
 ## Bounties
 
@@ -70,6 +68,8 @@ You can "Favorite” or "Hide" Bounties to organize them in your own special way
 {% hint style="warning" %}
 Rule: You can't claim multiple Bounties for the same action.
 {% endhint %}
+
+
 
 ### Missions
 

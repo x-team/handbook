@@ -160,7 +160,7 @@ The first-ever Slack-based battle royale game returns this Season with all-new f
 
 \*\*\*\*[**Add to your Calendar**](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGpxNm1tZ2ExbTJkY3ZtOXZjM2dkOGczam4gY29tbXVuaXR5QHgtdGVhbS5jb20&tmsrc=community%40x-team.com)\*\*\*\*
 
-\*\*\*\*[**Learn how to play The Arena**](../season-6-not-done-yet-pt.-ii/the-arena.md#how-it-works)\*\*\*\*
+\*\*\*\*[**Learn how to play The Arena**](../season-8-commit./the-arena.md#how-it-works)\*\*\*\*
 
 \*\*\*\*[**Join \#the-arena on Slack**](https://app.slack.com/client/T0257R0RP/C015XHF3150)\*\*\*\*
 

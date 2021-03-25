@@ -51,6 +51,9 @@
 
 * [Guide](season-8-commit./guide.md)
 * [X-Marathon](season-8-commit./x-marathon.md)
+* [GameCon](season-8-commit./gamecon.md)
+* [The Tower](season-8-commit./the-tower.md)
+* [The Arena](season-8-commit./the-arena.md)
 
 ## Season 7: Fight To The End.
 
@@ -63,7 +66,6 @@
 
 * [Guide](season-6-not-done-yet-pt.-ii/guide.md)
 * [War of the Ages](season-6-not-done-yet-pt.-ii/war-of-the-ages.md)
-* [The Arena](season-6-not-done-yet-pt.-ii/the-arena.md)
 * [X-Summit 2020](season-6-not-done-yet-pt.-ii/x-summit-2020.md)
 
 ## Season 5: New World.
