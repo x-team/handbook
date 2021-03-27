@@ -76,7 +76,7 @@ If you manage to climb all ten floors and beat the tower, share a screenshot of 
 
 Each achievement grants **2 coins** for the player and **2 Luna** for their House.
 
-Feel free to help you teammates by sharing strategies and information on your House channels.
+Feel free to help your teammates by sharing strategies and information on your House channels.
 
 {% hint style="info" %}
 Each prize can only be claimed once per player.
