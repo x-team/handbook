@@ -82,3 +82,27 @@ Feel free to help your teammates by sharing strategies and information on your H
 Each prize can only be claimed once per player.
 {% endhint %}
 
+## House Objectives
+
+### ![:sports\_medal:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f3c5@2x.png) **Participation Trophy**
+
+If we reach a **total of 80 or more players** with at least two attempts of climbing the tower, even if unsuccessful, **every House gets 4 Luna**.
+
+### ![:crown:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f451@2x.png) **Rulers of The Tower**
+
+The House with the **highest sum of achievements collected by their top six players** \(ranked by number of achievements collected\) will receive an additional reward of **12 Luna**.
+
+### ![:infinity:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/267e-fe0f@2x.png) **Multiverse Creators**
+
+The House with **the highest number of players with the Victorious Achievement** \(five or more completed towers\) will receive an additional reward of **12 Luna**.  
+_Additionally, players with the Victorious Achievement will receive a Season Pass to participate in all The Arena events during Season 8._
+
+### ![:x-hero:](https://emoji.slack-edge.com/T0257R0RP/x-hero/7640829cee503058.png) **House of Champions**
+
+The House with the **highest number of players with the Champion Achievement** \(completing at least one tower without using any Perks\) will receive an additional reward of **12 Luna**.  
+_Additionally, players with the Champion Achievement will be invited for a future special competitive round of The Tower to fight for additional prizes and the prestigious title of **Tower Legend**._
+
+{% hint style="info" %}
+The Luna prizes will be split among winning Houses in case of a tie.
+{% endhint %}
+
