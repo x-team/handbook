@@ -59,8 +59,13 @@ Besides receiving coins and generating Luna towards his House, the last watchman
 
 1. Lucas Bassetti \(2 victories\)
 2. Marcin Pietruszka \(1 victory\)
+3. Jedrzej Kurylo \(1 victory\)
+4. Jan Makara \(1 victory\)
+5. Lucas Moreira \(1 victory\)
+6. Jomar Garcia \(1 victory\)
+7. Edmilson Robson Rocha Lima \(1 victory\)
 
 ## How to Join
 
-If this sounds like fun to you, visit the Vault to purchase an "Arena Pass" for 1 coin to secure your spot in the Arena. Arena Passes are posted 1-2 days before an event. [https://xhq.x-team.com/vault](https://xhq.x-team.com/vault) 
+If this sounds like fun to you, visit the Vault to purchase an "Arena Pass" for 2 coins to secure your spot in the Arena. Arena Passes are posted 1-2 days before an event. [https://xhq.x-team.com/vault](https://xhq.x-team.com/vault) 
 
