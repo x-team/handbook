@@ -8,6 +8,8 @@ description: >-
 
 ## Lore
 
+{% embed url="https://www.youtube.com/watch?v=ZeZ1pbxeAuc" %}
+
 The Arena is X-Team's virtual battle simulator created to train us for the future battle against Shadowcorp. The arsenal from their Tower is available in the Arena so we can get used to them and the Last Hunter Standing is promoted to the Champions Circle - a group of respected Watchmen from which battle patterns are extracted and recorded in protocols to be later downloaded as perks.
 
 ## How it Works
