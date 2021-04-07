@@ -27,11 +27,26 @@ From here, the game is broken into a series of rounds. Each round, you can execu
 * **HIDE**: makes you **not visible** for players using **HUNT** during that round.
 * **HEAL**: heal yourself or another player for 35HP \(requires **HEALTHKIT** and can revive fallen players\). 
 
-### Conditions
+## Locations
 
-* **BATTLE ZONE**: group of players that you can attack or be attacked by during that round.
-* **RING OF FIRE**: makes **HIDE unavailable** and forces hidden players into the visible field.
-* **AIRDROP**: use **RUN TO AIRDROP** for a shot at getting a legendary prize \(**requires WEAPON**\).
+When a round begins your character moves to one of the Locations below and your actions can only affect and be affected by players within the same Location. When the round ends your character moves to another Location with a new set of players to interact with. As the game progresses, some locations get deleted increasing the chances of players to meet one another more frequently.
+
+* ![](../.gitbook/assets/1-closed-gate.png) Closed Gate
+* ![](../.gitbook/assets/1-obsidian-tower.png) Obsidian Tower
+* ![](../.gitbook/assets/1-white-fortress.png) White Fortress
+* ![](../.gitbook/assets/1-shrine-of-time.png) Shrine Time
+* ![](../.gitbook/assets/phoenix-pyramids.png) Phoenix Pyramids
+* ![](../.gitbook/assets/bamboo-forest.png) Bamboo Forest
+* ![](../.gitbook/assets/ursine-darkwoods.png) Ursine Darkwoods
+* ![](../.gitbook/assets/pridelands.png) Pridelands
+* ![](../.gitbook/assets/canine-mansion.png) Canine Mansion
+* ![](../.gitbook/assets/viking-watchtower.png) Viking Watchtower
+* ![](../.gitbook/assets/lupine-woods.png) Lupine Woods
+* ![](../.gitbook/assets/irondrake-castle.png) Irondrake Castle
+
+###  ![:fireball:](https://emoji.slack-edge.com/T0257R0RP/fireball/cc757942e4f7fdb8.gif) Ring of Fire
+
+After a certain amount of rounds a Ring of Fire might appear, destroying hiding places in every Location and transforming the Arena into an open field. When active, players won't be able to select the Hide action and will be automatically visible for all players in the same Location.
 
 ## Weapon List
 
