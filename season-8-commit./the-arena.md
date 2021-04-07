@@ -12,7 +12,7 @@ description: >-
 
 The Arena is X-Team's virtual battle simulator created to train us for the future battle against Shadowcorp. The arsenal from their Tower is available in the Arena so we can get used to them and the Last Hunter Standing is promoted to the Champions Circle - a group of respected Watchmen from which battle patterns are extracted and recorded in protocols to be later downloaded as perks.
 
-## How it Works
+##  ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png) How it Works
 
 You start the game with **100HP**, no weapons and nothing in your inventory but the will to fight.
 
@@ -27,7 +27,7 @@ From here, the game is broken into a series of rounds. Each round, you can execu
 * **HIDE**: makes you **not visible** for players using **HUNT** during that round.
 * **HEAL**: heal yourself or another player for 35HP \(requires **HEALTHKIT** and can revive fallen players\). 
 
-## Locations
+##  ![:location-pin:](https://emoji.slack-edge.com/T0257R0RP/location-pin/becec197f3dbb462.png) Locations
 
 When a round begins your character moves to one of the Locations below and your actions can only affect and be affected by players within the same Location. When the round ends your character moves to another Location with a new set of players to interact with. As the game progresses, some locations get deleted increasing the chances of players to meet one another more frequently.
 
