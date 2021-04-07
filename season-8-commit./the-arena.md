@@ -6,13 +6,13 @@ description: >-
 
 # The Arena
 
-## Lore
+## ![:x-team:](https://emoji.slack-edge.com/T0257R0RP/x-team/dca595f04ffbee40.png) Lore
 
 {% embed url="https://www.youtube.com/watch?v=ZeZ1pbxeAuc" %}
 
 The Arena is X-Team's virtual battle simulator created to train us for the future battle against Shadowcorp. The arsenal from their Tower is available in the Arena so we can get used to them and the Last Hunter Standing is promoted to the Champions Circle - a group of respected Watchmen from which battle patterns are extracted and recorded in protocols to be later downloaded as perks.
 
-##  ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png) How it Works
+## ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png) How it Works
 
 You start the game with **100HP**, no weapons and nothing in your inventory but the will to fight.
 
@@ -31,7 +31,7 @@ From here, the game is broken into a series of rounds. Each round, you can execu
 To select an action to execute, type **/arena** in slack to bring up your options.
 {% endhint %}
 
-##  ![:location-pin:](https://emoji.slack-edge.com/T0257R0RP/location-pin/becec197f3dbb462.png) Locations
+## ![:location-pin:](https://emoji.slack-edge.com/T0257R0RP/location-pin/becec197f3dbb462.png) Locations
 
 When a round begins your character moves to one of the Locations below and your actions can only affect and be affected by players within the same Location. When the round ends your character moves to another Location with a new set of players to interact with. As the game progresses, some locations get deleted increasing the chances of players to meet one another more frequently.
 
@@ -48,15 +48,15 @@ When a round begins your character moves to one of the Locations below and your 
 * ![](../.gitbook/assets/lupine-woods.png) Lupine Woods
 * ![](../.gitbook/assets/irondrake-castle.png) Irondrake Castle
 
-###  ![:fireball:](https://emoji.slack-edge.com/T0257R0RP/fireball/cc757942e4f7fdb8.gif) Ring of Fire
+### ![:fireball:](https://emoji.slack-edge.com/T0257R0RP/fireball/cc757942e4f7fdb8.gif) Ring of Fire
 
 After a certain amount of rounds a Ring of Fire might appear, destroying hiding places in every Location and transforming the Arena into an open field. When active, players won't be able to select the Hide action and will be automatically visible for all players in the same Location.
 
-## Weapon List
+## ![:arena-vibro-knife:](https://emoji.slack-edge.com/T0257R0RP/arena-vibro-knife/2b44aab658e09e58.png) Weapon List
 
 ![](../.gitbook/assets/image%20%2840%29.png)
 
-##  ![:sports\_medal:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f3c5@2x.png) Awards
+## ![:sports\_medal:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f3c5@2x.png) Awards
 
 At the end of The Arena players will be rewarded for their Outstanding Performance. The winner of each Award will receive 1 coin and generate 1 Luna for their House:
 
@@ -71,13 +71,13 @@ At the end of The Arena players will be rewarded for their Outstanding Performan
 *  ![:blobcheer:](https://emoji.slack-edge.com/T0257R0RP/blobcheer/f4ee84a4b66dc53a.png) **Cheerleader**: the player that cheered the most
 *  ![:star2:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f31f@2x.png) **Public Favourite**: the player that received the most cheers
 
-###  ![:heretostay:](https://emoji.slack-edge.com/T0257R0RP/heretostay/12277719e16bd49b.png) Last Hunter Standing
+### ![:heretostay:](https://emoji.slack-edge.com/T0257R0RP/heretostay/12277719e16bd49b.png) Last Hunter Standing
 
 Besides receiving coins and generating Luna towards his House, the last watchman standing will be rewarded with our exclusive Backpack.
 
 ![](../.gitbook/assets/screenshot_2021-03-25-xhq-x-team.png)
 
-##  ![:trophy:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f3c6@2x.png) Champions Circle
+## ![:trophy:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f3c6@2x.png) Champions Circle
 
 1. Lucas Bassetti \(2 victories\)
 2. Marcin Pietruszka \(1 victory\)
@@ -87,7 +87,7 @@ Besides receiving coins and generating Luna towards his House, the last watchman
 6. Jomar Garcia \(1 victory\)
 7. Edmilson Robson Rocha Lima \(1 victory\)
 
-## How to Join
+## ![:the-vault:](https://emoji.slack-edge.com/T0257R0RP/the-vault/9a7e151b9c24a39d.png) How To Join
 
 If this sounds like fun to you, visit the Vault to purchase an "Arena Pass" for 2 coins to secure your spot in the Arena. Arena Passes are posted 1-2 days before an event. [https://xhq.x-team.com/vault](https://xhq.x-team.com/vault) 
 
