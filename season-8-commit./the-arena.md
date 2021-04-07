@@ -52,9 +52,9 @@ After a certain amount of rounds a Ring of Fire might appear, destroying hiding 
 
 ![](../.gitbook/assets/image%20%2840%29.png)
 
-## Awards
+##  ![:sports\_medal:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f3c5@2x.png) Awards
 
-At the end of each Arena battle, awards will be automatically generated to show Outstanding Performance. The winner of each Award will gain 1 coin as a consolation prize. The Awards are: 
+At the end of The Arena players will be rewarded for their Outstanding Performance. The winner of each Award will receive 1 coin and generate 1 Luna for their House:
 
 *  ![:feelsgood:](https://emoji.slack-edge.com/T0257R0RP/feelsgood/7bcbaa15fa.png) **First Blood:** the first player to kill an opponent.
 *  ![:boom:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f4a5@2x.png) **Damage Dealer**: the player that dealt the most damage
@@ -67,7 +67,7 @@ At the end of each Arena battle, awards will be automatically generated to show 
 *  ![:blobcheer:](https://emoji.slack-edge.com/T0257R0RP/blobcheer/f4ee84a4b66dc53a.png) **Cheerleader**: the player that cheered the most
 *  ![:star2:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f31f@2x.png) **Public Favourite**: the player that received the most cheers
 
-### Last Hunter Standing
+###  ![:heretostay:](https://emoji.slack-edge.com/T0257R0RP/heretostay/12277719e16bd49b.png) Last Hunter Standing
 
 Besides receiving coins and generating Luna towards his House, the last watchman standing will be rewarded with our exclusive Backpack.
 
