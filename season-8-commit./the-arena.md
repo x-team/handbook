@@ -16,16 +16,20 @@ The Arena is X-Team's virtual battle simulator created to train us for the futur
 
 You start the game with **100HP**, no weapons and nothing in your inventory but the will to fight.
 
-From here, the game is broken into a series of rounds. Each round, you can execute **one** action. To see a list of actions you can take, type **/arena** in slack to bring up your options.
+From here, the game is broken into a series of rounds. Each round, you can execute **one** action.
 
 ### Actions
 
-* **STATUS**: display your health, inventory and visibility status \(**does not count as an action**\).
+* **STATUS**: check additional details about your inventory and conditions \(**does not count as an action**\).
 * **CHEER**: support one of the players currently alive \(can be used even if you were eliminated\).
 * **SEARCH**: for **WEAPONS**, **ARMOR** and **HEALTHKITS**. \(makes you visible\).
 * **HUNT**: attack another **player in your BATTLE ZONE** with one of your available **WEAPONS**.
 * **HIDE**: makes you **not visible** for players using **HUNT** during that round.
-* **HEAL**: heal yourself or another player for 35HP \(requires **HEALTHKIT** and can revive fallen players\). 
+* **HEAL**: heal yourself or another player for **35HP** \(requires **HEALTHKIT** and can revive fallen players\). 
+
+{% hint style="info" %}
+To select an action to execute, type **/arena** in slack to bring up your options.
+{% endhint %}
 
 ##  ![:location-pin:](https://emoji.slack-edge.com/T0257R0RP/location-pin/becec197f3dbb462.png) Locations
 
