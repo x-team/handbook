@@ -38,7 +38,7 @@ When a round begins your character moves to one of the Locations below and your 
 * ![](../.gitbook/assets/1-closed-gate.png) Closed Gate
 * ![](../.gitbook/assets/1-obsidian-tower.png) Obsidian Tower
 * ![](../.gitbook/assets/1-white-fortress.png) White Fortress
-* ![](../.gitbook/assets/1-shrine-of-time.png) Shrine Time
+* ![](../.gitbook/assets/1-shrine-of-time.png) Shrine of Time
 * ![](../.gitbook/assets/phoenix-pyramids.png) Phoenix Pyramids
 * ![](../.gitbook/assets/bamboo-forest.png) Bamboo Forest
 * ![](../.gitbook/assets/ursine-darkwoods.png) Ursine Darkwoods
