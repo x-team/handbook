@@ -14,7 +14,7 @@ The Arena is X-Team's virtual battle simulator created to train us for the futur
 
 ## ![:gear:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/2699-fe0f@2x.png) How it Works
 
-You start the game with **100HP**, no weapons and nothing in your inventory but the will to fight.
+You start the game with **100HP**, no weapons and just a **Vibroknife** in your inventory..
 
 From here, the game is broken into a series of rounds. Each round, you can execute **one** action.
 
