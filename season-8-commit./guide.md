@@ -78,7 +78,7 @@ Missions are sets of connected Bounties with exclusive rewards once completed. T
 The first Mission and its set of three Bounties are already available to be collected:  
  ![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Watchman ID:** join \#s8-commit on Slack and present yourself in three sentences.  
  ![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **An Exquisite Fuel:** post a picture on \#s8-commit of your most unique source of motivation.  
- ![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **The Better After:** post on \#s8-commit a list of predictions for the future of humanity in the year 2121.
+ ![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **The Better After:** post on \#s8-commit a list of predictions for the future of humanity.
 
 ### Bounty Drops
 
