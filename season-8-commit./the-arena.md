@@ -63,11 +63,8 @@ At the end of The Arena players will be rewarded for their Outstanding Performan
 *  ![:feelsgood:](https://emoji.slack-edge.com/T0257R0RP/feelsgood/7bcbaa15fa.png) **First Blood:** the first player to kill an opponent.
 *  ![:boom:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f4a5@2x.png) **Damage Dealer**: the player that dealt the most damage
 *  ![:health-full:](https://emoji.slack-edge.com/T0257R0RP/health-full/f2275d01d3be84f2.png) **Medic**: the player that healed the most damage
-*  ![:ninja:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f977@2x.png) **Bullet Dodger**: the player that evaded most attacks
 *  ![:skull:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f480@2x.png) **Grim Reaper**: the player that dealt the most killing blows
 *  ![:arena-battlerifle:](https://emoji.slack-edge.com/T0257R0RP/arena-battlerifle/df8842622f28a047.png) **Arms Dealer**: the player that collected the most weapons
-*  ![:medkit:](https://emoji.slack-edge.com/T0257R0RP/medkit/feb463579cd8d0af.png) **At least we got health**: the player that found the most Health Kits
-*  ![:airdrop:](https://emoji.slack-edge.com/T0257R0RP/airdrop/b6a7a3e5af0177bf.png) **Airdrop Catcher**: the player that reached the most Airdrops
 *  ![:blobcheer:](https://emoji.slack-edge.com/T0257R0RP/blobcheer/f4ee84a4b66dc53a.png) **Cheerleader**: the player that cheered the most
 *  ![:star2:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f31f@2x.png) **Public Favourite**: the player that received the most cheers
 
