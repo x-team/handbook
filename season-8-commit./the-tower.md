@@ -86,7 +86,7 @@ Each prize can only be claimed once per player.
 
 ### ![:sports\_medal:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f3c5@2x.png) **Participation Trophy**
 
-If we reach a **total of 80 or more players** with at least two attempts of climbing the tower, even if unsuccessful, **every House gets 4 Luna**.
+If we reach a **total of 80 or more players** with attempts of climbing the tower, even if unsuccessful, **every House gets 4 Luna**.
 
 ### ![:crown:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f451@2x.png) **Rulers of The Tower**
 
