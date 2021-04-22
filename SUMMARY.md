@@ -53,6 +53,7 @@
 * [X-Marathon](season-8-commit./x-marathon.md)
 * [GameCon](season-8-commit./gamecon.md)
 * [The Tower](season-8-commit./the-tower.md)
+* [The Expansion Pack](season-8-commit./the-expansion-pack.md)
 * [The Arena](season-8-commit./the-arena.md)
 
 ## Season 7: Fight To The End.
