@@ -58,10 +58,6 @@ After playing some of the nominated games, vote on your favorites to help define
 
 During the Trivia Dungeon Livestream, the winner will be announced and we will celebrate the winning game in a special way. Rewards will be given to the person that nominated that game and to the other X-Teamers that participated in the whole event.
 
-### ![](../.gitbook/assets/legendary1.gif) Chapter One
-
-During GameCon we will release the first **Legendary Bounty** as a short interactive fiction that will reveal important information on the story we've been hinting at with the Watchman Project, Shadowcorp and the other concepts that have been present on our games and events.
-
 ## Vault Drop Tuesdays
 
 During GameCon our Vault Drops will be extra special, so make sure to engage with the Bounties and collect coins to be prepared for the sweet collectibles that will be available.

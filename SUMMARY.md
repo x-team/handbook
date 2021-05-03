@@ -4,6 +4,7 @@
 * [About X-Team — Internal Perspective](about/README.md)
   * [Core Values](about/core-values.md)
   * [Good Teamplay](about/teamplay.md)
+* [Untitled](untitled.md)
 * [Onboarding Guide](onboarding-guide/README.md)
   * [Technicalities](onboarding-guide/technicalities.md)
   * [Community](onboarding-guide/community/README.md)
@@ -26,6 +27,7 @@
     * [Pre-Outpost](x-outpost-guide/guardians/g-pre.md)
     * [Mid-Outpost](x-outpost-guide/guardians/g-mid.md)
     * [Post-Outpost](x-outpost-guide/guardians/g-post.md)
+* [X-VIP Guide](x-vip-guide.md)
 * [Good Reads](good-reads/README.md)
   * [Remote Work](good-reads/remote-work/README.md)
     * [Remote Interviews — Tips for Your Upcoming Interview](good-reads/remote-work/remote_interview_tips.md)
@@ -53,7 +55,6 @@
 * [X-Marathon](season-8-commit./x-marathon.md)
 * [GameCon](season-8-commit./gamecon.md)
 * [The Tower](season-8-commit./the-tower.md)
-* [The Expansion Pack](season-8-commit./the-expansion-pack.md)
 * [The Arena](season-8-commit./the-arena.md)
 
 ## Season 7: Fight To The End.
