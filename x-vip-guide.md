@@ -39,8 +39,6 @@ You start the game with **100HP** and nothing on your inventory but your will to
 
 From here, the game is broken into a series of rounds. Each round, you can execute **one** action.
 
-### Actions
-
 * **STATUS**: check additional details about your inventory and conditions \(**does not count as an action**\).
 * **CHEER**: support one of the players currently alive \(can be used even if you were eliminated\).
 * **SEARCH**: for **WEAPONS**, **ARMOR** and **HEALTHKITS**. \(makes you visible\).
