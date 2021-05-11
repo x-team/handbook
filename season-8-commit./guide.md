@@ -174,19 +174,11 @@ House Leader: @Cristian Morales
 {% endhint %}
 {% endtab %}
 
-{% tab title="Revan" %}
+{% tab title="House of Panda" %}
 ![](../.gitbook/assets/revan.jpg)
 
 {% hint style="info" %}
 House Leader: @Jomar
-{% endhint %}
-{% endtab %}
-
-{% tab title="5\#4\)0^\(0%?" %}
-![](../.gitbook/assets/wdohcpsoar.png)
-
-{% hint style="danger" %}
-&gt; @10+ \(0//!7 V4 V/ "!~7&%\(&?7!~6 ^47\(\#/4~ ?%0$&\(7"
 {% endhint %}
 {% endtab %}
 {% endtabs %}
