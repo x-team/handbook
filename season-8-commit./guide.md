@@ -175,7 +175,7 @@ House Leader: @Cristian Morales
 {% endtab %}
 
 {% tab title="House of Panda" %}
-![](../.gitbook/assets/revan.jpg)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 {% hint style="info" %}
 House Leader: @Jomar
