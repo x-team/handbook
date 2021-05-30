@@ -67,7 +67,7 @@ Good luck on your climb Watchman, the future is counting on you.
 
 We have already selected our first four champions to fight for the title of Tower Legends:
 
- ![:ragnar:](https://emoji.slack-edge.com/T0257R0RP/ragnar/04e25e482cac6f41.png) Lucas Basetti  
+![:ragnar:](https://emoji.slack-edge.com/T0257R0RP/ragnar/04e25e482cac6f41.png) Lucas Basetti  
 ![:pandablob:](https://emoji.slack-edge.com/T0257R0RP/pandablob/7086d4fa683ea539.png) Maya Zafran  
 ![:pandablob:](https://emoji.slack-edge.com/T0257R0RP/pandablob/7086d4fa683ea539.png) Mario Propper  
 ![:nightclaw:](https://emoji.slack-edge.com/T0257R0RP/nightclaw/12536d7534ba16aa.png) Lauren Ferreira
