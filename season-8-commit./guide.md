@@ -43,6 +43,8 @@ _**Commit.**_
 
 X-Team Events are one of the greatest ways to get a boost of energy during the season. Check out what is coming in the timeline above and make sure to subscribe to the[ ](https://calendar.google.com/calendar/u/2/r?cid=Y29tbXVuaXR5QHgtdGVhbS5jb20)[X-Team Community Calendar.](https://calendar.google.com/calendar/u/2?cid=Y29tbXVuaXR5QHgtdGVhbS5jb20)
 
+
+
 ### Expansion Pack Drop
 
 ![](../.gitbook/assets/screen-shot-2021-02-22-at-10.50.02-pm.png)
@@ -65,67 +67,7 @@ A special celebration of gaming and the impact it had in our lives. During Gamec
 
 {% page-ref page="gamecon.md" %}
 
-## Bounties
-
-Bounties are personal challenges that you can take part in every Season designed to get you energized by doing more of what you love. They are like the achievements or trophies in your favourite video game, but in this case, the game is your life.
-
-You can "Favorite” or "Hide" Bounties to organize them in your own special way. Bounties also earn you coins for you to exchange for collectibles, experiences and charity donations at The Vault.
-
-{% hint style="warning" %}
-Rule: You can't claim multiple Bounties for the same action.
-{% endhint %}
-
-
-
-### Missions
-
-Missions are sets of connected Bounties with exclusive rewards once completed. They are available for a very limited amount of time and will sometimes give hints about X-Team's future events.
-
-The first Mission and its set of three Bounties are already available to be collected:  
- ![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Watchman ID:** join \#s8-commit on Slack and present yourself in three sentences.  
- ![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **An Exquisite Fuel:** post a picture on \#s8-commit of your most unique source of motivation.  
- ![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **The Better After:** post on \#s8-commit a list of predictions for the future of humanity.
-
-### Bounty Drops
-
-To keep the rhythm going, during this Season you can expect a new bounty every Monday and Friday to give you that helpful boost to either start the week or enjoy your weekends. Sometimes they might even be a Mission or a chapter of the Legendary Bounties, so make sure to keep an eye out for them.
-
-The initial set has five Bounties for you to claim:
-
-![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Patch Your Flaws:** take a couple of hours to work on something on you that needs improvement.   
-![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Push Your Limits:** go the extra mile on that special unique passion you have.  
-![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Crush Your Excuses:** stop procrastinating on that thing you wanted to do and finish it.  
-![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Refactor Your Weaknesses:** join the \#club channel you least know about and challenge yourself.  
-![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Outperform:** become the best of something somewhere somehow in your own way.
-
-### Legendary Bounties
-
-Check out the Bounties page for more details on how to claim these bounties.
-
-These beautifully animated special Bounties are the flagship of the Season: collecting them will drive you through an interactive narrative intended to push you towards reaching higher and higher goals while also getting higher and higher rewards.
-
-_**Chapter One**_ will soon be available to be explored:
-
-![Chapter One: a taste of who we can become](../.gitbook/assets/legendary1.gif)
-
-### Create Your Own Bounties
-
-You can create private bounties to gamify and keep track of your personal and professional goals as well as create public bounties for the community to engage with and collect.
-
-* A Bounty shouldn't be too easy or pointless.
-* A Bounty should motivate someone to do something that energizes them or adds value to their life or the lives of other X-Teamers.
-* You can create up to 10 Bounties per Season.
-* **All Creator Bounties start at a value of 1 coin**, but once 3 people have claimed it, those 3 people will receive 2 coins & 1 Luna, _and_ the Bounty's value will increase to 2 coins for everyone as well.
-
-If you want to edit or remove your Bounty, please contact \#support-desk
-
-{% hint style="danger" %}
-Custom Public Bounties that don't fit these guidelines will be removed.
-{% endhint %}
-
-{% hint style="info" %}
-**How Bounties Work:** Every time you complete a Bounty, you will gain coins. These can be used in[ The Vault](https://xhq.x-team.com/vault) to purchase different kinds of Loot, from hats and notebooks to t-shirts and donations to charity, you should always have something to put your coins towards. New items are added to the Vault regularly \(see Vault Drop Tuesdays\), so be sure to check back often so you don't miss out on something awesome.
-{% endhint %}
+## 
 
 ## Houses
 
@@ -208,18 +150,70 @@ Here are some examples of Vault Perks redeemed last season:
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
-### Launch Days
-
-Every two months we will have an intimate special event to welcome the new additions to X-Team. During which each House will have two minutes to present a pitch in order to express to the newcomers why they should join their Houses and represent them in upcoming events.
-
-### Fireside: Houses
-
-![](../.gitbook/assets/banner.png)
-
-Over the course of this Season we will help each House to manage one special group call to grow their team spirit and personality in their own way. You can even use the Team Happy Hour category on Unleash+ to make it even more special. The Firesides will culminate in an All-Houses Fireside at the X-Summit 2021 in July.
-
 {% hint style="info" %}
 You can join a House by going to your [Profile ](https://xhq.x-team.com/profile)on XHQ and selecting it on the dropdown menu under the Community section. Don't forget to save the changes to confirm it. Make sure to join the \#houses-recruitment channel on Slack and/or ping your House Leader to be properly introducted to your Houses' communication channels and events.
+{% endhint %}
+
+## Bounties
+
+Bounties are personal challenges that you can take part in every Season designed to get you energized by doing more of what you love. They are like the achievements or trophies in your favourite video game, but in this case, the game is your life.
+
+You can "Favorite” or "Hide" Bounties to organize them in your own special way. Bounties also earn you coins for you to exchange for collectibles, experiences and charity donations at The Vault.
+
+{% hint style="warning" %}
+Rule: You can't claim multiple Bounties for the same action.
+{% endhint %}
+
+
+
+### Missions
+
+Missions are sets of connected Bounties with exclusive rewards once completed. They are available for a very limited amount of time and will sometimes give hints about X-Team's future events.
+
+The first Mission and its set of three Bounties are already available to be collected:  
+ ![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Watchman ID:** join \#s8-commit on Slack and present yourself in three sentences.  
+ ![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **An Exquisite Fuel:** post a picture on \#s8-commit of your most unique source of motivation.  
+ ![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **The Better After:** post on \#s8-commit a list of predictions for the future of humanity.
+
+### Bounty Drops
+
+To keep the rhythm going, during this Season you can expect a new bounty every Monday and Friday to give you that helpful boost to either start the week or enjoy your weekends. Sometimes they might even be a Mission or a chapter of the Legendary Bounties, so make sure to keep an eye out for them.
+
+The initial set has five Bounties for you to claim:
+
+![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Patch Your Flaws:** take a couple of hours to work on something on you that needs improvement.   
+![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Push Your Limits:** go the extra mile on that special unique passion you have.  
+![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Crush Your Excuses:** stop procrastinating on that thing you wanted to do and finish it.  
+![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Refactor Your Weaknesses:** join the \#club channel you least know about and challenge yourself.  
+![:bounties:](https://emoji.slack-edge.com/T0257R0RP/bounties/8ef773de1e0dc26d.png) **Outperform:** become the best of something somewhere somehow in your own way.
+
+### Legendary Bounties
+
+Check out the Bounties page for more details on how to claim these bounties.
+
+These beautifully animated special Bounties are the flagship of the Season: collecting them will drive you through an interactive narrative intended to push you towards reaching higher and higher goals while also getting higher and higher rewards.
+
+_**Chapter One**_ will soon be available to be explored:
+
+![Chapter One: a taste of who we can become](../.gitbook/assets/legendary1.gif)
+
+### Create Your Own Bounties
+
+You can create private bounties to gamify and keep track of your personal and professional goals as well as create public bounties for the community to engage with and collect.
+
+* A Bounty shouldn't be too easy or pointless.
+* A Bounty should motivate someone to do something that energizes them or adds value to their life or the lives of other X-Teamers.
+* You can create up to 10 Bounties per Season.
+* **All Creator Bounties start at a value of 1 coin**, but once 3 people have claimed it, those 3 people will receive 2 coins & 1 Luna, _and_ the Bounty's value will increase to 2 coins for everyone as well.
+
+If you want to edit or remove your Bounty, please contact \#support-desk
+
+{% hint style="danger" %}
+Custom Public Bounties that don't fit these guidelines will be removed.
+{% endhint %}
+
+{% hint style="info" %}
+**How Bounties Work:** Every time you complete a Bounty, you will gain coins. These can be used in[ The Vault](https://xhq.x-team.com/vault) to purchase different kinds of Loot, from hats and notebooks to t-shirts and donations to charity, you should always have something to put your coins towards. New items are added to the Vault regularly \(see Vault Drop Tuesdays\), so be sure to check back often so you don't miss out on something awesome.
 {% endhint %}
 
 ## The Vault
