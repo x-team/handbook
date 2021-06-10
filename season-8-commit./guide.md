@@ -39,7 +39,7 @@ _**Commit.**_
 
 ## Events
 
-![](../.gitbook/assets/2021.jpg)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 X-Team Events are one of the greatest ways to get a boost of energy during the season. Check out what is coming in the timeline above and make sure to subscribe to the[ ](https://calendar.google.com/calendar/u/2/r?cid=Y29tbXVuaXR5QHgtdGVhbS5jb20)[X-Team Community Calendar.](https://calendar.google.com/calendar/u/2?cid=Y29tbXVuaXR5QHgtdGVhbS5jb20)
 
