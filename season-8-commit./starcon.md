@@ -10,7 +10,7 @@ description: >-
 
 StarCon 2021 is a celebration of discovery. A month to be energized by your sense of wonder, by the invitations of the most mysterious unknowns and by our hunger for knowledge and adventure.
 
-{% embed url="https://youtu.be/u3Rw9OYTvro" %}
+{% embed url="https://www.youtube.com/watch?v=VqD9PbuwbGc" caption="Starcon Official Trailer" %}
 
 ##  VS: Typefighters
 
