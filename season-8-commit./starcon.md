@@ -53,7 +53,7 @@ Scarce options and not a lot of places to run to and hide. A powerful Xenomorph 
 
 Become the sole survivor in order to activate and use the only escape pod not damaged when the Watchman's Spaceship crashed into the Nostromo.
 
-The winner will also receive an exclusive vault item
+The winner will also receive an exclusive vault item.
 
 {% page-ref page="the-arena.md" %}
 
