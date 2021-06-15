@@ -16,7 +16,7 @@ GameCon 2021 is a celebration of game changers. A month to be filled with the en
 
 ![](../.gitbook/assets/screen-shot-2021-03-25-at-12.03.38-am.png)
 
-Climb to the top of Shadowcorp's well guarded TOWER and reclaim the best of all our futures.
+Climb to the top of Shadowcorp's well guarded **TOWER** and reclaim the best of all our futures.
 
 Upgrade yourself, defeat waves of enemies and climb to the top in our new async roguelike Slack game!
 

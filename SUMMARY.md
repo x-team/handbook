@@ -56,6 +56,7 @@
 * [The Tower](season-8-commit./the-tower.md)
 * [The Arena](season-8-commit./the-arena.md)
 * [Legends](season-8-commit./legends.md)
+* [StarCon](season-8-commit./starcon.md)
 
 ## Season 7: Fight To The End.
 

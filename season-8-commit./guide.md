@@ -67,6 +67,18 @@ A special celebration of gaming and the impact it had in our lives. During Gamec
 
 {% page-ref page="gamecon.md" %}
 
+### Legends
+
+![](../.gitbook/assets/legends_logo-4x.png)
+
+{% page-ref page="legends.md" %}
+
+### Starcon
+
+![](../.gitbook/assets/fae2fe3597c376680320195df03514d5.jpg)
+
+{% page-ref page="starcon.md" %}
+
 ## 
 
 ## Houses
