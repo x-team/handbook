@@ -49,7 +49,7 @@ X-Team Events are one of the greatest ways to get a boost of energy during the s
 
 ![](../.gitbook/assets/screen-shot-2021-02-22-at-10.50.02-pm.png)
 
-The **Season 8 Expansion Pack** will be available at the **Vault Drop Tuesday** - **April 27th.** We said we'd make X-Team collectibles more accessible, and now it's time. Four exclusive new collectibles. Two common items and two rare items in a epic collector's box... for no cost in coins or otherwise**.**
+The **Season 8 Expansion Pack** will release an all-new set of Common and Rare items to The Vault toward the end of the season, so get hyped.
 
 ### X-Marathon
 
