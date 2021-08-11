@@ -10,6 +10,6 @@ Each story should have a worthy ending. The tale of your X-Outpost should be no 
 * have participants fill out the feedback form ASAP
 * make sure the balances in Splitwise get settled
 * make sure people have access to the gDrive folder where they can upload their photos/videos of the outpost
-* remind [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) to invite you to the exclusive guardian channel
+* remind [@Luis](https://x-team.slack.com/messages/ULCRZLN95) to invite you to the exclusive guardian channel
 * send a message to \#xhq that the Outpost is now over, that everyone survived, and how awesome it was. Supply the link to the album and a nice photo of the group. Buy yourself a good beer/whiskey/wine/KFC bucket - you deserve it!
 

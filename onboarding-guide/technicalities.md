@@ -16,7 +16,7 @@ We're the ones who help create opportunities throughout the community for you to
 
 We have teams for marketing, vetting, business development, community, and finance.
 
-Unsure of who to talk to on the core team for help? Start with [@ben](https://x-team.slack.com/messages/D23Q0MCQ6); he will either help you himself or direct you to the right person.
+Unsure of who to talk to on the core team for help? Start with [@Luis](https://x-team.slack.com/messages/ULCRZLN95); he will either help you himself or direct you to the right person.
 
 At the time of this writing, the Core Team includes:
 
@@ -71,7 +71,7 @@ See, there are two distinct objectives when writing these X-Journals.
 
   **Basically, this second journal is here so we know what is going on and can step in and help solve problems before they evolve to their final form.**
 
-And if you are worried about how “complaining” is going to come across — no one in X-Team has ever landed in hot water for expressing objective criticism. Obviously, it has to be professionally done — like putting it in this journal and/or messaging [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) and/or your account manager directly, but you will definitely not be penalized for it. If anything, “comparing notes” from several X-Teamers on a project could be helpful in potentially improving the work environment for everyone.
+And if you are worried about how “complaining” is going to come across — no one in X-Team has ever landed in hot water for expressing objective criticism. Obviously, it has to be professionally done — like putting it in this journal and/or messaging [@Luis](https://x-team.slack.com/messages/ULCRZLN95) and/or your account manager directly, but you will definitely not be penalized for it. If anything, “comparing notes” from several X-Teamers on a project could be helpful in potentially improving the work environment for everyone.
 
 As a final note, if you're working on an internal project, you only need one journal. Don't duplicate it, in that case.
 
@@ -189,7 +189,7 @@ When you click it, you’ll go through a 6-stage process.
 
 After these steps, there is a short how-are-we-feeling survey to be filled out, and then you're truly done. As a little guideline for the survey smileys, their meanings are as follows:  
 🙂 - "Life is wonderful! There may be some little issues here and there, but nothing I can't handle."  
-😑 - "Hmm, got some stuff going on here I'd like to talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) about..."  
+😑 - "Hmm, got some stuff going on here I'd like to talk to [@Luis](https://x-team.slack.com/messages/ULCRZLN95) about..."  
 🙁- "Somebody help me!"
 
 ## Unleash+ <a id="unleash-budget"></a>
