@@ -100,5 +100,5 @@ Current examples thereof are:
 * [Movie Club](https://x-team.slack.com/messages/C521FJLVC/) — [\#movie-club](https://x-team.slack.com/messages/C521FJLVC/)
 * Just type "club" into Slack's channels list to find more.
 
-As with anything else community-related, if you would like to start another club, or if you just have an idea for one, talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6).
+As with anything else community-related, if you would like to start another club, or if you just have an idea for one, talk to [@Luis](https://x-team.slack.com/messages/ULCRZLN95).
 

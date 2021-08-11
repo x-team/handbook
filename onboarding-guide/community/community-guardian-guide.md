@@ -26,7 +26,7 @@ But also know that the [Core Team](community-guardian-guide.md) is here to suppo
 * **Want help keeping your group engaged?** If your group is turning into a ghost town, we can use our years of expertise to help you find ways to spark the fire again for your group.
 * **Want your group to utilize the Unleash Budget in a new way?** We're always open to new ways for X-Teamers to use the Unleash+ Budget to reimburse to help them grow around their goals and passions.
 
-Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) on Slack to get help implementing any of those ideas and get your channel created and running.
+Ping [@Luis](https://x-team.slack.com/messages/ULCRZLN95) on Slack to get help implementing any of those ideas and get your channel created and running.
 
 ### X-Outpost Guardians
 
@@ -91,7 +91,7 @@ A great challenge has these characteristics:
 
 Other types of challenges include Tournaments, which we found [Challonge.com](http://challonge.com) great for registering challengers and creating tournament brackets.
 
-Challenges are even more effective when there's a reward involved. Ping [@ben](https://x-team.slack.com/messages/D23Q0MCQ6) on Slack to get support for x-coins ![](../../.gitbook/assets/coin.png) rewards or a charitable donation reward.
+Challenges are even more effective when there's a reward involved. Ping [@Luis](https://x-team.slack.com/messages/ULCRZLN95) on Slack to get support for x-coins ![](../../.gitbook/assets/coin.png) rewards or a charitable donation reward.
 
 ### 5. Group challenges
 
