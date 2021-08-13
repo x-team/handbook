@@ -32,7 +32,7 @@ If you have an idea for a new bounty, let [@Luis](https://x-team.slack.com/messa
 
 #### Clubs
 
-Clubs are channels with specialized topics, where there is at least some degree of organized activity. Clubs occasionally run activities, where it is also possible to earn [X-Coins]().
+Clubs are channels with specialized topics, where there is at least some degree of organized activity. Clubs occasionally run activities, where it is also possible to earn [X-Coins](./).
 
 Current examples thereof are:
 

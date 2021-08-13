@@ -31,12 +31,12 @@ At the time of this writing, the Core Team includes:
 * Paul McCrodden, Internal Product Owner
 * Gosia Jezierska, Internal Project Manager
 * Jorge Tirado, Creative Director
+* Cleo Jardim, Community Manager
 * David Roberts, Cavalry Manager
 * * Caleb Brown, Recruiter
   * Gian Franco Vitola, Recruiter
   * Jomar Garcia, Recruiter
   * Luis Augusto, Recruiter
-  * Leonardo Jardim, Recruiter
   * Jonathan Ortiz, Recruiter
   * Andrew Stratu, Recruiter
 

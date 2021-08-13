@@ -53,7 +53,7 @@ The **Season 8 Expansion Pack** will release an all-new set of Common and Rare i
 
 ### X-Marathon
 
-![](../.gitbook/assets/s8blast-x-marathon.png)
+![](../.gitbook/assets/s8blast-x-marathon%20%281%29.png)
 
 A three week long event in which each House has to rally their members to complete themed marathons. Even X-Teamers under strict lockdowns can participate with treadmills, stationary bicycles and other devices that don't require leaving your home. Alongside the main event we will also have some cool side activities and everyone can contribute to their House in their own way.
 

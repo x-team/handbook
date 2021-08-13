@@ -22,7 +22,7 @@ More will continue to be released over time, but here are the Season 7 Launch Da
 
 Your House decides the next animated pixelart ****background theme to be featured on [**X-Team Radio**](https://radio.x-team.com), ****enjoyed by tens of thousands of developers around the world.
 
-![](../.gitbook/assets/perk_radio_2x%20%281%29.gif)
+![](../.gitbook/assets/perk_radio_2x%20%281%29%20%281%29.gif)
 
 ## **Oculus 2 Sweepstakes \(75 Luna\)**
 
