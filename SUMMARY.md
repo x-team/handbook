@@ -5,7 +5,7 @@
   * [Core Values](about/core-values.md)
   * [Good Teamplay](about/teamplay.md)
 * [Onboarding Guide](onboarding-guide/README.md)
-  * [Technicalities](onboarding-guide/technicalities.md)
+  * [Technicalities](onboarding-guide/technicalities/technicalities.md)
   * [Community](onboarding-guide/community/README.md)
     * [Community Overview](onboarding-guide/community/community.md)
     * [Community Guardian Guide](onboarding-guide/community/community-guardian-guide.md)
