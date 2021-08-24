@@ -2,7 +2,7 @@
 
 X-Teamers are incredibly diverse in so many ways, from skillsets to beliefs and beyond, but our core values are a baseline of attributes that we all share. They are the most important characteristics we look for before welcoming anyone into our community, and they are critical to making X-Team successful for many years to come. Thus, we decided to write down these characteristics and personal values, so there's never any doubt what we're all about.
 
-## Keep Moving Forward. <a id="active-communication"></a>
+## Keep Moving Forward <a id="active-communication"></a>
 
 "Keep Moving Forward" is more than a tagline for us, it's our \#1 value, it's the heart of who we are and what we believe. Since the beginning, the people we've always wanted to be surrounded by are those who are always actively driving all aspects of their life forward. It's inspiring, it's motivating, and it's an energy unlike any other when you gather people from all corners of the world who share this core value.
 
@@ -24,7 +24,7 @@ Here are more ways we stay proactive with our work:
 * **Be Iterative/Reflective:** Everyone makes mistakes. The best ones reflect on them and progress in the next iteration. Take the time to reflect, learn and stay humble — no one’s perfect, we are always evolving and becoming better than we were yesterday.
 * **Constantly Improve:** Be hungry for more knowledge and expertise. Improve your skills and craft through courses, lectures, going to meetups and conferences. Keep the saw sharp. This industry is constantly changing, and only those who change alongside it will have the most rewarding careers.
 
-## Communicate Actively. <a id="active-communication"></a>
+## Communicate Actively <a id="active-communication"></a>
 
 ### Building Trust
 
@@ -45,7 +45,7 @@ There are four things that can help you maintain and strengthen that trust every
 
 ### Feedback
 
-Our community places a huge value on both letting people know they're appreciated and on giving constructive criticism when necessary. Everyone loves giving and getting high-fives, but if there is something that can be improved, that should be communicated as well. You will _**never**_ get in trouble for giving constructive criticism, and if you need tips on how to do it with one of our partners, talk to your manager. However, if you'd still prefer to remain anonymous, talk to [@ben](https://x-team.slack.com/messages/D23Q0MCQ6), and he'll pass your concerns on without mentioning who they're from.
+Our community places a huge value on both letting people know they're appreciated and on giving constructive criticism when necessary. Everyone loves giving and getting high-fives, but if there is something that can be improved, that should be communicated as well. You will _**never**_ get in trouble for giving constructive criticism, and if you need tips on how to do it with one of our partners, talk to your manager. However, if you'd still prefer to remain anonymous, talk to [@Luis](https://x-team.slack.com/messages/ULCRZLN95), and he'll pass your concerns on without mentioning who they're from.
 
 Another feedback outlet is the questionnaire that's part of the invoicing process.
 

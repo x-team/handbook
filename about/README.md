@@ -18,17 +18,17 @@ What we are is a community. Sure, there's the Core Team that makes sure things r
 
 Therefore, especially if these are your first days with X-Team, breath in, breathe out, and relax. If you don't know yet what's expected of you, that likely means that you haven't had your internal and partner onboarding meets yet. No worries, ping [@Luis](https://x-team.slack.com/messages/ULCRZLN95) and he'll help you clear everything up.
 
-Remember, _you will receive all the information you need to get started._ You don't have to worry about what's expected of you if nobody has told you. You'll have plenty of work soon enough ;\) Meanwhile, enjoy our Slack channels, meet some people, and have a good time.
+Remember, _you will receive all the information you need to get started._ there should be a welcome message waiting for you in your journal channel (which you should've been auto-added to), and your account manager (the person who introduced you to the client you'll be working with) will ping you soon as well. You'll have plenty of work soon enough ;\) Meanwhile, enjoy our Slack channels, meet some people, and have a good time.
 
 You have to know where you're coming from to know where you're going, however, so we give you:
 
 ## X-Team's History — The Short Version
 
-X-Team's decade-long history begins in 2006 when the company's leaders discovered that bringing people together from around the world to create great products together was the way of the future.
+X-Team's 15+year-long history begins in 2006 when the company's leaders discovered that bringing people together from around the world to create great products together was the way of the future.
 
 Biz Stone, Twitter's co-founder, confirmed that when he said about X-Team: "These guys are from the future." Twitter was one of X-Team's earliest partners, looking for front-end developers to bring its vision to life.
 
-Over the last decade, X-Team has grown to become one of the leading companies in the talent sourcing space, providing developers from 30+ countries to leading companies around the world.
+Over the last decade, X-Team has grown to become one of the leading companies in the talent sourcing space, providing developers from 50+ countries to leading companies around the world.
 
 Since 2014, the company has been redefining what it means to be a high-end developer community, putting more focus on the growth and wellbeing of developers than any other company in the space.
 
