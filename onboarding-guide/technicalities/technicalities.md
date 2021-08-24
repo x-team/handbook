@@ -4,7 +4,7 @@ Despite the general aversion to systematization without reason, there are some p
 
 ## The Core Team <a id="coreteam"></a>
 
-![](../.gitbook/assets/coreteam.jpg)
+![](../../.gitbook/assets/coreteam.jpg)
 
 You'll see us reference "the Core Team" several times throughout this guide. This is referring to the team that keeps X-Team running. That's some of us above, hanging out in Thailand, envisioning the future of X-Team.
 
@@ -16,10 +16,10 @@ At the time of this writing, the Core Team consists of the following people:
 
 **Senior Management**
 
-CEO: Ryan Chartrand  
-COO: Brad Giblin  
-CBO: Jake Foley  
-CTO: Josh Johnston  
+- CEO: Ryan Chartrand  
+- COO: Brad Giblin  
+- CBO: Jake Foley  
+- CTO: Josh Johnston  
 
 **Creative**
   - Creative Director: Jorge Tirado
@@ -238,7 +238,7 @@ When you click it, you’ll go through a pretty self-explanatory process.
 
 ## Unleash+ <a id="unleash-budget"></a>
 
-![](../.gitbook/assets/unleash.jpg)
+![](../../.gitbook/assets/unleash.jpg)
 
 You didn't think we'd forget about this, did you? [This jewel](http://xhq.x-team.com/unleash), **reserved for X-Teamers on an internal or partner project, and for core-teamers**, is the equivalent of USD 2,500 per _calendar_ year, which is there to keep your skills current, your body fit, your mind sane, and your entertainment desires tickled. There are several categories of expenses you can use your Unleash Budget for with the general limit being a cap of $100/month/category unless [otherwise specified in the category description](http://xhq.x-team.com/unleash).
 There are two exceptions to the category limits:
@@ -258,7 +258,7 @@ _In case you would like to see some real-life examples, head over to \#courses a
 
 ## X-Coins & The Vault
 
-![](../.gitbook/assets/vault.png)
+![](../../.gitbook/assets/vault.png)
 
 No, we haven't gone ICO-crazy. But since we're talking about perks, here's another. For conqering bounties, you will be awarded x-coins ![](../.gitbook/assets/coin.png), which you can trade in for swag of various rarity levels.
 
