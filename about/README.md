@@ -18,7 +18,7 @@ What we are is a community. Sure, there's the Core Team that makes sure things r
 
 Therefore, especially if these are your first days with X-Team, breath in, breathe out, and relax. If you don't know yet what's expected of you, that likely means that you haven't had your internal and partner onboarding meets yet. No worries, ping [@Luis](https://x-team.slack.com/messages/ULCRZLN95) and he'll help you clear everything up.
 
-Remember, _you will receive all the information you need to get started._ there should be a welcome message waiting for you in your journal channel (which you should've been auto-added to), and your account manager (the person who introduced you to the client you'll be working with) will ping you soon as well. You'll have plenty of work soon enough ;\) Meanwhile, enjoy our Slack channels, meet some people, and have a good time.
+Remember, _you will receive all the information you need to get started._ there should be a welcome message waiting for you in your journal channel \(which you should've been auto-added to\), and your account manager \(the person who introduced you to the client you'll be working with\) will ping you soon as well. You'll have plenty of work soon enough ;\) Meanwhile, enjoy our Slack channels, meet some people, and have a good time.
 
 You have to know where you're coming from to know where you're going, however, so we give you:
 

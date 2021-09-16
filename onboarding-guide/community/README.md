@@ -1,6 +1,6 @@
 # Community
 
-![](../../.gitbook/assets/community.jpg)
+![](../../.gitbook/assets/community%20%281%29.jpg)
 
 ## Community
 

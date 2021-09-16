@@ -5,7 +5,7 @@
   * [Core Values](about/core-values.md)
   * [Good Teamplay](about/teamplay.md)
 * [Onboarding Guide](onboarding-guide/README.md)
-  * [Technicalities](onboarding-guide/technicalities/technicalities.md)
+  * [Technicalities](onboarding-guide/technicalities.md)
   * [Community](onboarding-guide/community/README.md)
     * [Community Overview](onboarding-guide/community/community.md)
     * [Community Guardian Guide](onboarding-guide/community/community-guardian-guide.md)
@@ -57,6 +57,7 @@
 * [The Arena](season-8-commit./the-arena.md)
 * [Legends](season-8-commit./legends.md)
 * [StarCon](season-8-commit./starcon.md)
+* [X-Summit 2021](season-8-commit./x-summit-2021.md)
 
 ## Season 7: Fight To The End.
 

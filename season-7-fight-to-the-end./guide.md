@@ -91,7 +91,7 @@ _Your House gets a sweepstakes for an Oculus 2 \(1 winner\). Your House decides 
 **X-Team Radio Theme \(100 Luna\)**  
 _Your House decides the next X-Team Radio background theme._
 
-![](../.gitbook/assets/perk_radio_2x%20%281%29%20%281%29.gif)
+![](../.gitbook/assets/perk_radio_2x%20%281%29%20%281%29%20%281%29.gif)
 {% endtab %}
 {% endtabs %}
 

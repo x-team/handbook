@@ -55,11 +55,11 @@ Finally, twice a year, we send out a big request for feedback to all X-Teamers -
 
 The remote teams that last the longest protect and promote empathy at all times.
 
-When you communicate primarily through text, it's very difficult to know what others are going through. It also becomes very easy to react to others emotionally, negatively or overly critical. 
+When you communicate primarily through text, it's very difficult to know what others are going through. It also becomes very easy to react to others emotionally, negatively or overly critical.
 
-**Empathy is about stepping into the shoes of your teammates before giving feedback or engaging in discussion.** 
+**Empathy is about stepping into the shoes of your teammates before giving feedback or engaging in discussion.**
 
-When we do this, we are reminded that communication is about more than knee-jerk text messages ****that are easy to send; instead it's about being thoughtful, respectful and taking the time to respond as if that response was coming to you and how you'd want to hear it.
+When we do this, we are reminded that communication is about more than knee-jerk text messages _\*\*_that are easy to send; instead it's about being thoughtful, respectful and taking the time to respond as if that response was coming to you and how you'd want to hear it.
 
 **Empathy quickly erodes on a remote team when you don't make the effort to 'inject' empathy into your team regularly**. This is primarily done through jumping on a call with your teammates to check in on everyone and have more human interaction so you can **all be reminded that you're a team and not against each other.**
 
