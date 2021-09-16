@@ -14,7 +14,9 @@ Behold our most epic livestream ever as we celebrated the kickoff to the X-Summi
 
 Featuring a live performance [**Michael Schack**](https://michaelschackmusic.com/), one of the world's most well-known E-drummers, as well as plenty more which you'll find below.
 
-{% embed url="https://vimeo.com/605845546/a3c1089e4a" %}
+{% embed url="https://vimeo.com/606755626" %}
+
+
 
 ## Rebellious \(iOS/Android\)
 
