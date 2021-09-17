@@ -36,7 +36,7 @@ In _Rebellious_, you can:
 
 Watch the _Rebellious_ opening cinematic:
 
-{% embed url="https://vimeo.com/606807432" %}
+{% embed url="https://www.youtube.com/watch?v=Z8tMWZpXvzQ" %}
 
 
 
