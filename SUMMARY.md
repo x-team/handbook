@@ -57,7 +57,8 @@
 * [The Arena](season-8-commit./the-arena.md)
 * [Legends](season-8-commit./legends.md)
 * [StarCon](season-8-commit./starcon.md)
-* [X-Summit 2021](season-8-commit./x-summit-2021.md)
+* [X-Summit 2021](season-8-commit./x-summit-2021/README.md)
+  * [Vault Drops](season-8-commit./x-summit-2021/vault-drops.md)
 
 ## Season 7: Fight To The End.
 
